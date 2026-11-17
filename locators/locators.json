@@ -1,0 +1,30 @@
+
+{
+    
+    "HomePage": {
+        
+        "newCarsMenu": "//div[normalize-space()='NEW CARS']",
+        "findNewCarsMenu": "text=Find New Cars"
+        
+    },
+
+    "BrandCarsPage":{
+        
+        "brandCarsTitle": "//header[1]/h1[not(contains(text(),'New'))]",
+        "carNames": "//div/div/div/div/a/h3",
+        "carPrices": "//div/div/div[3]/div/span/span[1]"
+
+    },
+
+    "NewCarsPage": {
+        
+        "newCarsHeading": "(//h1[normalize-space()='New Cars'])[1]",
+        "viewMoreBrandsButton": "//div[text()='View More Brands']",
+        "bmwCarTab": "(//div[normalize-space()='BMW'])[1]",
+        "hondaCarTab": "(//div[normalize-space()='Honda'])[1]",
+        "hyundaiCarTab": "(//div[normalize-space()='Hyundai'])[1]",
+        "toyotaCarTab": "(//div[normalize-space()='Toyota'])[1]"
+        
+    }
+    
+}

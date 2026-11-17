@@ -1,0 +1,958 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - separator [ref=e5]
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - link "CarWale" [ref=e11] [cursor=pointer]:
+        - /url: /
+        - img "CarWale" [ref=e12] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - generic [ref=e16] [cursor=pointer]: NEW CARS
+          - listitem [ref=e17]:
+            - generic [ref=e18] [cursor=pointer]: USED CARS
+          - listitem [ref=e19]:
+            - generic [ref=e20] [cursor=pointer]: REVIEWS & NEWS
+      - generic [ref=e21]:
+        - generic [ref=e26] [cursor=pointer]:
+          - textbox "Input field" [ref=e27]
+          - img [ref=e29] [cursor=pointer]
+        - img [ref=e33] [cursor=pointer]
+        - img [ref=e37]
+        - img [ref=e40] [cursor=pointer]
+  - generic [ref=e44]:
+    - iframe [ref=e48]:
+      - link [ref=f1e2] [cursor=pointer]:
+        - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjstUHb1Kie3gcdBPTsRiw5yqSEP3B48ynPrUdX5SOtMQ56_E963XxkB4J1DhNwNxt6ZEzfz2OXrP2WgPlM5i_82XNtpnLd2RH2Ov5Q23JfHO-gYeInAXl892IxyOzLO8Rar_psmoYkzwOO97SQcNLlna8_bmLf9kICP7cdYewnAFpxlwesoGN2hPWeIr6mur8COxc_o_mZjSW8y_esYnlJGybkZ-dwALSPEOTlhh7JFVDghVgdAoYfWWYDchct24fBmJawdtsRNNeymfhjAXYJnh2OmYAjjaj7d85dgH0NZPf1QTzGpESl5OOb6ypr8miagEffnffMD9Z0EOdTB2eXeWG7P5uUvo_BqMbQMHz11EaYlZ2qvbRQWtQtOy14rTT5G8cSWAu23Cqum91L7rARwIsRLa3ulP&sai=AMfl-YQKS7Ai27s_vwWMi82xS3hpqi857OSYdRYfSEDOuv9xXgGolPV47pdd1sweNl6VBua5qi6HBPucOCiYfO7eZQrz0p2fJXv-FA4uytqp_E6HCjOfEq5GxtPODxJBvlAp6owwmE11TEs8Tb-4ZXCr7tnlS-JGmytZkUPKCKsX6A-rtki-DVgZuh2MmLt4uMhLGpdBlj97-nINieaojuKlXXh0XCNhgxIiPgqiKwfzPN2QadmSw3EQVtcRRjELFYuXyGftmoQwhxMF5Dx6f0G0Wfw&sig=Cg0ArKJSzK_GJvrLcdNJ&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.youtube.com/CarWale
+    - generic [ref=e50]:
+      - heading "BMW Cars" [level=1] [ref=e52]
+      - generic [ref=e54]:
+        - generic [ref=e56]:
+          - generic [ref=e57]: BMW car price starts at Rs 46.90 Lakh for the cheapest model which is 2 Series Gran Coupe and the price of most expensive model, which is XM starts at Rs 2.60 Crore. BMW offers 22 car models in India, including 9 cars in SUV category, 8 cars in Sedan category, 1 car in Convertible category, 4 cars in Coupe category.
+          - generic [ref=e58]:
+            - paragraph [ref=e59]: Bavarian Motor Works (Bayerische Motoren Worke in German) or BMW is a German luxury automobile manufacturer that was founded back in 1916. Headquartered in Munich, the brand made its debut in India in 2006. The Indian arm of the company has its headquarters in Gurugram while their factory is located in Chennai.
+            - paragraph [ref=e60]: BMW India has a wide range of products ranging from sedan to SUV’s and even sports-cars. The model line-up includes the 3 Series, 5 Series, 7 Series, X1, X3, X4, X5, X7, 3 Series GT, 6 Series GT. Models from the M and Z range including the M2 Competition, M4 Coupe, M5 Competition, M760 Li and the Z4 are CBU units imported into the country.
+            - paragraph [ref=e61]: Premium small car brand Mini also works under the BMW India division, similar to the Motorrad division. In the near future, BMW plans to launch models including the all-new X6, BMW i8 Roadster and the 8 Series. These models could also be displayed at the 2020 Auto Expo ahead of their launch.
+          - generic [ref=e62]:
+            - heading "BMW Cars Price List (September 2025) in India" [level=2] [ref=e63]
+            - generic [ref=e64]:
+              - text: "BMW car price starts at Rs. 46.90 Lakh and goes upto Rs. 2.60 Crore (Avg. ex-showroom). The prices for the top 5 popular BMW Cars are:"
+              - link "BMW 2 Series Gran Coupe Price" [ref=e65] [cursor=pointer]:
+                - /url: /bmw-cars/2-series-gran-coupe/#variants
+              - text: is Rs. 46.90 Lakh,
+              - link "BMW M340i Price" [ref=e66] [cursor=pointer]:
+                - /url: /bmw-cars/m340i/#variants
+              - text: is Rs. 75.90 Lakh,
+              - link "BMW 3 Series LWB Price" [ref=e67] [cursor=pointer]:
+                - /url: /bmw-cars/3-series-lwb/#variants
+              - text: is Rs. 62.00 Lakh,
+              - link "BMW 5 Series Price" [ref=e68] [cursor=pointer]:
+                - /url: /bmw-cars/5-series/#variants
+              - text: is Rs. 75.90 Lakh and
+              - link "BMW X3 Price" [ref=e69] [cursor=pointer]:
+                - /url: /bmw-cars/x3/#variants
+              - text: is Rs. 75.80 Lakh.
+            - table [ref=e72]:
+              - rowgroup [ref=e73]:
+                - row "MODEL PRICE" [ref=e74]:
+                  - cell "MODEL" [ref=e75]
+                  - cell "PRICE" [ref=e76]
+              - rowgroup [ref=e77]:
+                - row "BMW 2 Series Gran Coupe Rs. 46.90 Lakh" [ref=e78]:
+                  - cell "BMW 2 Series Gran Coupe" [ref=e79]
+                  - cell "Rs. 46.90 Lakh" [ref=e80]
+                - row "BMW M340i Rs. 75.90 Lakh" [ref=e81]:
+                  - cell "BMW M340i" [ref=e82]
+                  - cell "Rs. 75.90 Lakh" [ref=e83]
+                - row "BMW 3 Series LWB Rs. 62.00 Lakh" [ref=e84]:
+                  - cell "BMW 3 Series LWB" [ref=e85]
+                  - cell "Rs. 62.00 Lakh" [ref=e86]
+                - row "BMW 5 Series Rs. 75.90 Lakh" [ref=e87]:
+                  - cell "BMW 5 Series" [ref=e88]
+                  - cell "Rs. 75.90 Lakh" [ref=e89]
+                - row "BMW X3 Rs. 75.80 Lakh" [ref=e90]:
+                  - cell "BMW X3" [ref=e91]
+                  - cell "Rs. 75.80 Lakh" [ref=e92]
+                - row "BMW X5 Rs. 1.00 Crore" [ref=e93]:
+                  - cell "BMW X5" [ref=e94]
+                  - cell "Rs. 1.00 Crore" [ref=e95]
+                - row "BMW M5 Rs. 1.99 Crore" [ref=e96]:
+                  - cell "BMW M5" [ref=e97]
+                  - cell "Rs. 1.99 Crore" [ref=e98]
+                - row "BMW iX1 Rs. 66.90 Lakh" [ref=e99]:
+                  - cell "BMW iX1" [ref=e100]
+                  - cell "Rs. 66.90 Lakh" [ref=e101]
+                - row "BMW X1 Rs. 51.50 Lakh" [ref=e102]:
+                  - cell "BMW X1" [ref=e103]
+                  - cell "Rs. 51.50 Lakh" [ref=e104]
+                - row "BMW M4 Rs. 1.56 Crore" [ref=e105]:
+                  - cell "BMW M4" [ref=e106]
+                  - cell "Rs. 1.56 Crore" [ref=e107]
+                - row "BMW 7 Series Rs. 1.84 Crore" [ref=e108]:
+                  - cell "BMW 7 Series" [ref=e109]
+                  - cell "Rs. 1.84 Crore" [ref=e110]
+                - row "BMW Z4 Rs. 92.90 Lakh" [ref=e111]:
+                  - cell "BMW Z4" [ref=e112]
+                  - cell "Rs. 92.90 Lakh" [ref=e113]
+                - row "BMW X7 Rs. 1.31 Crore" [ref=e114]:
+                  - cell "BMW X7" [ref=e115]
+                  - cell "Rs. 1.31 Crore" [ref=e116]
+                - row "BMW M8 Rs. 2.44 Crore" [ref=e117]:
+                  - cell "BMW M8" [ref=e118]
+                  - cell "Rs. 2.44 Crore" [ref=e119]
+                - row "BMW M2 Rs. 1.03 Crore" [ref=e120]:
+                  - cell "BMW M2" [ref=e121]
+                  - cell "Rs. 1.03 Crore" [ref=e122]
+                - row "BMW XM Rs. 2.60 Crore" [ref=e123]:
+                  - cell "BMW XM" [ref=e124]
+                  - cell "Rs. 2.60 Crore" [ref=e125]
+                - row "BMW iX1 LWB Rs. 49.00 Lakh" [ref=e126]:
+                  - cell "BMW iX1 LWB" [ref=e127]
+                  - cell "Rs. 49.00 Lakh" [ref=e128]
+                - row "BMW i4 Rs. 72.50 Lakh" [ref=e129]:
+                  - cell "BMW i4" [ref=e130]
+                  - cell "Rs. 72.50 Lakh" [ref=e131]
+                - row "BMW i7 Rs. 2.05 Crore" [ref=e132]:
+                  - cell "BMW i7" [ref=e133]
+                  - cell "Rs. 2.05 Crore" [ref=e134]
+                - row "BMW X4 M40i Rs. 96.20 Lakh" [ref=e135]:
+                  - cell "BMW X4 M40i" [ref=e136]
+                  - cell "Rs. 96.20 Lakh" [ref=e137]
+                - row "BMW iX Rs. 1.21 Crore" [ref=e138]:
+                  - cell "BMW iX" [ref=e139]
+                  - cell "Rs. 1.21 Crore" [ref=e140]
+                - row "BMW i5 Rs. 1.20 Crore" [ref=e141]:
+                  - cell "BMW i5" [ref=e142]
+                  - cell "Rs. 1.20 Crore" [ref=e143]
+        - button "...more" [ref=e144] [cursor=pointer]
+    - generic [ref=e145]:
+      - generic [ref=e147]:
+        - heading "BMW Car Models" [level=2] [ref=e149]
+        - generic [ref=e150]:
+          - generic [ref=e153]:
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - img [ref=e156]
+                - generic [ref=e158]: Filter By
+              - generic [ref=e160]:
+                - generic [ref=e162] [cursor=pointer]: Make
+                - generic [ref=e164] [cursor=pointer]: Budget
+                - generic [ref=e166] [cursor=pointer]: Body Type
+                - generic [ref=e167] [cursor=pointer]:
+                  - generic [ref=e168] [cursor=pointer]: More Filter
+                  - img [ref=e170] [cursor=pointer]
+            - generic [ref=e173]:
+              - img [ref=e174]
+              - generic [ref=e176]: Sort by
+              - generic [ref=e179]:
+                - combobox "Select field" [ref=e180] [cursor=pointer]:
+                  - option "Select option" [disabled]
+                  - option "Popularity" [selected]
+                  - option "Price - Low to High"
+                  - option "Price - High to Low"
+                - img
+          - list [ref=e182]:
+            - listitem [ref=e183]:
+              - generic [ref=e186]:
+                - link "BMW 2 Series Gran Coupe" [ref=e187] [cursor=pointer]:
+                  - /url: /bmw-cars/2-series-gran-coupe/
+                  - img "BMW 2 Series Gran Coupe" [ref=e189] [cursor=pointer]
+                - generic [ref=e190]:
+                  - generic [ref=e192]:
+                    - generic [ref=e194]:
+                      - generic [ref=e195]:
+                        - img "rating icon"
+                      - paragraph [ref=e196]:
+                        - text: "4.9"
+                        - generic [ref=e197]: /5
+                    - generic [ref=e199]: 8 Ratings
+                  - link "BMW 2 Series Gran Coupe" [ref=e200] [cursor=pointer]:
+                    - /url: /bmw-cars/2-series-gran-coupe/
+                    - heading "BMW 2 Series Gran Coupe" [level=3] [ref=e201] [cursor=pointer]:
+                      - text: BMW 2 Series Gran Coupe
+                      - img [ref=e202] [cursor=pointer]
+                  - generic [ref=e204]:
+                    - generic [ref=e205]: 16 kmpl
+                    - generic [ref=e206]: "|"
+                    - generic [ref=e207]: 154 bhp
+                  - generic [ref=e209]:
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: Rs. 46.90 Lakh
+                      - generic [ref=e212]: onwards
+                    - generic [ref=e214]: Avg. Ex-Showroom price
+                  - generic [ref=e217] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e218]:
+              - generic [ref=e221]:
+                - link "BMW M340i" [ref=e222] [cursor=pointer]:
+                  - /url: /bmw-cars/m340i/
+                  - img "BMW M340i" [ref=e224] [cursor=pointer]
+                - generic [ref=e225]:
+                  - generic [ref=e227]:
+                    - generic [ref=e229]:
+                      - generic [ref=e230]:
+                        - img "rating icon"
+                      - paragraph [ref=e231]:
+                        - text: "4.8"
+                        - generic [ref=e232]: /5
+                    - generic [ref=e234]: 108 Ratings
+                  - link "BMW M340i" [ref=e235] [cursor=pointer]:
+                    - /url: /bmw-cars/m340i/
+                    - heading "BMW M340i" [level=3] [ref=e236] [cursor=pointer]:
+                      - text: BMW M340i
+                      - img [ref=e237] [cursor=pointer]
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: 5 Star Safety
+                    - generic [ref=e241]: "|"
+                    - generic [ref=e242]: 13 kmpl
+                    - generic [ref=e243]: "|"
+                    - generic [ref=e244]: 369 bhp
+                  - generic [ref=e246]:
+                    - generic [ref=e247]:
+                      - generic [ref=e248]: Rs. 75.90 Lakh
+                      - generic [ref=e249]: onwards
+                    - generic [ref=e251]: Avg. Ex-Showroom price
+                  - generic [ref=e254] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e255]:
+              - generic [ref=e258]:
+                - link "BMW 3 Series LWB" [ref=e259] [cursor=pointer]:
+                  - /url: /bmw-cars/3-series-lwb/
+                  - img "BMW 3 Series LWB" [ref=e261] [cursor=pointer]
+                - generic [ref=e262]:
+                  - generic [ref=e264]:
+                    - generic [ref=e266]:
+                      - generic [ref=e267]:
+                        - img "rating icon"
+                      - paragraph [ref=e268]:
+                        - text: "4.8"
+                        - generic [ref=e269]: /5
+                    - generic [ref=e271]: 13 Ratings
+                  - link "BMW 3 Series LWB" [ref=e272] [cursor=pointer]:
+                    - /url: /bmw-cars/3-series-lwb/
+                    - heading "BMW 3 Series LWB" [level=3] [ref=e273] [cursor=pointer]:
+                      - text: BMW 3 Series LWB
+                      - img [ref=e274] [cursor=pointer]
+                  - generic [ref=e277]: 188-255 bhp
+                  - generic [ref=e279]:
+                    - generic [ref=e280]:
+                      - generic [ref=e281]: Rs. 62.00 Lakh
+                      - generic [ref=e282]: onwards
+                    - generic [ref=e284]: Avg. Ex-Showroom price
+                  - generic [ref=e287] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e288]:
+              - generic [ref=e291]:
+                - link "BMW 5 Series" [ref=e292] [cursor=pointer]:
+                  - /url: /bmw-cars/5-series/
+                  - img "BMW 5 Series" [ref=e294] [cursor=pointer]
+                - generic [ref=e295]:
+                  - generic [ref=e297]:
+                    - generic [ref=e299]:
+                      - generic [ref=e300]:
+                        - img "rating icon"
+                      - paragraph [ref=e301]:
+                        - text: "4.9"
+                        - generic [ref=e302]: /5
+                    - generic [ref=e304]: 18 Ratings
+                  - link "BMW 5 Series" [ref=e305] [cursor=pointer]:
+                    - /url: /bmw-cars/5-series/
+                    - heading "BMW 5 Series" [level=3] [ref=e306] [cursor=pointer]:
+                      - text: BMW 5 Series
+                      - img [ref=e307] [cursor=pointer]
+                  - generic [ref=e308]:
+                    - generic [ref=e309]: 5 Star Safety
+                    - generic [ref=e310]: "|"
+                    - generic [ref=e311]: 15 kmpl
+                    - generic [ref=e312]: "|"
+                    - generic [ref=e313]: 255 bhp
+                  - generic [ref=e315]:
+                    - generic [ref=e316]:
+                      - generic [ref=e317]: Rs. 75.90 Lakh
+                      - generic [ref=e318]: onwards
+                    - generic [ref=e320]: Avg. Ex-Showroom price
+                  - generic [ref=e323] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e324]:
+              - generic [ref=e327]:
+                - link "BMW X3" [ref=e328] [cursor=pointer]:
+                  - /url: /bmw-cars/x3/
+                  - img "BMW X3" [ref=e330] [cursor=pointer]
+                - generic [ref=e331]:
+                  - generic [ref=e333]:
+                    - generic [ref=e335]:
+                      - generic [ref=e336]:
+                        - img "rating icon"
+                      - paragraph [ref=e337]:
+                        - text: "4.9"
+                        - generic [ref=e338]: /5
+                    - generic [ref=e340]: 8 Ratings
+                  - link "BMW X3" [ref=e341] [cursor=pointer]:
+                    - /url: /bmw-cars/x3/
+                    - heading "BMW X3" [level=3] [ref=e342] [cursor=pointer]:
+                      - text: BMW X3
+                      - img [ref=e343] [cursor=pointer]
+                  - generic [ref=e344]:
+                    - generic [ref=e345]: 5 Star Safety
+                    - generic [ref=e346]: "|"
+                    - generic [ref=e347]: 13-17 kmpl
+                    - generic [ref=e348]: "|"
+                    - generic [ref=e349]: 188-194 bhp
+                  - generic [ref=e351]:
+                    - generic [ref=e352]:
+                      - generic [ref=e353]: Rs. 75.80 Lakh
+                      - generic [ref=e354]: onwards
+                    - generic [ref=e356]: Avg. Ex-Showroom price
+                  - generic [ref=e359] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e360]:
+              - generic [ref=e363]:
+                - link "BMW X5" [ref=e364] [cursor=pointer]:
+                  - /url: /bmw-cars/x5/
+                  - img "BMW X5" [ref=e366] [cursor=pointer]
+                - generic [ref=e367]:
+                  - generic [ref=e369]:
+                    - generic [ref=e371]:
+                      - generic [ref=e372]:
+                        - img "rating icon"
+                      - paragraph [ref=e373]:
+                        - text: "5"
+                        - generic [ref=e374]: /5
+                    - generic [ref=e376]: 30 Ratings
+                  - link "BMW X5" [ref=e377] [cursor=pointer]:
+                    - /url: /bmw-cars/x5/
+                    - heading "BMW X5" [level=3] [ref=e378] [cursor=pointer]:
+                      - text: BMW X5
+                      - img [ref=e379] [cursor=pointer]
+                  - generic [ref=e380]:
+                    - generic [ref=e381]: 12 kmpl
+                    - generic [ref=e382]: "|"
+                    - generic [ref=e383]: 282-375 bhp
+                  - generic [ref=e385]:
+                    - generic [ref=e386]:
+                      - generic [ref=e387]: Rs. 1.00 Crore
+                      - generic [ref=e388]: onwards
+                    - generic [ref=e390]: Avg. Ex-Showroom price
+                  - generic [ref=e393] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e394]:
+              - generic [ref=e397]:
+                - link "BMW M5" [ref=e398] [cursor=pointer]:
+                  - /url: /bmw-cars/m5/
+                  - img "BMW M5" [ref=e400] [cursor=pointer]
+                - generic [ref=e401]:
+                  - generic [ref=e403]:
+                    - generic [ref=e405]:
+                      - generic [ref=e406]:
+                        - img "rating icon"
+                      - paragraph [ref=e407]:
+                        - text: "4.9"
+                        - generic [ref=e408]: /5
+                    - generic [ref=e410]: 76 Ratings
+                  - link "BMW M5" [ref=e411] [cursor=pointer]:
+                    - /url: /bmw-cars/m5/
+                    - heading "BMW M5" [level=3] [ref=e412] [cursor=pointer]:
+                      - text: BMW M5
+                      - img [ref=e413] [cursor=pointer]
+                  - generic [ref=e415]: 717 bhp
+                  - generic [ref=e417]:
+                    - generic [ref=e418]:
+                      - generic [ref=e419]: Rs. 1.99 Crore
+                      - generic [ref=e420]: onwards
+                    - generic [ref=e422]: Avg. Ex-Showroom price
+                  - generic [ref=e425] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e426]:
+              - generic [ref=e429]:
+                - link "BMW iX1" [ref=e430] [cursor=pointer]:
+                  - /url: /bmw-cars/ix1/
+                  - img "BMW iX1" [ref=e432] [cursor=pointer]
+                - generic [ref=e433]:
+                  - generic [ref=e435]:
+                    - generic [ref=e437]:
+                      - generic [ref=e438]:
+                        - img "rating icon"
+                      - paragraph [ref=e439]:
+                        - text: "4.4"
+                        - generic [ref=e440]: /5
+                    - generic [ref=e442]: 7 Ratings
+                  - link "BMW iX1" [ref=e443] [cursor=pointer]:
+                    - /url: /bmw-cars/ix1/
+                    - heading "BMW iX1" [level=3] [ref=e444] [cursor=pointer]:
+                      - text: BMW iX1
+                      - img [ref=e445] [cursor=pointer]
+                  - generic [ref=e447]:
+                    - generic [ref=e448]:
+                      - generic [ref=e449]: Rs. 66.90 Lakh
+                      - generic [ref=e450]: onwards
+                    - generic [ref=e452]: Avg. Ex-Showroom price
+                  - generic [ref=e455] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e456]:
+              - generic [ref=e459]:
+                - link "BMW X1" [ref=e460] [cursor=pointer]:
+                  - /url: /bmw-cars/x1/
+                  - img "BMW X1" [ref=e462] [cursor=pointer]
+                - generic [ref=e463]:
+                  - generic [ref=e465]:
+                    - generic [ref=e467]:
+                      - generic [ref=e468]:
+                        - img "rating icon"
+                      - paragraph [ref=e469]:
+                        - text: "4.5"
+                        - generic [ref=e470]: /5
+                    - generic [ref=e472]: 89 Ratings
+                  - link "BMW X1" [ref=e473] [cursor=pointer]:
+                    - /url: /bmw-cars/x1/
+                    - heading "BMW X1" [level=3] [ref=e474] [cursor=pointer]:
+                      - text: BMW X1
+                      - img [ref=e475] [cursor=pointer]
+                  - generic [ref=e476]:
+                    - generic [ref=e477]: 5 Star Safety
+                    - generic [ref=e478]: "|"
+                    - generic [ref=e479]: 16-20 kmpl
+                    - generic [ref=e480]: "|"
+                    - generic [ref=e481]: 134-148 bhp
+                  - generic [ref=e483]:
+                    - generic [ref=e484]:
+                      - generic [ref=e485]: Rs. 51.50 Lakh
+                      - generic [ref=e486]: onwards
+                    - generic [ref=e488]: Avg. Ex-Showroom price
+                  - generic [ref=e491] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e492]:
+              - generic [ref=e495]:
+                - link "BMW M4" [ref=e496] [cursor=pointer]:
+                  - /url: /bmw-cars/m4/
+                  - img "BMW M4" [ref=e498] [cursor=pointer]
+                - generic [ref=e499]:
+                  - generic [ref=e501]:
+                    - generic [ref=e503]:
+                      - generic [ref=e504]:
+                        - img "rating icon"
+                      - paragraph [ref=e505]:
+                        - text: "4.8"
+                        - generic [ref=e506]: /5
+                    - generic [ref=e508]: 54 Ratings
+                  - link "BMW M4" [ref=e509] [cursor=pointer]:
+                    - /url: /bmw-cars/m4/
+                    - heading "BMW M4" [level=3] [ref=e510] [cursor=pointer]:
+                      - text: BMW M4
+                      - img [ref=e511] [cursor=pointer]
+                  - generic [ref=e512]:
+                    - generic [ref=e513]: 5 Star Safety
+                    - generic [ref=e514]: "|"
+                    - generic [ref=e515]: 10 kmpl
+                    - generic [ref=e516]: "|"
+                    - generic [ref=e517]: 523-543 bhp
+                  - generic [ref=e519]:
+                    - generic [ref=e520]:
+                      - generic [ref=e521]: Rs. 1.56 Crore
+                      - generic [ref=e522]: onwards
+                    - generic [ref=e524]: Avg. Ex-Showroom price
+                  - generic [ref=e527] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e528]:
+              - generic [ref=e531]:
+                - link "BMW 7 Series" [ref=e532] [cursor=pointer]:
+                  - /url: /bmw-cars/7-series/
+                  - img "BMW 7 Series" [ref=e534] [cursor=pointer]
+                - generic [ref=e535]:
+                  - generic [ref=e537]:
+                    - generic [ref=e539]:
+                      - generic [ref=e540]:
+                        - img "rating icon"
+                      - paragraph [ref=e541]:
+                        - text: "4.8"
+                        - generic [ref=e542]: /5
+                    - generic [ref=e544]: 55 Ratings
+                  - link "BMW 7 Series" [ref=e545] [cursor=pointer]:
+                    - /url: /bmw-cars/7-series/
+                    - heading "BMW 7 Series" [level=3] [ref=e546] [cursor=pointer]:
+                      - text: BMW 7 Series
+                      - img [ref=e547] [cursor=pointer]
+                  - generic [ref=e548]:
+                    - generic [ref=e549]: 12-16 kmpl
+                    - generic [ref=e550]: "|"
+                    - generic [ref=e551]: 282-375 bhp
+                  - generic [ref=e553]:
+                    - generic [ref=e554]:
+                      - generic [ref=e555]: Rs. 1.84 Crore
+                      - generic [ref=e556]: onwards
+                    - generic [ref=e558]: Avg. Ex-Showroom price
+                  - generic [ref=e561] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e562]:
+              - generic [ref=e565]:
+                - link "BMW Z4" [ref=e566] [cursor=pointer]:
+                  - /url: /bmw-cars/z4/
+                  - img "BMW Z4" [ref=e568] [cursor=pointer]
+                - generic [ref=e569]:
+                  - generic [ref=e571]:
+                    - generic [ref=e573]:
+                      - generic [ref=e574]:
+                        - img "rating icon"
+                      - paragraph [ref=e575]:
+                        - text: "4.7"
+                        - generic [ref=e576]: /5
+                    - generic [ref=e578]: 62 Ratings
+                  - link "BMW Z4" [ref=e579] [cursor=pointer]:
+                    - /url: /bmw-cars/z4/
+                    - heading "BMW Z4" [level=3] [ref=e580] [cursor=pointer]:
+                      - text: BMW Z4
+                      - img [ref=e581] [cursor=pointer]
+                  - generic [ref=e582]:
+                    - generic [ref=e583]: 5 Star Safety
+                    - generic [ref=e584]: "|"
+                    - generic [ref=e585]: 12 kmpl
+                    - generic [ref=e586]: "|"
+                    - generic [ref=e587]: 335 bhp
+                  - generic [ref=e589]:
+                    - generic [ref=e590]:
+                      - generic [ref=e591]: Rs. 92.90 Lakh
+                      - generic [ref=e592]: onwards
+                    - generic [ref=e594]: Avg. Ex-Showroom price
+                  - generic [ref=e597] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e598]:
+              - generic [ref=e601]:
+                - link "BMW X7" [ref=e602] [cursor=pointer]:
+                  - /url: /bmw-cars/x7/
+                  - img "BMW X7" [ref=e604] [cursor=pointer]
+                - generic [ref=e605]:
+                  - generic [ref=e607]:
+                    - generic [ref=e609]:
+                      - generic [ref=e610]:
+                        - img "rating icon"
+                      - paragraph [ref=e611]:
+                        - text: "4.7"
+                        - generic [ref=e612]: /5
+                    - generic [ref=e614]: 45 Ratings
+                  - link "BMW X7" [ref=e615] [cursor=pointer]:
+                    - /url: /bmw-cars/x7/
+                    - heading "BMW X7" [level=3] [ref=e616] [cursor=pointer]:
+                      - text: BMW X7
+                      - img [ref=e617] [cursor=pointer]
+                  - generic [ref=e618]:
+                    - generic [ref=e619]: 11-14 kmpl
+                    - generic [ref=e620]: "|"
+                    - generic [ref=e621]: 335-375 bhp
+                  - generic [ref=e623]:
+                    - generic [ref=e624]:
+                      - generic [ref=e625]: Rs. 1.31 Crore
+                      - generic [ref=e626]: onwards
+                    - generic [ref=e628]: Avg. Ex-Showroom price
+                  - generic [ref=e631] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e632]:
+              - generic [ref=e635]:
+                - link "BMW M8" [ref=e636] [cursor=pointer]:
+                  - /url: /bmw-cars/m8/
+                  - img "BMW M8" [ref=e638] [cursor=pointer]
+                - generic [ref=e639]:
+                  - generic [ref=e641]:
+                    - generic [ref=e643]:
+                      - generic [ref=e644]:
+                        - img "rating icon"
+                      - paragraph [ref=e645]:
+                        - text: "4.8"
+                        - generic [ref=e646]: /5
+                    - generic [ref=e648]: 80 Ratings
+                  - link "BMW M8" [ref=e649] [cursor=pointer]:
+                    - /url: /bmw-cars/m8/
+                    - heading "BMW M8" [level=3] [ref=e650] [cursor=pointer]:
+                      - text: BMW M8
+                      - img [ref=e651] [cursor=pointer]
+                  - generic [ref=e652]:
+                    - generic [ref=e653]: 6-8 kmpl
+                    - generic [ref=e654]: "|"
+                    - generic [ref=e655]: 591-617 bhp
+                  - generic [ref=e657]:
+                    - generic [ref=e658]:
+                      - generic [ref=e659]: Rs. 2.44 Crore
+                      - generic [ref=e660]: onwards
+                    - generic [ref=e662]: Avg. Ex-Showroom price
+                  - generic [ref=e665] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e666]:
+              - generic [ref=e669]:
+                - link "BMW M2" [ref=e670] [cursor=pointer]:
+                  - /url: /bmw-cars/m2/
+                  - img "BMW M2" [ref=e672] [cursor=pointer]
+                - generic [ref=e673]:
+                  - generic [ref=e675]:
+                    - generic [ref=e677]:
+                      - generic [ref=e678]:
+                        - img "rating icon"
+                      - paragraph [ref=e679]:
+                        - text: "4.7"
+                        - generic [ref=e680]: /5
+                    - generic [ref=e682]: 44 Ratings
+                  - link "BMW M2" [ref=e683] [cursor=pointer]:
+                    - /url: /bmw-cars/m2/
+                    - heading "BMW M2" [level=3] [ref=e684] [cursor=pointer]:
+                      - text: BMW M2
+                      - img [ref=e685] [cursor=pointer]
+                  - generic [ref=e686]:
+                    - generic [ref=e687]: 10 kmpl
+                    - generic [ref=e688]: "|"
+                    - generic [ref=e689]: 453-473 bhp
+                  - generic [ref=e691]:
+                    - generic [ref=e692]:
+                      - generic [ref=e693]: Rs. 1.03 Crore
+                      - generic [ref=e694]: onwards
+                    - generic [ref=e696]: Avg. Ex-Showroom price
+                  - generic [ref=e699] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e700]:
+              - generic [ref=e703]:
+                - link "BMW XM" [ref=e704] [cursor=pointer]:
+                  - /url: /bmw-cars/xm/
+                  - img "BMW XM" [ref=e706] [cursor=pointer]
+                - generic [ref=e707]:
+                  - generic [ref=e709]:
+                    - generic [ref=e711]:
+                      - generic [ref=e712]:
+                        - img "rating icon"
+                      - paragraph [ref=e713]:
+                        - text: "4.7"
+                        - generic [ref=e714]: /5
+                    - generic [ref=e716]: 72 Ratings
+                  - link "BMW XM" [ref=e717] [cursor=pointer]:
+                    - /url: /bmw-cars/xm/
+                    - heading "BMW XM" [level=3] [ref=e718] [cursor=pointer]:
+                      - text: BMW XM
+                      - img [ref=e719] [cursor=pointer]
+                  - generic [ref=e720]:
+                    - generic [ref=e721]: 61 kmpl
+                    - generic [ref=e722]: "|"
+                    - generic [ref=e723]: 483-644 bhp
+                  - generic [ref=e725]:
+                    - generic [ref=e726]:
+                      - generic [ref=e727]: Rs. 2.60 Crore
+                      - generic [ref=e728]: onwards
+                    - generic [ref=e730]: Avg. Ex-Showroom price
+                  - generic [ref=e733] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e734]:
+              - generic [ref=e737]:
+                - link "BMW iX1 LWB" [ref=e738] [cursor=pointer]:
+                  - /url: /bmw-cars/ix1-lwb/
+                  - img "BMW iX1 LWB" [ref=e740] [cursor=pointer]
+                - generic [ref=e741]:
+                  - generic [ref=e743]:
+                    - generic [ref=e745]:
+                      - generic [ref=e746]:
+                        - img "rating icon"
+                      - paragraph [ref=e747]:
+                        - text: "4.7"
+                        - generic [ref=e748]: /5
+                    - generic [ref=e750]: 7 Ratings
+                  - link "BMW iX1 LWB" [ref=e751] [cursor=pointer]:
+                    - /url: /bmw-cars/ix1-lwb/
+                    - heading "BMW iX1 LWB" [level=3] [ref=e752] [cursor=pointer]:
+                      - text: BMW iX1 LWB
+                      - img [ref=e753] [cursor=pointer]
+                  - generic [ref=e755]:
+                    - generic [ref=e756]:
+                      - generic [ref=e757]: Rs. 49.00 Lakh
+                      - generic [ref=e758]: onwards
+                    - generic [ref=e760]: Avg. Ex-Showroom price
+                  - generic [ref=e763] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e764]:
+              - generic [ref=e767]:
+                - link "BMW i4" [ref=e768] [cursor=pointer]:
+                  - /url: /bmw-cars/i4/
+                  - img "BMW i4" [ref=e770] [cursor=pointer]
+                - generic [ref=e771]:
+                  - generic [ref=e773]:
+                    - generic [ref=e775]:
+                      - generic [ref=e776]:
+                        - img "rating icon"
+                      - paragraph [ref=e777]:
+                        - text: "4.6"
+                        - generic [ref=e778]: /5
+                    - generic [ref=e780]: 12 Ratings
+                  - link "BMW i4" [ref=e781] [cursor=pointer]:
+                    - /url: /bmw-cars/i4/
+                    - heading "BMW i4" [level=3] [ref=e782] [cursor=pointer]:
+                      - text: BMW i4
+                      - img [ref=e783] [cursor=pointer]
+                  - generic [ref=e785]:
+                    - generic [ref=e786]:
+                      - generic [ref=e787]: Rs. 72.50 Lakh
+                      - generic [ref=e788]: onwards
+                    - generic [ref=e790]: Avg. Ex-Showroom price
+                  - generic [ref=e793] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e794]:
+              - generic [ref=e797]:
+                - link "BMW i7" [ref=e798] [cursor=pointer]:
+                  - /url: /bmw-cars/i7/
+                  - img "BMW i7" [ref=e800] [cursor=pointer]
+                - generic [ref=e801]:
+                  - generic [ref=e803]:
+                    - generic [ref=e805]:
+                      - generic [ref=e806]:
+                        - img "rating icon"
+                      - paragraph [ref=e807]:
+                        - text: "4.8"
+                        - generic [ref=e808]: /5
+                    - generic [ref=e810]: 17 Ratings
+                  - link "BMW i7" [ref=e811] [cursor=pointer]:
+                    - /url: /bmw-cars/i7/
+                    - heading "BMW i7" [level=3] [ref=e812] [cursor=pointer]:
+                      - text: BMW i7
+                      - img [ref=e813] [cursor=pointer]
+                  - generic [ref=e815]:
+                    - generic [ref=e816]:
+                      - generic [ref=e817]: Rs. 2.05 Crore
+                      - generic [ref=e818]: onwards
+                    - generic [ref=e820]: Avg. Ex-Showroom price
+                  - generic [ref=e823] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e824]:
+              - generic [ref=e827]:
+                - link "BMW X4 M40i" [ref=e828] [cursor=pointer]:
+                  - /url: /bmw-cars/x4/
+                  - img "BMW X4 M40i" [ref=e830] [cursor=pointer]
+                - generic [ref=e831]:
+                  - generic [ref=e833]:
+                    - generic [ref=e835]:
+                      - generic [ref=e836]:
+                        - img "rating icon"
+                      - paragraph [ref=e837]:
+                        - text: "4.6"
+                        - generic [ref=e838]: /5
+                    - generic [ref=e840]: 12 Ratings
+                  - link "BMW X4 M40i" [ref=e841] [cursor=pointer]:
+                    - /url: /bmw-cars/x4/
+                    - heading "BMW X4 M40i" [level=3] [ref=e842] [cursor=pointer]:
+                      - text: BMW X4 M40i
+                      - img [ref=e843] [cursor=pointer]
+                  - generic [ref=e844]:
+                    - generic [ref=e845]: 5 Star Safety
+                    - generic [ref=e846]: "|"
+                    - generic [ref=e847]: 10 kmpl
+                    - generic [ref=e848]: "|"
+                    - generic [ref=e849]: 355 bhp
+                  - generic [ref=e851]:
+                    - generic [ref=e852]:
+                      - generic [ref=e853]: Rs. 96.20 Lakh
+                      - generic [ref=e854]: onwards
+                    - generic [ref=e856]: Avg. Ex-Showroom price
+                  - generic [ref=e859] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e860]:
+              - generic [ref=e863]:
+                - link "BMW iX" [ref=e864] [cursor=pointer]:
+                  - /url: /bmw-cars/ix/
+                  - img "BMW iX" [ref=e866] [cursor=pointer]
+                - generic [ref=e867]:
+                  - generic [ref=e869]:
+                    - generic [ref=e871]:
+                      - generic [ref=e872]:
+                        - img "rating icon"
+                      - paragraph [ref=e873]:
+                        - text: "4.6"
+                        - generic [ref=e874]: /5
+                    - generic [ref=e876]: 8 Ratings
+                  - link "BMW iX" [ref=e877] [cursor=pointer]:
+                    - /url: /bmw-cars/ix/
+                    - heading "BMW iX" [level=3] [ref=e878] [cursor=pointer]:
+                      - text: BMW iX
+                      - img [ref=e879] [cursor=pointer]
+                  - generic [ref=e881]:
+                    - generic [ref=e882]:
+                      - generic [ref=e883]: Rs. 1.21 Crore
+                      - generic [ref=e884]: onwards
+                    - generic [ref=e886]: Avg. Ex-Showroom price
+                  - generic [ref=e889] [cursor=pointer]: Get Best Offer
+            - listitem [ref=e890]:
+              - generic [ref=e893]:
+                - link "BMW i5" [ref=e894] [cursor=pointer]:
+                  - /url: /bmw-cars/i5/
+                  - img "BMW i5" [ref=e896] [cursor=pointer]
+                - generic [ref=e897]:
+                  - generic [ref=e899]:
+                    - generic [ref=e901]:
+                      - generic [ref=e902]:
+                        - img "rating icon"
+                      - paragraph [ref=e903]:
+                        - text: "4"
+                        - generic [ref=e904]: /5
+                    - generic [ref=e906]: 1 Ratings
+                  - link "BMW i5" [ref=e907] [cursor=pointer]:
+                    - /url: /bmw-cars/i5/
+                    - heading "BMW i5" [level=3] [ref=e908] [cursor=pointer]:
+                      - text: BMW i5
+                      - img [ref=e909] [cursor=pointer]
+                  - generic [ref=e911]: 601 bhp
+                  - generic [ref=e913]:
+                    - generic [ref=e914]:
+                      - generic [ref=e915]: Rs. 1.20 Crore
+                      - generic [ref=e916]: onwards
+                    - generic [ref=e918]: Avg. Ex-Showroom price
+                  - generic [ref=e921] [cursor=pointer]: Get Best Offer
+      - generic [ref=e922]:
+        - iframe [ref=e926]:
+          - link [ref=f2e2] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsvxz_hJh0uXEHg2zLPQh_PnBBaapW33GEJjbjIT8g3Jxh_yCi78GHndE-1zr9_N6boJFEX6Dc4ph8UcKZVTii6prQM3lEwmMSmrWZgS3XhC5JVD907KxnQq4aRe2QyHOXCz_SXMDovlUTsTjrN2zVR8XTrXk-rplBbOfmh9QOCancbiH0ZzYzh5QJg_U5tR4UNR3UY-UnzGqi15jU7n47PE_mRa-Yj_N03UqhJ-M6J2t6ImALWqfDynNgexS92HLFRmy9VLa19YeKg4z3FRaq5a-_hqLj7S9kRNVroXhUGExkG31NgakUzD4ZPIJ0nk10mhFIy_-aj9ynn6DpNe23qZpbH5eICjdSkaPMC7InyYM3S42xImQyiYKP8_owcSmtDoslBBVr1xw9dhJfth64j28g&sai=AMfl-YQjUahBWWSQLSvXv4OWSOslTEdQs2r9DGYkc4uh-REbi3p8ni87AMQRj3YQs3GvEyQPqcX9AbrdeQr9SWIvfe5ATTr-JB2-ZmAk4xRiGLmgivKyIGf5nzaWiCaVLdY5K07feyBeiEvA4mU47cVl1IyhuNczAt8IniUZ00CAoPQpirT09kR090twVGWfykavcz7fsRM6JiAsacxz9mlBeyGqGI1qVcnOPO6WcouVd18Va5qtls4NtW-EPIFB4QEGp7htvUrIRdKnYEJSOBafYw&sig=Cg0ArKJSzBJfSFRWhSul&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.youtube.com/CarWale&nm=1
+        - generic [ref=e928]:
+          - heading "Similar Brands" [level=2] [ref=e930]
+          - generic [ref=e932]:
+            - list [ref=e935]:
+              - listitem [ref=e936]:
+                - link "Mercedes-Benz Cars Mercedes-Benz" [ref=e937] [cursor=pointer]:
+                  - /url: /mercedes-benz-cars/
+                  - img "Mercedes-Benz Cars" [ref=e940] [cursor=pointer]
+                  - generic [ref=e941] [cursor=pointer]: Mercedes-Benz
+              - listitem [ref=e942]:
+                - link "Jeep Cars Jeep" [ref=e943] [cursor=pointer]:
+                  - /url: /jeep-cars/
+                  - img "Jeep Cars" [ref=e946] [cursor=pointer]
+                  - generic [ref=e947] [cursor=pointer]: Jeep
+              - listitem [ref=e948]:
+                - link "BYD Cars BYD" [ref=e949] [cursor=pointer]:
+                  - /url: /byd-cars/
+                  - img "BYD Cars" [ref=e952] [cursor=pointer]
+                  - generic [ref=e953] [cursor=pointer]: BYD
+              - listitem [ref=e954]:
+                - link "Audi Cars Audi" [ref=e955] [cursor=pointer]:
+                  - /url: /audi-cars/
+                  - img "Audi Cars" [ref=e958] [cursor=pointer]
+                  - generic [ref=e959] [cursor=pointer]: Audi
+              - listitem [ref=e960]:
+                - link "Land Rover Cars Land Rover" [ref=e961] [cursor=pointer]:
+                  - /url: /land-rover-cars/
+                  - img "Land Rover Cars" [ref=e964] [cursor=pointer]
+                  - generic [ref=e965] [cursor=pointer]: Land Rover
+              - listitem [ref=e966]:
+                - link "Volvo Cars Volvo" [ref=e967] [cursor=pointer]:
+                  - /url: /volvo-cars/
+                  - img "Volvo Cars" [ref=e970] [cursor=pointer]
+                  - generic [ref=e971] [cursor=pointer]: Volvo
+              - listitem [ref=e972]:
+                - link "Tesla Cars Tesla" [ref=e973] [cursor=pointer]:
+                  - /url: /tesla-cars/
+                  - img "Tesla Cars" [ref=e976] [cursor=pointer]
+                  - generic [ref=e977] [cursor=pointer]: Tesla
+              - listitem [ref=e978]:
+                - link "Lexus Cars Lexus" [ref=e979] [cursor=pointer]:
+                  - /url: /lexus-cars/
+                  - img "Lexus Cars" [ref=e982] [cursor=pointer]
+                  - generic [ref=e983] [cursor=pointer]: Lexus
+              - listitem [ref=e984]:
+                - link "Jaguar Cars Jaguar" [ref=e985] [cursor=pointer]:
+                  - /url: /jaguar-cars/
+                  - img "Jaguar Cars" [ref=e988] [cursor=pointer]
+                  - generic [ref=e989] [cursor=pointer]: Jaguar
+            - button "[object Object]" [ref=e990] [cursor=pointer]: View More Brands
+        - generic [ref=e992]: AD
+        - generic [ref=e997]: AD
+    - list [ref=e1001]:
+      - listitem [ref=e1002]:
+        - link "Home" [ref=e1003] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e1004] [cursor=pointer]: Home
+        - img [ref=e1005]
+      - listitem [ref=e1006]:
+        - generic [ref=e1007]: BMW Cars
+  - generic [ref=e1009] [cursor=pointer]:
+    - generic [ref=e1010] [cursor=pointer]: Buying a New Car?
+    - generic [ref=e1011] [cursor=pointer]: Leave a missed call
+    - generic [ref=e1012] [cursor=pointer]: "08068441441"
+    - generic [ref=e1013] [cursor=pointer]: (Toll free)
+    - img [ref=e1015] [cursor=pointer]
+  - contentinfo [ref=e1018]:
+    - generic [ref=e1019]:
+      - generic [ref=e1020]:
+        - generic [ref=e1022]:
+          - text: "Language:"
+          - generic [ref=e1023]: English
+          - link "हिंदी" [ref=e1024] [cursor=pointer]:
+            - /url: /hi/bmw-cars/
+        - generic [ref=e1025]:
+          - link "About Us" [ref=e1027] [cursor=pointer]:
+            - /url: /about-us/
+          - link "Careers" [ref=e1029] [cursor=pointer]:
+            - /url: /career/
+          - link "Terms & Conditions" [ref=e1031] [cursor=pointer]:
+            - /url: /used/sell/terms/
+          - link "Advertise" [ref=e1033] [cursor=pointer]:
+            - /url: /contactus/
+      - generic [ref=e1035]:
+        - generic [ref=e1036]:
+          - paragraph [ref=e1037]: Connect with us
+          - generic [ref=e1038]:
+            - link "Facebook" [ref=e1039] [cursor=pointer]:
+              - /url: https://www.facebook.com/CarWale/
+              - img [ref=e1040] [cursor=pointer]
+            - link "Twitter" [ref=e1041] [cursor=pointer]:
+              - /url: https://twitter.com/carwale/
+              - img [ref=e1042] [cursor=pointer]
+            - link "YouTube" [ref=e1043] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/CARWALE/featured
+              - img [ref=e1044] [cursor=pointer]
+            - link "LinkedIn" [ref=e1045] [cursor=pointer]:
+              - /url: https://in.linkedin.com/company/automotive-exchange-private-limited-carwale-com-
+              - img [ref=e1046] [cursor=pointer]
+            - link "Instagram" [ref=e1047] [cursor=pointer]:
+              - /url: https://www.instagram.com/carwaleindia/?hl=en
+              - img [ref=e1048] [cursor=pointer]
+        - generic [ref=e1049]:
+          - paragraph [ref=e1050]: Download Mobile App
+          - list [ref=e1051]:
+            - listitem [ref=e1052]:
+              - link "CarWale Android App Download CarWale iOS App" [ref=e1053] [cursor=pointer]:
+                - /url: https://apps.apple.com/in/app/carwale-buy-new-used-cars/id910137745
+                - text: CarWale Android App
+                - img "Download CarWale iOS App" [ref=e1055] [cursor=pointer]
+            - listitem [ref=e1056]:
+              - link "CarWale Android App Download CarWale Android App" [ref=e1057] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.carwale&referrer=utm_source%3DCarWaleMsite%26utm_medium%3DFooter%26utm_campaign=CarWale%2520MobilesiteFooter
+                - text: CarWale Android App
+                - img "Download CarWale Android App" [ref=e1059] [cursor=pointer]
+    - generic [ref=e1060]:
+      - img [ref=e1061]
+      - list [ref=e1064]:
+        - listitem [ref=e1065]:
+          - generic [ref=e1066]:
+            - text: CarWale
+            - img [ref=e1067]
+        - listitem [ref=e1070]:
+          - link "BikeWale" [ref=e1071] [cursor=pointer]:
+            - /url: https://www.bikewale.com/
+            - text: BikeWale
+            - img [ref=e1072] [cursor=pointer]
+        - listitem [ref=e1078]:
+          - link "CarTrade" [ref=e1079] [cursor=pointer]:
+            - /url: https://www.cartrade.com/
+            - text: CarTrade
+            - img [ref=e1080] [cursor=pointer]
+        - listitem [ref=e1082]:
+          - link "Mobility Outlook" [ref=e1083] [cursor=pointer]:
+            - /url: https://www.mobilityoutlook.com/
+            - text: Mobility Outlook
+            - img [ref=e1084] [cursor=pointer]
+        - listitem [ref=e1088]:
+          - link "OLX" [ref=e1089] [cursor=pointer]:
+            - /url: https://www.olx.in/
+            - text: OLX
+            - img [ref=e1090] [cursor=pointer]
+        - listitem [ref=e1092]:
+          - generic [ref=e1093]:
+            - text: abSure
+            - img [ref=e1094]
+    - generic [ref=e1097]:
+      - paragraph [ref=e1098]: ©CarTrade Tech.
+      - generic [ref=e1099]:
+        - link "Visitor Agreement" [ref=e1100] [cursor=pointer]:
+          - /url: /visitor-agreement/
+        - text: "&"
+        - link "Privacy Policy" [ref=e1101] [cursor=pointer]:
+          - /url: /privacy-policy/
+  - generic [ref=e1102]:
+    - generic [ref=e1103]:
+      - generic [ref=e1104]:
+        - paragraph [ref=e1105]: Login to CarWale
+        - paragraph [ref=e1106]: Login to CarWale for a more personalised experience
+      - button "Close Popup" [ref=e1107] [cursor=pointer]:
+        - img [ref=e1108] [cursor=pointer]
+    - generic [ref=e1110]:
+      - generic [ref=e1111]:
+        - generic [ref=e1114]:
+          - generic: Contact Number*
+          - generic [ref=e1115]: "+91"
+          - textbox "Input field" [ref=e1116]
+          - group "Contact Number*"
+        - button "Get OTP" [ref=e1117] [cursor=pointer]
+      - generic [ref=e1120]: Or Continue with
+      - generic [ref=e1123] [cursor=pointer]:
+        - img "Whatsapp" [ref=e1126] [cursor=pointer]
+        - generic [ref=e1127] [cursor=pointer]: Whatsapp
+```
