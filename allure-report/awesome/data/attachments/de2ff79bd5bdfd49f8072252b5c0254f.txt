@@ -1,0 +1,19 @@
+New Cars
+The title of bmw brand page is: BMW Cars
+Car Name: BMW 2 Series Gran Coupe | Price: Rs. 46.90 Lakh
+Car Name: BMW M340i | Price: Rs. 75.90 Lakh
+Car Name: BMW 3 Series LWB | Price: Rs. 62.00 Lakh
+Car Name: BMW 5 Series | Price: Rs. 75.90 Lakh
+Car Name: BMW X3 | Price: Rs. 75.80 Lakh
+Car Name: BMW X5 | Price: Rs. 1.00 Crore
+Car Name: BMW M5 | Price: Rs. 1.99 Crore
+Car Name: BMW iX1 | Price: Rs. 51.50 Lakh
+Car Name: BMW X1 | Price: Rs. 1.56 Crore
+Car Name: BMW M4 | Price: Rs. 1.84 Crore
+Car Name: BMW 7 Series | Price: Rs. 92.90 Lakh
+Car Name: BMW Z4 | Price: Rs. 1.31 Crore
+Car Name: BMW X7 | Price: Rs. 2.44 Crore
+Car Name: BMW M8 | Price: Rs. 1.03 Crore
+Car Name: BMW M2 | Price: Rs. 2.60 Crore
+Car Name: BMW XM | Price: Rs. 96.20 Lakh
+Car Name: BMW iX1 LWB | Price: Rs. 1.20 Crore

@@ -1,0 +1,926 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - separator [ref=e5]
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - link "CarWale" [ref=e11] [cursor=pointer]:
+        - /url: /
+        - img "CarWale" [ref=e12] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - generic [ref=e16] [cursor=pointer]: NEW CARS
+          - listitem [ref=e17]:
+            - generic [ref=e18] [cursor=pointer]: USED CARS
+          - listitem [ref=e19]:
+            - generic [ref=e20] [cursor=pointer]: REVIEWS & NEWS
+      - generic [ref=e21]:
+        - generic [ref=e26] [cursor=pointer]:
+          - textbox "Input field" [ref=e27]
+          - img [ref=e29] [cursor=pointer]
+        - img [ref=e33] [cursor=pointer]
+        - img [ref=e37]
+        - img [ref=e40] [cursor=pointer]
+  - generic [ref=e44]:
+    - generic [ref=e46]: AD
+    - generic [ref=e48]:
+      - heading "Hyundai Cars" [level=1] [ref=e50]
+      - generic [ref=e52]:
+        - generic [ref=e54]:
+          - generic [ref=e55]: Hyundai offers 14 car models in India, including 9 cars in SUV category, 2 cars in Sedan category, 3 cars in Hatchback category. Hyundai has 10 upcoming cars in India, New Venue, Ioniq 5 facelift, Ioniq 6, New Santa Fe, Tucson facelift, 2026 Verna, Palisade, Ioniq 9, Staria and Stargazer.
+          - generic [ref=e56]:
+            - paragraph [ref=e57]:
+              - strong [ref=e58]: "Start of operations in India:"
+            - paragraph [ref=e59]: Hyundai Motor India Limited, a subsidiary of South Korean automaker Hyundai Motor Company, entered India in 1996 and opened its innings with the successful launch of the Hyundai Santro in 1998. Since then, it has grown its product portfolio across various body styles and has emerged as one of the top five car manufacturers in India.
+            - paragraph [ref=e60]:
+              - strong [ref=e61]: "Market share:"
+            - paragraph [ref=e62]: Hyundai has a significant market share in India's automotive industry, holding the position as the second-largest carmaker in the country with a 15 per cent market share. It sells hatchbacks, sedans, SUVs, and EVs.
+            - paragraph [ref=e63]:
+              - strong [ref=e64]: "Key Aspects:"
+            - paragraph [ref=e65]: Hyundai is renowned in India for its reliable, feature-rich, and stylish vehicles at competitive prices. The brand's strength lies in offering innovative features, modern design, and a wide range of choices to suit diverse customer preferences.
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: "Competitors:"
+            - paragraph [ref=e68]: In India, Hyundai faces competition from various car manufacturers, including Maruti Suzuki, Tata, Honda, Mahindra, MG, Renault, Nissan, Toyota, and Kia.
+            - paragraph [ref=e69]:
+              - strong [ref=e70]: "Services Offered:"
+            - paragraph [ref=e71]: Hyundai Subscription offers a flexible and affordable way to drive a brand-new car without ownership. With zero down payment and road tax, customers can choose their desired car, opt for monthly or yearly subscriptions, and keep it for up to 48 months. After a 12-month lock-in period, subscribers can opt-out anytime, or choose to buy the car at a pre-determined settlement value.
+          - generic [ref=e72]:
+            - heading "Hyundai Cars Price List (September 2025) in India" [level=2] [ref=e73]
+            - generic [ref=e74]: "Hyundai car price starts at Rs 5.98 Lakh for the cheapest model which is Grand i10 Nios and the price of most expensive model, which is Ioniq 5 starts at Rs 46.30 Lakh. The prices for the top 5 popular Hyundai Cars are: Hyundai Creta Price is Rs. 11.11 Lakh, Hyundai Venue Price is Rs. 7.94 Lakh, Hyundai Grand i10 Nios Price is Rs. 5.98 Lakh, Hyundai Exter Price is Rs. 6.00 Lakh and Hyundai Verna Price is Rs. 11.07 Lakh."
+            - table [ref=e77]:
+              - rowgroup [ref=e78]:
+                - row "MODEL PRICE" [ref=e79]:
+                  - cell "MODEL" [ref=e80]
+                  - cell "PRICE" [ref=e81]
+              - rowgroup [ref=e82]:
+                - row "Hyundai Creta Rs. 11.11 Lakh" [ref=e83]:
+                  - cell "Hyundai Creta" [ref=e84]
+                  - cell "Rs. 11.11 Lakh" [ref=e85]
+                - row "Hyundai Venue Rs. 7.94 Lakh" [ref=e86]:
+                  - cell "Hyundai Venue" [ref=e87]
+                  - cell "Rs. 7.94 Lakh" [ref=e88]
+                - row "Hyundai Grand i10 Nios Rs. 5.98 Lakh" [ref=e89]:
+                  - cell "Hyundai Grand i10 Nios" [ref=e90]
+                  - cell "Rs. 5.98 Lakh" [ref=e91]
+                - row "Hyundai Exter Rs. 6.00 Lakh" [ref=e92]:
+                  - cell "Hyundai Exter" [ref=e93]
+                  - cell "Rs. 6.00 Lakh" [ref=e94]
+                - row "Hyundai Verna Rs. 11.07 Lakh" [ref=e95]:
+                  - cell "Hyundai Verna" [ref=e96]
+                  - cell "Rs. 11.07 Lakh" [ref=e97]
+                - row "Hyundai i20 Rs. 7.51 Lakh" [ref=e98]:
+                  - cell "Hyundai i20" [ref=e99]
+                  - cell "Rs. 7.51 Lakh" [ref=e100]
+                - row "Hyundai Aura Rs. 6.54 Lakh" [ref=e101]:
+                  - cell "Hyundai Aura" [ref=e102]
+                  - cell "Rs. 6.54 Lakh" [ref=e103]
+                - row "Hyundai Alcazar Rs. 14.99 Lakh" [ref=e104]:
+                  - cell "Hyundai Alcazar" [ref=e105]
+                  - cell "Rs. 14.99 Lakh" [ref=e106]
+                - row "Hyundai i20 N Line Rs. 9.99 Lakh" [ref=e107]:
+                  - cell "Hyundai i20 N Line" [ref=e108]
+                  - cell "Rs. 9.99 Lakh" [ref=e109]
+                - row "Hyundai Creta Electric Rs. 18.02 Lakh" [ref=e110]:
+                  - cell "Hyundai Creta Electric" [ref=e111]
+                  - cell "Rs. 18.02 Lakh" [ref=e112]
+                - row "Hyundai Tucson Rs. 29.27 Lakh" [ref=e113]:
+                  - cell "Hyundai Tucson" [ref=e114]
+                  - cell "Rs. 29.27 Lakh" [ref=e115]
+                - row "Hyundai Creta N Line Rs. 16.93 Lakh" [ref=e116]:
+                  - cell "Hyundai Creta N Line" [ref=e117]
+                  - cell "Rs. 16.93 Lakh" [ref=e118]
+                - row "Hyundai Venue N Line Rs. 12.15 Lakh" [ref=e119]:
+                  - cell "Hyundai Venue N Line" [ref=e120]
+                  - cell "Rs. 12.15 Lakh" [ref=e121]
+                - row "Hyundai Ioniq 5 Rs. 46.30 Lakh" [ref=e122]:
+                  - cell "Hyundai Ioniq 5" [ref=e123]
+                  - cell "Rs. 46.30 Lakh" [ref=e124]
+                - row "Hyundai New Venue Rs. 7.90 Lakh" [ref=e125]:
+                  - cell "Hyundai New Venue" [ref=e126]
+                  - cell "Rs. 7.90 Lakh" [ref=e127]
+                - row "Hyundai Ioniq 5 facelift Rs. 36.37 Lakh" [ref=e128]:
+                  - cell "Hyundai Ioniq 5 facelift" [ref=e129]
+                  - cell "Rs. 36.37 Lakh" [ref=e130]
+                - row "Hyundai Ioniq 6 Rs. 50.00 Lakh" [ref=e131]:
+                  - cell "Hyundai Ioniq 6" [ref=e132]
+                  - cell "Rs. 50.00 Lakh" [ref=e133]
+                - row "Hyundai New Santa Fe Rs. 45.00 Lakh" [ref=e134]:
+                  - cell "Hyundai New Santa Fe" [ref=e135]
+                  - cell "Rs. 45.00 Lakh" [ref=e136]
+                - row "Hyundai Tucson facelift Rs. 29.00 Lakh" [ref=e137]:
+                  - cell "Hyundai Tucson facelift" [ref=e138]
+                  - cell "Rs. 29.00 Lakh" [ref=e139]
+                - row "Hyundai 2026 Verna Rs. 12.00 Lakh" [ref=e140]:
+                  - cell "Hyundai 2026 Verna" [ref=e141]
+                  - cell "Rs. 12.00 Lakh" [ref=e142]
+                - row "Hyundai Palisade Rs. 40.00 Lakh" [ref=e143]:
+                  - cell "Hyundai Palisade" [ref=e144]
+                  - cell "Rs. 40.00 Lakh" [ref=e145]
+                - row "Hyundai Ioniq 9 Rs. 1.20 Crore" [ref=e146]:
+                  - cell "Hyundai Ioniq 9" [ref=e147]
+                  - cell "Rs. 1.20 Crore" [ref=e148]
+                - row "Hyundai Staria Rs. 55.00 Lakh" [ref=e149]:
+                  - cell "Hyundai Staria" [ref=e150]
+                  - cell "Rs. 55.00 Lakh" [ref=e151]
+                - row "Hyundai Stargazer Rs. 9.60 Lakh" [ref=e152]:
+                  - cell "Hyundai Stargazer" [ref=e153]
+                  - cell "Rs. 9.60 Lakh" [ref=e154]
+        - button "...more" [ref=e155] [cursor=pointer]
+    - generic [ref=e156]:
+      - generic [ref=e158]:
+        - heading "Hyundai Car Models" [level=2] [ref=e160]
+        - generic [ref=e161]:
+          - generic [ref=e164]:
+            - generic [ref=e165]:
+              - generic [ref=e166]:
+                - img [ref=e167]
+                - generic [ref=e169]: Filter By
+              - generic [ref=e171]:
+                - generic [ref=e173] [cursor=pointer]: Make
+                - generic [ref=e175] [cursor=pointer]: Budget
+                - generic [ref=e177] [cursor=pointer]: Body Type
+                - generic [ref=e178] [cursor=pointer]:
+                  - generic [ref=e179] [cursor=pointer]: More Filter
+                  - img [ref=e181] [cursor=pointer]
+            - generic [ref=e184]:
+              - img [ref=e185]
+              - generic [ref=e187]: Sort by
+              - generic [ref=e190]:
+                - combobox "Select field" [ref=e191] [cursor=pointer]:
+                  - option "Select option" [disabled]
+                  - option "Popularity" [selected]
+                  - option "Price - Low to High"
+                  - option "Price - High to Low"
+                - img
+          - list [ref=e193]:
+            - listitem [ref=e194]:
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - link "Hyundai Creta" [ref=e198] [cursor=pointer]:
+                    - /url: /hyundai-cars/creta/
+                    - img "Hyundai Creta" [ref=e200] [cursor=pointer]
+                  - generic [ref=e201]:
+                    - generic [ref=e203]:
+                      - generic [ref=e205]:
+                        - generic [ref=e206]:
+                          - img "rating icon"
+                        - paragraph [ref=e207]:
+                          - text: "4.6"
+                          - generic [ref=e208]: /5
+                      - generic [ref=e210]: 435 Ratings
+                    - link "Hyundai Creta" [ref=e211] [cursor=pointer]:
+                      - /url: /hyundai-cars/creta/
+                      - heading "Hyundai Creta" [level=3] [ref=e212] [cursor=pointer]:
+                        - text: Hyundai Creta
+                        - img [ref=e213] [cursor=pointer]
+                    - generic [ref=e216]: 113-158 bhp
+                    - generic [ref=e218]:
+                      - generic [ref=e219]:
+                        - generic [ref=e220]: Rs. 11.11 Lakh
+                        - generic [ref=e221]: onwards
+                      - generic [ref=e223]: Avg. Ex-Showroom price
+                    - link "Check On Road Price" [ref=e225] [cursor=pointer]:
+                      - /url: /hyundai-cars/creta/price-in-mumbai/
+                      - generic [ref=e226] [cursor=pointer]: Check On Road Price
+                - generic [ref=e228]:
+                  - generic [ref=e230]: German DNA
+                  - generic [ref=e231]: Ad
+                  - link "Volkswagen Taigun Engineered with purpose. Tuned to thrill. Volkswagen Taigun Rs. 11.80 Lakh onwards Taigun – where performance meets everyday peace of mind" [ref=e232] [cursor=pointer]:
+                    - /url: /volkswagen-cars/taigun/
+                    - img "Volkswagen Taigun" [ref=e234] [cursor=pointer]
+                    - generic [ref=e235] [cursor=pointer]:
+                      - paragraph [ref=e236] [cursor=pointer]: Engineered with purpose. Tuned to thrill.
+                      - paragraph [ref=e237] [cursor=pointer]: Volkswagen Taigun
+                      - paragraph [ref=e238] [cursor=pointer]:
+                        - text: Rs. 11.80 Lakh
+                        - generic [ref=e239] [cursor=pointer]: onwards
+                      - generic [ref=e240] [cursor=pointer]:
+                        - text: Taigun – where performance meets everyday peace of mind
+                        - img [ref=e241] [cursor=pointer]
+            - listitem [ref=e243]:
+              - generic [ref=e246]:
+                - link "Hyundai Venue" [ref=e247] [cursor=pointer]:
+                  - /url: /hyundai-cars/venue/
+                  - img "Hyundai Venue" [ref=e249] [cursor=pointer]
+                - generic [ref=e250]:
+                  - generic [ref=e252]:
+                    - generic [ref=e254]:
+                      - generic [ref=e255]:
+                        - img "rating icon"
+                      - paragraph [ref=e256]:
+                        - text: "4.6"
+                        - generic [ref=e257]: /5
+                    - generic [ref=e259]: 469 Ratings
+                  - link "Hyundai Venue" [ref=e260] [cursor=pointer]:
+                    - /url: /hyundai-cars/venue/
+                    - heading "Hyundai Venue" [level=3] [ref=e261] [cursor=pointer]:
+                      - text: Hyundai Venue
+                      - img [ref=e262] [cursor=pointer]
+                  - generic [ref=e264]:
+                    - generic [ref=e265]: 17-23 kmpl
+                    - generic [ref=e266]: "|"
+                    - generic [ref=e267]: 82-118 bhp
+                  - generic [ref=e269]:
+                    - generic [ref=e270]:
+                      - generic [ref=e271]: Rs. 7.94 Lakh
+                      - generic [ref=e272]: onwards
+                    - generic [ref=e274]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e276] [cursor=pointer]:
+                    - /url: /hyundai-cars/venue/price-in-mumbai/
+                    - generic [ref=e277] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e278]:
+              - generic [ref=e281]:
+                - link "Hyundai Grand i10 Nios" [ref=e282] [cursor=pointer]:
+                  - /url: /hyundai-cars/grand-i10-nios/
+                  - img "Hyundai Grand i10 Nios" [ref=e284] [cursor=pointer]
+                - generic [ref=e285]:
+                  - generic [ref=e287]:
+                    - generic [ref=e289]:
+                      - generic [ref=e290]:
+                        - img "rating icon"
+                      - paragraph [ref=e291]:
+                        - text: "4.6"
+                        - generic [ref=e292]: /5
+                    - generic [ref=e294]: 310 Ratings
+                  - link "Hyundai Grand i10 Nios" [ref=e295] [cursor=pointer]:
+                    - /url: /hyundai-cars/grand-i10-nios/
+                    - heading "Hyundai Grand i10 Nios" [level=3] [ref=e296] [cursor=pointer]:
+                      - text: Hyundai Grand i10 Nios
+                      - img [ref=e297] [cursor=pointer]
+                  - generic [ref=e299]:
+                    - generic [ref=e300]: 2 Star Safety
+                    - generic [ref=e301]: "|"
+                    - generic [ref=e302]: 68-82 bhp
+                  - generic [ref=e304]:
+                    - generic [ref=e305]:
+                      - generic [ref=e306]: Rs. 5.98 Lakh
+                      - generic [ref=e307]: onwards
+                    - generic [ref=e309]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e311] [cursor=pointer]:
+                    - /url: /hyundai-cars/grand-i10-nios/price-in-mumbai/
+                    - generic [ref=e312] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e313]:
+              - generic [ref=e316]:
+                - link "Hyundai Exter" [ref=e317] [cursor=pointer]:
+                  - /url: /hyundai-cars/exter/
+                  - img "Hyundai Exter" [ref=e319] [cursor=pointer]
+                - generic [ref=e320]:
+                  - generic [ref=e322]:
+                    - generic [ref=e324]:
+                      - generic [ref=e325]:
+                        - img "rating icon"
+                      - paragraph [ref=e326]:
+                        - text: "4.6"
+                        - generic [ref=e327]: /5
+                    - generic [ref=e329]: 721 Ratings
+                  - link "Hyundai Exter" [ref=e330] [cursor=pointer]:
+                    - /url: /hyundai-cars/exter/
+                    - heading "Hyundai Exter" [level=3] [ref=e331] [cursor=pointer]:
+                      - text: Hyundai Exter
+                      - img [ref=e332] [cursor=pointer]
+                  - generic [ref=e333]:
+                    - generic [ref=e334]: 19-27 kmpl
+                    - generic [ref=e335]: "|"
+                    - generic [ref=e336]: 68-82 bhp
+                  - generic [ref=e338]:
+                    - generic [ref=e339]:
+                      - generic [ref=e340]: Rs. 6.00 Lakh
+                      - generic [ref=e341]: onwards
+                    - generic [ref=e343]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e345] [cursor=pointer]:
+                    - /url: /hyundai-cars/exter/price-in-mumbai/
+                    - generic [ref=e346] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e347]:
+              - generic [ref=e350]:
+                - link "Hyundai Verna" [ref=e351] [cursor=pointer]:
+                  - /url: /hyundai-cars/verna/
+                  - img "Hyundai Verna" [ref=e353] [cursor=pointer]
+                - generic [ref=e354]:
+                  - generic [ref=e356]:
+                    - generic [ref=e358]:
+                      - generic [ref=e359]:
+                        - img "rating icon"
+                      - paragraph [ref=e360]:
+                        - text: "4.7"
+                        - generic [ref=e361]: /5
+                    - generic [ref=e363]: 338 Ratings
+                  - link "Hyundai Verna" [ref=e364] [cursor=pointer]:
+                    - /url: /hyundai-cars/verna/
+                    - heading "Hyundai Verna" [level=3] [ref=e365] [cursor=pointer]:
+                      - text: Hyundai Verna
+                      - img [ref=e366] [cursor=pointer]
+                  - generic [ref=e367]:
+                    - generic [ref=e368]: 5 Star Safety
+                    - generic [ref=e369]: "|"
+                    - generic [ref=e370]: 18-20 kmpl
+                    - generic [ref=e371]: "|"
+                    - generic [ref=e372]: 113-158 bhp
+                  - generic [ref=e374]:
+                    - generic [ref=e375]:
+                      - generic [ref=e376]: Rs. 11.07 Lakh
+                      - generic [ref=e377]: onwards
+                    - generic [ref=e379]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e381] [cursor=pointer]:
+                    - /url: /hyundai-cars/verna/price-in-mumbai/
+                    - generic [ref=e382] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e383]:
+              - generic [ref=e386]:
+                - link "Hyundai i20" [ref=e387] [cursor=pointer]:
+                  - /url: /hyundai-cars/i20/
+                  - img "Hyundai i20" [ref=e389] [cursor=pointer]
+                - generic [ref=e390]:
+                  - generic [ref=e392]:
+                    - generic [ref=e394]:
+                      - generic [ref=e395]:
+                        - img "rating icon"
+                      - paragraph [ref=e396]:
+                        - text: "4.6"
+                        - generic [ref=e397]: /5
+                    - generic [ref=e399]: 292 Ratings
+                  - link "Hyundai i20" [ref=e400] [cursor=pointer]:
+                    - /url: /hyundai-cars/i20/
+                    - heading "Hyundai i20" [level=3] [ref=e401] [cursor=pointer]:
+                      - text: Hyundai i20
+                      - img [ref=e402] [cursor=pointer]
+                  - generic [ref=e403]:
+                    - generic [ref=e404]: 3 Star Safety
+                    - generic [ref=e405]: "|"
+                    - generic [ref=e406]: 82-87 bhp
+                  - generic [ref=e408]:
+                    - generic [ref=e409]:
+                      - generic [ref=e410]: Rs. 7.51 Lakh
+                      - generic [ref=e411]: onwards
+                    - generic [ref=e413]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e415] [cursor=pointer]:
+                    - /url: /hyundai-cars/i20/price-in-mumbai/
+                    - generic [ref=e416] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e417]:
+              - generic [ref=e420]:
+                - link "Hyundai Aura" [ref=e421] [cursor=pointer]:
+                  - /url: /hyundai-cars/aura/
+                  - img "Hyundai Aura" [ref=e423] [cursor=pointer]
+                - generic [ref=e424]:
+                  - generic [ref=e426]:
+                    - generic [ref=e428]:
+                      - generic [ref=e429]:
+                        - img "rating icon"
+                      - paragraph [ref=e430]:
+                        - text: "4.6"
+                        - generic [ref=e431]: /5
+                    - generic [ref=e433]: 224 Ratings
+                  - link "Hyundai Aura" [ref=e434] [cursor=pointer]:
+                    - /url: /hyundai-cars/aura/
+                    - heading "Hyundai Aura" [level=3] [ref=e435] [cursor=pointer]:
+                      - text: Hyundai Aura
+                      - img [ref=e436] [cursor=pointer]
+                  - generic [ref=e437]:
+                    - generic [ref=e438]: 2 Star Safety
+                    - generic [ref=e439]: "|"
+                    - generic [ref=e440]: 68-82 bhp
+                  - generic [ref=e442]:
+                    - generic [ref=e443]:
+                      - generic [ref=e444]: Rs. 6.54 Lakh
+                      - generic [ref=e445]: onwards
+                    - generic [ref=e447]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e449] [cursor=pointer]:
+                    - /url: /hyundai-cars/aura/price-in-mumbai/
+                    - generic [ref=e450] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e451]:
+              - generic [ref=e454]:
+                - link "Hyundai Alcazar" [ref=e455] [cursor=pointer]:
+                  - /url: /hyundai-cars/alcazar/
+                  - img "Hyundai Alcazar" [ref=e457] [cursor=pointer]
+                - generic [ref=e458]:
+                  - generic [ref=e460]:
+                    - generic [ref=e462]:
+                      - generic [ref=e463]:
+                        - img "rating icon"
+                      - paragraph [ref=e464]:
+                        - text: "4.6"
+                        - generic [ref=e465]: /5
+                    - generic [ref=e467]: 63 Ratings
+                  - link "Hyundai Alcazar" [ref=e468] [cursor=pointer]:
+                    - /url: /hyundai-cars/alcazar/
+                    - heading "Hyundai Alcazar" [level=3] [ref=e469] [cursor=pointer]:
+                      - text: Hyundai Alcazar
+                      - img [ref=e470] [cursor=pointer]
+                  - generic [ref=e472]: 114-158 bhp
+                  - generic [ref=e474]:
+                    - generic [ref=e475]:
+                      - generic [ref=e476]: Rs. 14.99 Lakh
+                      - generic [ref=e477]: onwards
+                    - generic [ref=e479]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e481] [cursor=pointer]:
+                    - /url: /hyundai-cars/alcazar/price-in-mumbai/
+                    - generic [ref=e482] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e483]:
+              - generic [ref=e486]:
+                - link "Hyundai i20 N Line" [ref=e487] [cursor=pointer]:
+                  - /url: /hyundai-cars/i20-n-line/
+                  - img "Hyundai i20 N Line" [ref=e489] [cursor=pointer]
+                - generic [ref=e490]:
+                  - generic [ref=e492]:
+                    - generic [ref=e494]:
+                      - generic [ref=e495]:
+                        - img "rating icon"
+                      - paragraph [ref=e496]:
+                        - text: "4.6"
+                        - generic [ref=e497]: /5
+                    - generic [ref=e499]: 49 Ratings
+                  - link "Hyundai i20 N Line" [ref=e500] [cursor=pointer]:
+                    - /url: /hyundai-cars/i20-n-line/
+                    - heading "Hyundai i20 N Line" [level=3] [ref=e501] [cursor=pointer]:
+                      - text: Hyundai i20 N Line
+                      - img [ref=e502] [cursor=pointer]
+                  - generic [ref=e504]: 118 bhp
+                  - generic [ref=e506]:
+                    - generic [ref=e507]:
+                      - generic [ref=e508]: Rs. 9.99 Lakh
+                      - generic [ref=e509]: onwards
+                    - generic [ref=e511]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e513] [cursor=pointer]:
+                    - /url: /hyundai-cars/i20-n-line/price-in-mumbai/
+                    - generic [ref=e514] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e515]:
+              - generic [ref=e518]:
+                - link "Hyundai Creta Electric" [ref=e519] [cursor=pointer]:
+                  - /url: /hyundai-cars/creta-electric/
+                  - img "Hyundai Creta Electric" [ref=e521] [cursor=pointer]
+                - generic [ref=e522]:
+                  - generic [ref=e524]:
+                    - generic [ref=e526]:
+                      - generic [ref=e527]:
+                        - img "rating icon"
+                      - paragraph [ref=e528]:
+                        - text: "4.7"
+                        - generic [ref=e529]: /5
+                    - generic [ref=e531]: 31 Ratings
+                  - link "Hyundai Creta Electric" [ref=e532] [cursor=pointer]:
+                    - /url: /hyundai-cars/creta-electric/
+                    - heading "Hyundai Creta Electric" [level=3] [ref=e533] [cursor=pointer]:
+                      - text: Hyundai Creta Electric
+                      - img [ref=e534] [cursor=pointer]
+                  - generic [ref=e536]:
+                    - generic [ref=e537]:
+                      - generic [ref=e538]: Rs. 18.02 Lakh
+                      - generic [ref=e539]: onwards
+                    - generic [ref=e541]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e543] [cursor=pointer]:
+                    - /url: /hyundai-cars/creta-electric/price-in-mumbai/
+                    - generic [ref=e544] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e545]:
+              - generic [ref=e548]:
+                - link "Hyundai Tucson" [ref=e549] [cursor=pointer]:
+                  - /url: /hyundai-cars/tucson/
+                  - img "Hyundai Tucson" [ref=e551] [cursor=pointer]
+                - generic [ref=e552]:
+                  - generic [ref=e554]:
+                    - generic [ref=e556]:
+                      - generic [ref=e557]:
+                        - img "rating icon"
+                      - paragraph [ref=e558]:
+                        - text: "4"
+                        - generic [ref=e559]: /5
+                    - generic [ref=e561]: 74 Ratings
+                  - link "Hyundai Tucson" [ref=e562] [cursor=pointer]:
+                    - /url: /hyundai-cars/tucson/
+                    - heading "Hyundai Tucson" [level=3] [ref=e563] [cursor=pointer]:
+                      - text: Hyundai Tucson
+                      - img [ref=e564] [cursor=pointer]
+                  - generic [ref=e565]:
+                    - generic [ref=e566]: 5 Star Safety
+                    - generic [ref=e567]: "|"
+                    - generic [ref=e568]: 154-184 bhp
+                  - generic [ref=e570]:
+                    - generic [ref=e571]:
+                      - generic [ref=e572]: Rs. 29.27 Lakh
+                      - generic [ref=e573]: onwards
+                    - generic [ref=e575]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e577] [cursor=pointer]:
+                    - /url: /hyundai-cars/tucson/price-in-mumbai/
+                    - generic [ref=e578] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e579]:
+              - generic [ref=e582]:
+                - link "Hyundai Creta N Line" [ref=e583] [cursor=pointer]:
+                  - /url: /hyundai-cars/creta-n-line/
+                  - img "Hyundai Creta N Line" [ref=e585] [cursor=pointer]
+                - generic [ref=e586]:
+                  - generic [ref=e588]:
+                    - generic [ref=e590]:
+                      - generic [ref=e591]:
+                        - img "rating icon"
+                      - paragraph [ref=e592]:
+                        - text: "4.7"
+                        - generic [ref=e593]: /5
+                    - generic [ref=e595]: 30 Ratings
+                  - link "Hyundai Creta N Line" [ref=e596] [cursor=pointer]:
+                    - /url: /hyundai-cars/creta-n-line/
+                    - heading "Hyundai Creta N Line" [level=3] [ref=e597] [cursor=pointer]:
+                      - text: Hyundai Creta N Line
+                      - img [ref=e598] [cursor=pointer]
+                  - generic [ref=e600]: 158 bhp
+                  - generic [ref=e602]:
+                    - generic [ref=e603]:
+                      - generic [ref=e604]: Rs. 16.93 Lakh
+                      - generic [ref=e605]: onwards
+                    - generic [ref=e607]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e609] [cursor=pointer]:
+                    - /url: /hyundai-cars/creta-n-line/price-in-mumbai/
+                    - generic [ref=e610] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e611]:
+              - generic [ref=e614]:
+                - link "Hyundai Venue N Line" [ref=e615] [cursor=pointer]:
+                  - /url: /hyundai-cars/venue-n-line/
+                  - img "Hyundai Venue N Line" [ref=e617] [cursor=pointer]
+                - generic [ref=e618]:
+                  - generic [ref=e620]:
+                    - generic [ref=e622]:
+                      - generic [ref=e623]:
+                        - img "rating icon"
+                      - paragraph [ref=e624]:
+                        - text: "4.8"
+                        - generic [ref=e625]: /5
+                    - generic [ref=e627]: 22 Ratings
+                  - link "Hyundai Venue N Line" [ref=e628] [cursor=pointer]:
+                    - /url: /hyundai-cars/venue-n-line/
+                    - heading "Hyundai Venue N Line" [level=3] [ref=e629] [cursor=pointer]:
+                      - text: Hyundai Venue N Line
+                      - img [ref=e630] [cursor=pointer]
+                  - generic [ref=e631]:
+                    - generic [ref=e632]: 18 kmpl
+                    - generic [ref=e633]: "|"
+                    - generic [ref=e634]: 118 bhp
+                  - generic [ref=e636]:
+                    - generic [ref=e637]:
+                      - generic [ref=e638]: Rs. 12.15 Lakh
+                      - generic [ref=e639]: onwards
+                    - generic [ref=e641]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e643] [cursor=pointer]:
+                    - /url: /hyundai-cars/venue-n-line/price-in-mumbai/
+                    - generic [ref=e644] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e645]:
+              - generic [ref=e648]:
+                - link "Hyundai Ioniq 5" [ref=e649] [cursor=pointer]:
+                  - /url: /hyundai-cars/ioniq-5/
+                  - img "Hyundai Ioniq 5" [ref=e651] [cursor=pointer]
+                - generic [ref=e652]:
+                  - generic [ref=e654]:
+                    - generic [ref=e656]:
+                      - generic [ref=e657]:
+                        - img "rating icon"
+                      - paragraph [ref=e658]:
+                        - text: "4.5"
+                        - generic [ref=e659]: /5
+                    - generic [ref=e661]: 54 Ratings
+                  - link "Hyundai Ioniq 5" [ref=e662] [cursor=pointer]:
+                    - /url: /hyundai-cars/ioniq-5/
+                    - heading "Hyundai Ioniq 5" [level=3] [ref=e663] [cursor=pointer]:
+                      - text: Hyundai Ioniq 5
+                      - img [ref=e664] [cursor=pointer]
+                  - generic [ref=e666]: 5 Star Safety
+                  - generic [ref=e668]:
+                    - generic [ref=e669]:
+                      - generic [ref=e670]: Rs. 46.30 Lakh
+                      - generic [ref=e671]: onwards
+                    - generic [ref=e673]: Avg. Ex-Showroom price
+                  - link "Check On Road Price" [ref=e675] [cursor=pointer]:
+                    - /url: /hyundai-cars/ioniq-5/price-in-mumbai/
+                    - generic [ref=e676] [cursor=pointer]: Check On Road Price
+            - listitem [ref=e677]:
+              - generic [ref=e680]:
+                - link "Upcoming Hyundai New Venue" [ref=e681] [cursor=pointer]:
+                  - /url: /hyundai-cars/new-venue/
+                  - generic [ref=e683] [cursor=pointer]: Upcoming
+                  - img "Hyundai New Venue" [ref=e685] [cursor=pointer]
+                - generic [ref=e686]:
+                  - link "Hyundai New Venue" [ref=e687] [cursor=pointer]:
+                    - /url: /hyundai-cars/new-venue/
+                    - heading "Hyundai New Venue" [level=3] [ref=e688] [cursor=pointer]:
+                      - text: Hyundai New Venue
+                      - img [ref=e689] [cursor=pointer]
+                  - generic [ref=e690]:
+                    - generic [ref=e691]: Rs. 7.90 Lakh
+                    - generic [ref=e692]: Estimated price
+                    - generic [ref=e693]: Expected launch - 24th October 2025
+            - listitem [ref=e694]:
+              - generic [ref=e697]:
+                - link "Upcoming Hyundai Ioniq 5 facelift" [ref=e698] [cursor=pointer]:
+                  - /url: /hyundai-cars/ioniq-5-facelift/
+                  - generic [ref=e700] [cursor=pointer]: Upcoming
+                  - img "Hyundai Ioniq 5 facelift" [ref=e702] [cursor=pointer]
+                - generic [ref=e703]:
+                  - link "Hyundai Ioniq 5 facelift" [ref=e704] [cursor=pointer]:
+                    - /url: /hyundai-cars/ioniq-5-facelift/
+                    - heading "Hyundai Ioniq 5 facelift" [level=3] [ref=e705] [cursor=pointer]:
+                      - text: Hyundai Ioniq 5 facelift
+                      - img [ref=e706] [cursor=pointer]
+                  - generic [ref=e707]:
+                    - generic [ref=e708]: Rs. 36.37 Lakh
+                    - generic [ref=e709]: Estimated price
+                    - generic [ref=e710]: Expected launch - October 2025 (Tentative)
+            - listitem [ref=e711]:
+              - generic [ref=e714]:
+                - link "Upcoming Hyundai Ioniq 6" [ref=e715] [cursor=pointer]:
+                  - /url: /hyundai-cars/ioniq-6/
+                  - generic [ref=e717] [cursor=pointer]: Upcoming
+                  - img "Hyundai Ioniq 6" [ref=e719] [cursor=pointer]
+                - generic [ref=e720]:
+                  - link "Hyundai Ioniq 6" [ref=e721] [cursor=pointer]:
+                    - /url: /hyundai-cars/ioniq-6/
+                    - heading "Hyundai Ioniq 6" [level=3] [ref=e722] [cursor=pointer]:
+                      - text: Hyundai Ioniq 6
+                      - img [ref=e723] [cursor=pointer]
+                  - generic [ref=e724]:
+                    - generic [ref=e725]: Rs. 50.00 Lakh
+                    - generic [ref=e726]: Estimated price
+                    - generic [ref=e727]: Expected launch - October 2025 (Tentative)
+            - listitem [ref=e728]:
+              - generic [ref=e731]:
+                - link "Upcoming Hyundai New Santa Fe" [ref=e732] [cursor=pointer]:
+                  - /url: /hyundai-cars/new-santa-fe/
+                  - generic [ref=e734] [cursor=pointer]: Upcoming
+                  - img "Hyundai New Santa Fe" [ref=e736] [cursor=pointer]
+                - generic [ref=e737]:
+                  - link "Hyundai New Santa Fe" [ref=e738] [cursor=pointer]:
+                    - /url: /hyundai-cars/new-santa-fe/
+                    - heading "Hyundai New Santa Fe" [level=3] [ref=e739] [cursor=pointer]:
+                      - text: Hyundai New Santa Fe
+                      - img [ref=e740] [cursor=pointer]
+                  - generic [ref=e741]:
+                    - generic [ref=e742]: Rs. 45.00 Lakh
+                    - generic [ref=e743]: Estimated price
+                    - generic [ref=e744]: Expected launch - November 2025 (Tentative)
+            - listitem [ref=e745]:
+              - generic [ref=e748]:
+                - link "Upcoming Hyundai Tucson facelift" [ref=e749] [cursor=pointer]:
+                  - /url: /hyundai-cars/tucson-facelift/
+                  - generic [ref=e751] [cursor=pointer]: Upcoming
+                  - img "Hyundai Tucson facelift" [ref=e753] [cursor=pointer]
+                - generic [ref=e754]:
+                  - link "Hyundai Tucson facelift" [ref=e755] [cursor=pointer]:
+                    - /url: /hyundai-cars/tucson-facelift/
+                    - heading "Hyundai Tucson facelift" [level=3] [ref=e756] [cursor=pointer]:
+                      - text: Hyundai Tucson facelift
+                      - img [ref=e757] [cursor=pointer]
+                  - generic [ref=e758]:
+                    - generic [ref=e759]: Rs. 29.00 Lakh
+                    - generic [ref=e760]: Estimated price
+                    - generic [ref=e761]: Expected launch - January 2026 (Tentative)
+            - listitem [ref=e762]:
+              - generic [ref=e765]:
+                - link "Upcoming Hyundai 2026 Verna" [ref=e766] [cursor=pointer]:
+                  - /url: /hyundai-cars/2026-verna/
+                  - generic [ref=e768] [cursor=pointer]: Upcoming
+                  - img "Hyundai 2026 Verna" [ref=e770] [cursor=pointer]
+                - generic [ref=e771]:
+                  - link "Hyundai 2026 Verna" [ref=e772] [cursor=pointer]:
+                    - /url: /hyundai-cars/2026-verna/
+                    - heading "Hyundai 2026 Verna" [level=3] [ref=e773] [cursor=pointer]:
+                      - text: Hyundai 2026 Verna
+                      - img [ref=e774] [cursor=pointer]
+                  - generic [ref=e775]:
+                    - generic [ref=e776]: Rs. 12.00 Lakh
+                    - generic [ref=e777]: Estimated price
+                    - generic [ref=e778]: Expected launch - February 2026 (Tentative)
+            - listitem [ref=e779]:
+              - generic [ref=e782]:
+                - link "Upcoming Hyundai Palisade" [ref=e783] [cursor=pointer]:
+                  - /url: /hyundai-cars/palisade/
+                  - generic [ref=e785] [cursor=pointer]: Upcoming
+                  - img "Hyundai Palisade" [ref=e787] [cursor=pointer]
+                - generic [ref=e788]:
+                  - link "Hyundai Palisade" [ref=e789] [cursor=pointer]:
+                    - /url: /hyundai-cars/palisade/
+                    - heading "Hyundai Palisade" [level=3] [ref=e790] [cursor=pointer]:
+                      - text: Hyundai Palisade
+                      - img [ref=e791] [cursor=pointer]
+                  - generic [ref=e792]:
+                    - generic [ref=e793]: Rs. 40.00 Lakh
+                    - generic [ref=e794]: Estimated price
+                    - generic [ref=e795]: Expected launch - March 2026 (Tentative)
+            - listitem [ref=e796]:
+              - generic [ref=e799]:
+                - link "Upcoming Hyundai Ioniq 9" [ref=e800] [cursor=pointer]:
+                  - /url: /hyundai-cars/ioniq-9/
+                  - generic [ref=e802] [cursor=pointer]: Upcoming
+                  - img "Hyundai Ioniq 9" [ref=e804] [cursor=pointer]
+                - generic [ref=e805]:
+                  - link "Hyundai Ioniq 9" [ref=e806] [cursor=pointer]:
+                    - /url: /hyundai-cars/ioniq-9/
+                    - heading "Hyundai Ioniq 9" [level=3] [ref=e807] [cursor=pointer]:
+                      - text: Hyundai Ioniq 9
+                      - img [ref=e808] [cursor=pointer]
+                  - generic [ref=e809]:
+                    - generic [ref=e810]: Rs. 1.20 Crore
+                    - generic [ref=e811]: Estimated price
+                    - generic [ref=e812]: Expected launch - March 2026 (Tentative)
+            - listitem [ref=e813]:
+              - generic [ref=e816]:
+                - link "Upcoming Hyundai Staria" [ref=e817] [cursor=pointer]:
+                  - /url: /hyundai-cars/staria/
+                  - generic [ref=e819] [cursor=pointer]: Upcoming
+                  - img "Hyundai Staria" [ref=e821] [cursor=pointer]
+                - generic [ref=e822]:
+                  - link "Hyundai Staria" [ref=e823] [cursor=pointer]:
+                    - /url: /hyundai-cars/staria/
+                    - heading "Hyundai Staria" [level=3] [ref=e824] [cursor=pointer]:
+                      - text: Hyundai Staria
+                      - img [ref=e825] [cursor=pointer]
+                  - generic [ref=e826]:
+                    - generic [ref=e827]: Rs. 55.00 Lakh
+                    - generic [ref=e828]: Estimated price
+                    - generic [ref=e829]: Expected launch - 17th June 2026
+            - listitem [ref=e830]:
+              - generic [ref=e833]:
+                - link "Upcoming Hyundai Stargazer" [ref=e834] [cursor=pointer]:
+                  - /url: /hyundai-cars/stargazer/
+                  - generic [ref=e836] [cursor=pointer]: Upcoming
+                  - img "Hyundai Stargazer" [ref=e838] [cursor=pointer]
+                - generic [ref=e839]:
+                  - link "Hyundai Stargazer" [ref=e840] [cursor=pointer]:
+                    - /url: /hyundai-cars/stargazer/
+                    - heading "Hyundai Stargazer" [level=3] [ref=e841] [cursor=pointer]:
+                      - text: Hyundai Stargazer
+                      - img [ref=e842] [cursor=pointer]
+                  - generic [ref=e843]:
+                    - generic [ref=e844]: Rs. 9.60 Lakh
+                    - generic [ref=e845]: Estimated price
+                    - generic [ref=e846]: Expected launch - July 2026 (Tentative)
+      - generic [ref=e847]:
+        - generic [ref=e849]: AD
+        - generic [ref=e851]:
+          - heading "Similar Brands" [level=2] [ref=e853]
+          - generic [ref=e855]:
+            - list [ref=e858]:
+              - listitem [ref=e859]:
+                - link "Maruti Suzuki Cars Maruti Suzuki" [ref=e860] [cursor=pointer]:
+                  - /url: /maruti-suzuki-cars/
+                  - img "Maruti Suzuki Cars" [ref=e863] [cursor=pointer]
+                  - generic [ref=e864] [cursor=pointer]: Maruti Suzuki
+              - listitem [ref=e865]:
+                - link "Mahindra Cars Mahindra" [ref=e866] [cursor=pointer]:
+                  - /url: /mahindra-cars/
+                  - img "Mahindra Cars" [ref=e869] [cursor=pointer]
+                  - generic [ref=e870] [cursor=pointer]: Mahindra
+              - listitem [ref=e871]:
+                - link "Tata Cars Tata" [ref=e872] [cursor=pointer]:
+                  - /url: /tata-cars/
+                  - img "Tata Cars" [ref=e875] [cursor=pointer]
+                  - generic [ref=e876] [cursor=pointer]: Tata
+              - listitem [ref=e877]:
+                - link "Honda Cars Honda" [ref=e878] [cursor=pointer]:
+                  - /url: /honda-cars/
+                  - img "Honda Cars" [ref=e881] [cursor=pointer]
+                  - generic [ref=e882] [cursor=pointer]: Honda
+              - listitem [ref=e883]:
+                - link "Vinfast Cars Vinfast" [ref=e884] [cursor=pointer]:
+                  - /url: /vinfast-cars/
+                  - img "Vinfast Cars" [ref=e887] [cursor=pointer]
+                  - generic [ref=e888] [cursor=pointer]: Vinfast
+              - listitem [ref=e889]:
+                - link "Toyota Cars Toyota" [ref=e890] [cursor=pointer]:
+                  - /url: /toyota-cars/
+                  - img "Toyota Cars" [ref=e893] [cursor=pointer]
+                  - generic [ref=e894] [cursor=pointer]: Toyota
+              - listitem [ref=e895]:
+                - link "Kia Cars Kia" [ref=e896] [cursor=pointer]:
+                  - /url: /kia-cars/
+                  - img "Kia Cars" [ref=e899] [cursor=pointer]
+                  - generic [ref=e900] [cursor=pointer]: Kia
+              - listitem [ref=e901]:
+                - link "Skoda Cars Skoda" [ref=e902] [cursor=pointer]:
+                  - /url: /skoda-cars/
+                  - img "Skoda Cars" [ref=e905] [cursor=pointer]
+                  - generic [ref=e906] [cursor=pointer]: Skoda
+              - listitem [ref=e907]:
+                - link "Renault Cars Renault" [ref=e908] [cursor=pointer]:
+                  - /url: /renault-cars/
+                  - img "Renault Cars" [ref=e911] [cursor=pointer]
+                  - generic [ref=e912] [cursor=pointer]: Renault
+            - button "[object Object]" [ref=e913] [cursor=pointer]: View More Brands
+        - generic [ref=e915]: AD
+        - generic [ref=e920]: AD
+    - list [ref=e924]:
+      - listitem [ref=e925]:
+        - link "Home" [ref=e926] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e927] [cursor=pointer]: Home
+        - img [ref=e928]
+      - listitem [ref=e929]:
+        - generic [ref=e930]: Hyundai Cars
+  - generic [ref=e932] [cursor=pointer]:
+    - generic [ref=e933] [cursor=pointer]: Buying a New Car?
+    - generic [ref=e934] [cursor=pointer]: Ask the Experts
+    - generic [ref=e935] [cursor=pointer]: "08068441441"
+    - generic [ref=e936] [cursor=pointer]: (Toll free)
+    - img [ref=e938] [cursor=pointer]
+  - contentinfo [ref=e941]:
+    - generic [ref=e942]:
+      - generic [ref=e943]:
+        - generic [ref=e945]:
+          - text: "Language:"
+          - generic [ref=e946]: English
+          - link "हिंदी" [ref=e947] [cursor=pointer]:
+            - /url: /hi/hyundai-cars/
+        - generic [ref=e948]:
+          - link "About Us" [ref=e950] [cursor=pointer]:
+            - /url: /about-us/
+          - link "Careers" [ref=e952] [cursor=pointer]:
+            - /url: /career/
+          - link "Terms & Conditions" [ref=e954] [cursor=pointer]:
+            - /url: /used/sell/terms/
+          - link "Advertise" [ref=e956] [cursor=pointer]:
+            - /url: /contactus/
+      - generic [ref=e958]:
+        - generic [ref=e959]:
+          - paragraph [ref=e960]: Connect with us
+          - generic [ref=e961]:
+            - link "Facebook" [ref=e962] [cursor=pointer]:
+              - /url: https://www.facebook.com/CarWale/
+              - img [ref=e963] [cursor=pointer]
+            - link "Twitter" [ref=e964] [cursor=pointer]:
+              - /url: https://twitter.com/carwale/
+              - img [ref=e965] [cursor=pointer]
+            - link "YouTube" [ref=e966] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/CARWALE/featured
+              - img [ref=e967] [cursor=pointer]
+            - link "LinkedIn" [ref=e968] [cursor=pointer]:
+              - /url: https://in.linkedin.com/company/automotive-exchange-private-limited-carwale-com-
+              - img [ref=e969] [cursor=pointer]
+            - link "Instagram" [ref=e970] [cursor=pointer]:
+              - /url: https://www.instagram.com/carwaleindia/?hl=en
+              - img [ref=e971] [cursor=pointer]
+        - generic [ref=e972]:
+          - paragraph [ref=e973]: Download Mobile App
+          - list [ref=e974]:
+            - listitem [ref=e975]:
+              - link "CarWale Android App Download CarWale iOS App" [ref=e976] [cursor=pointer]:
+                - /url: https://apps.apple.com/in/app/carwale-buy-new-used-cars/id910137745
+                - text: CarWale Android App
+                - img "Download CarWale iOS App" [ref=e978] [cursor=pointer]
+            - listitem [ref=e979]:
+              - link "CarWale Android App Download CarWale Android App" [ref=e980] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.carwale&referrer=utm_source%3DCarWaleMsite%26utm_medium%3DFooter%26utm_campaign=CarWale%2520MobilesiteFooter
+                - text: CarWale Android App
+                - img "Download CarWale Android App" [ref=e982] [cursor=pointer]
+    - generic [ref=e983]:
+      - img [ref=e984]
+      - list [ref=e987]:
+        - listitem [ref=e988]:
+          - generic [ref=e989]:
+            - text: CarWale
+            - img [ref=e990]
+        - listitem [ref=e993]:
+          - link "BikeWale" [ref=e994] [cursor=pointer]:
+            - /url: https://www.bikewale.com/
+            - text: BikeWale
+            - img [ref=e995] [cursor=pointer]
+        - listitem [ref=e1001]:
+          - link "CarTrade" [ref=e1002] [cursor=pointer]:
+            - /url: https://www.cartrade.com/
+            - text: CarTrade
+            - img [ref=e1003] [cursor=pointer]
+        - listitem [ref=e1005]:
+          - link "Mobility Outlook" [ref=e1006] [cursor=pointer]:
+            - /url: https://www.mobilityoutlook.com/
+            - text: Mobility Outlook
+            - img [ref=e1007] [cursor=pointer]
+        - listitem [ref=e1011]:
+          - link "OLX" [ref=e1012] [cursor=pointer]:
+            - /url: https://www.olx.in/
+            - text: OLX
+            - img [ref=e1013] [cursor=pointer]
+        - listitem [ref=e1015]:
+          - generic [ref=e1016]:
+            - text: abSure
+            - img [ref=e1017]
+    - generic [ref=e1020]:
+      - paragraph [ref=e1021]: ©CarTrade Tech.
+      - generic [ref=e1022]:
+        - link "Visitor Agreement" [ref=e1023] [cursor=pointer]:
+          - /url: /visitor-agreement/
+        - text: "&"
+        - link "Privacy Policy" [ref=e1024] [cursor=pointer]:
+          - /url: /privacy-policy/
+  - generic [ref=e1025]:
+    - generic [ref=e1026]:
+      - generic [ref=e1027]:
+        - paragraph [ref=e1028]: Login to CarWale
+        - paragraph [ref=e1029]: Login to CarWale for a more personalised experience
+      - button "Close Popup" [ref=e1030] [cursor=pointer]:
+        - img [ref=e1031] [cursor=pointer]
+    - generic [ref=e1033]:
+      - generic [ref=e1034]:
+        - generic [ref=e1037]:
+          - generic: Contact Number*
+          - generic [ref=e1038]: "+91"
+          - textbox "Input field" [ref=e1039]
+          - group "Contact Number*"
+        - button "Get OTP" [ref=e1040] [cursor=pointer]
+      - generic [ref=e1043]: Or Continue with
+      - generic [ref=e1046] [cursor=pointer]:
+        - img "Whatsapp" [ref=e1049] [cursor=pointer]
+        - generic [ref=e1050] [cursor=pointer]: Whatsapp
+```

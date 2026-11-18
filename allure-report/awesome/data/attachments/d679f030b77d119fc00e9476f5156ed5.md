@@ -1,0 +1,1267 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "CarWale" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img "CarWale" [ref=e9] [cursor=pointer]
+      - navigation [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - generic [ref=e13] [cursor=pointer]: NEW CARS
+          - listitem [ref=e14]:
+            - generic [ref=e15] [cursor=pointer]: USED CARS
+          - listitem [ref=e16]:
+            - generic [ref=e17] [cursor=pointer]: REVIEWS & NEWS
+      - generic [ref=e18]:
+        - generic [ref=e23] [cursor=pointer]:
+          - textbox "Input field" [ref=e24]
+          - img [ref=e26] [cursor=pointer]
+        - img [ref=e30] [cursor=pointer]
+        - generic [ref=e32]:
+          - img [ref=e34]
+          - generic [ref=e39]:
+            - generic [ref=e40] [cursor=pointer]:
+              - radio "Continue in English" [checked] [ref=e42] [cursor=pointer]
+              - generic [ref=e45] [cursor=pointer]: Continue in English
+            - generic [ref=e46] [cursor=pointer]:
+              - radio "हिंदी में पढ़ें" [ref=e48] [cursor=pointer]
+              - generic [ref=e50] [cursor=pointer]: हिंदी में पढ़ें
+        - img [ref=e54] [cursor=pointer]
+  - generic [ref=e56]:
+    - generic [ref=e57]:
+      - button [ref=e66] [cursor=pointer]
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - heading "Find Your Right Car" [level=1] [ref=e69]
+          - generic [ref=e71]:
+            - generic [ref=e72]: Select City
+            - img [ref=e73]
+        - generic [ref=e75]:
+          - generic [ref=e79]:
+            - generic:
+              - generic: Type to select car name, e.g. Citroen C3
+              - generic: Type model name, e.g, Used Alto
+            - switch "New Used" [checked] [ref=e82]:
+              - generic [ref=e83] [cursor=pointer]: New
+              - generic [ref=e85] [cursor=pointer]: Used
+            - textbox "Input field" [ref=e86]
+            - group "Type to select car name, e.g. Citroen C3 Type model name, e.g, Used Alto"
+            - img [ref=e88]
+          - generic [ref=e90]:
+            - button "Budget" [ref=e92] [cursor=pointer]:
+              - img [ref=e94] [cursor=pointer]
+              - generic [ref=e96] [cursor=pointer]: Budget
+            - button "Body Type" [ref=e98] [cursor=pointer]:
+              - img [ref=e100] [cursor=pointer]
+              - generic [ref=e102] [cursor=pointer]: Body Type
+            - button "Fuel Type" [ref=e104] [cursor=pointer]:
+              - img [ref=e106] [cursor=pointer]
+              - generic [ref=e108] [cursor=pointer]: Fuel Type
+            - button "Transmission" [ref=e110] [cursor=pointer]:
+              - img [ref=e112] [cursor=pointer]
+              - generic [ref=e114] [cursor=pointer]: Transmission
+            - button "All Filters" [ref=e116] [cursor=pointer]:
+              - img [ref=e118] [cursor=pointer]
+              - generic [ref=e120] [cursor=pointer]: All Filters
+          - generic:
+            - generic [ref=e121]: Buy Used Cars in
+            - list [ref=e127]:
+              - listitem [ref=e128]:
+                - generic [ref=e131] [cursor=pointer]: Mumbai
+              - listitem [ref=e132]:
+                - generic [ref=e135] [cursor=pointer]: Bangalore
+              - listitem [ref=e136]:
+                - generic [ref=e139] [cursor=pointer]: Delhi
+              - listitem [ref=e140]:
+                - generic [ref=e143] [cursor=pointer]: Pune
+              - listitem [ref=e144]:
+                - generic [ref=e147] [cursor=pointer]: Navi Mumbai
+            - generic [ref=e148]:
+              - paragraph:
+                - generic [ref=e149]:
+                  - link "Sell Car" [ref=e150] [cursor=pointer]:
+                    - /url: /used/sell-car/?originId=8
+                  - generic [ref=e151]: "|"
+                  - link "Check Car Valuation" [ref=e152] [cursor=pointer]:
+                    - /url: /used/carvaluation/
+    - generic [ref=e154]:
+      - generic [ref=e155]:
+        - img [ref=e156]
+        - generic [ref=e157]: Trending Cars
+      - generic [ref=e158]:
+        - generic [ref=e159]:
+          - generic [ref=e162]:
+            - img "Volkswagen Taigun" [ref=e164]
+            - link "Taigun" [ref=e165] [cursor=pointer]:
+              - /url: /volkswagen-cars/taigun/
+              - generic [ref=e166] [cursor=pointer]: Taigun
+            - paragraph [ref=e167]: Ad
+          - generic [ref=e170]:
+            - img "Maruti Suzuki Escudo" [ref=e172]
+            - link "Escudo" [ref=e173] [cursor=pointer]:
+              - /url: /maruti-suzuki-cars/escudo/
+              - generic [ref=e174] [cursor=pointer]: Escudo
+          - generic [ref=e177]:
+            - img "Mahindra Scorpio N" [ref=e179]
+            - link "Scorpio N" [ref=e180] [cursor=pointer]:
+              - /url: /mahindra-cars/scorpio-n/
+              - generic [ref=e181] [cursor=pointer]: Scorpio N
+          - generic [ref=e184]:
+            - img "Hyundai Creta" [ref=e186]
+            - link "Creta" [ref=e187] [cursor=pointer]:
+              - /url: /hyundai-cars/creta/
+              - generic [ref=e188] [cursor=pointer]: Creta
+          - generic [ref=e191]:
+            - img "Maruti Suzuki Brezza" [ref=e193]
+            - link "Brezza" [ref=e194] [cursor=pointer]:
+              - /url: /maruti-suzuki-cars/brezza/
+              - generic [ref=e195] [cursor=pointer]: Brezza
+          - generic [ref=e198]:
+            - img "Toyota Urban Cruiser Hyryder" [ref=e200]
+            - link "Urban Cruiser Hyryder" [ref=e201] [cursor=pointer]:
+              - /url: /toyota-cars/hyryder/
+              - generic [ref=e202] [cursor=pointer]: Urban Cruiser Hyryder
+          - generic [ref=e205]:
+            - img "Mahindra XUV700" [ref=e207]
+            - link "XUV700" [ref=e208] [cursor=pointer]:
+              - /url: /mahindra-cars/xuv700/
+              - generic [ref=e209] [cursor=pointer]: XUV700
+          - generic [ref=e212]:
+            - img "Maruti Suzuki Grand Vitara" [ref=e214]
+            - link "Grand Vitara" [ref=e215] [cursor=pointer]:
+              - /url: /maruti-suzuki-cars/grand-vitara/
+              - generic [ref=e216] [cursor=pointer]: Grand Vitara
+          - generic [ref=e219]:
+            - img "Mahindra BE 6" [ref=e221]
+            - link "BE 6" [ref=e222] [cursor=pointer]:
+              - /url: /mahindra-cars/be-6/
+              - generic [ref=e223] [cursor=pointer]: BE 6
+          - link "Car Icon Explore New Cars" [ref=e225] [cursor=pointer]:
+            - /url: /new-cars/
+            - generic [ref=e226] [cursor=pointer]:
+              - img "Car Icon" [ref=e228] [cursor=pointer]
+              - generic [ref=e229] [cursor=pointer]: Explore New
+              - generic [ref=e230] [cursor=pointer]:
+                - generic [ref=e231] [cursor=pointer]: Cars
+                - img [ref=e232] [cursor=pointer]
+        - img [ref=e235] [cursor=pointer]
+    - generic [ref=e236]:
+      - generic [ref=e237]:
+        - heading "Cars by Budget" [level=2] [ref=e239]
+        - generic [ref=e241]:
+          - list [ref=e244]:
+            - listitem [ref=e245]:
+              - generic [ref=e248] [cursor=pointer]: Cars Under 10 Lakh
+            - listitem [ref=e250]:
+              - generic [ref=e253] [cursor=pointer]: 10 - 20 Lakh
+            - listitem [ref=e254]:
+              - generic [ref=e257] [cursor=pointer]: 20 - 30 Lakh
+            - listitem [ref=e258]:
+              - generic [ref=e261] [cursor=pointer]: Luxury Cars
+          - generic [ref=e264]:
+            - generic [ref=e265]:
+              - generic [ref=e268]:
+                - generic [ref=e274]:
+                  - img "Renault Triber" [ref=e277]
+                  - generic [ref=e278]:
+                    - link "Renault Triber" [ref=e279] [cursor=pointer]:
+                      - /url: /renault-cars/triber/
+                      - generic [ref=e280] [cursor=pointer]: Renault Triber
+                    - generic [ref=e282]: Rs. 6.30 - 9.40 Lakh
+                - generic [ref=e290]:
+                  - img "Renault Kiger" [ref=e293]
+                  - generic [ref=e294]:
+                    - link "Renault Kiger" [ref=e295] [cursor=pointer]:
+                      - /url: /renault-cars/kiger/
+                      - generic [ref=e296] [cursor=pointer]: Renault Kiger
+                    - generic [ref=e298]: Rs. 6.30 - 11.30 Lakh
+                - generic [ref=e306]:
+                  - img "Tata Nexon" [ref=e309]
+                  - generic [ref=e310]:
+                    - link "Tata Nexon" [ref=e311] [cursor=pointer]:
+                      - /url: /tata-cars/nexon/
+                      - generic [ref=e312] [cursor=pointer]: Tata Nexon
+                    - generic [ref=e314]: Rs. 8.00 - 15.60 Lakh
+                - generic [ref=e322]:
+                  - img "Maruti Suzuki Swift" [ref=e325]
+                  - generic [ref=e326]:
+                    - link "Maruti Swift" [ref=e327] [cursor=pointer]:
+                      - /url: /maruti-suzuki-cars/swift/
+                      - generic [ref=e328] [cursor=pointer]: Maruti Swift
+                    - generic [ref=e330]: Rs. 6.49 - 9.64 Lakh
+                - generic [ref=e338]:
+                  - img "Mahindra XUV 3XO" [ref=e341]
+                  - generic [ref=e342]:
+                    - link "Mahindra XUV 3XO" [ref=e343] [cursor=pointer]:
+                      - /url: /mahindra-cars/xuv-3xo/
+                      - generic [ref=e344] [cursor=pointer]: Mahindra XUV 3XO
+                    - generic [ref=e346]: Rs. 7.99 - 15.80 Lakh
+                - generic [ref=e354]:
+                  - img "Tata Punch" [ref=e357]
+                  - generic [ref=e358]:
+                    - link "Tata Punch" [ref=e359] [cursor=pointer]:
+                      - /url: /tata-cars/punch/
+                      - generic [ref=e360] [cursor=pointer]: Tata Punch
+                    - generic [ref=e362]: Rs. 6.20 - 10.32 Lakh
+                - generic [ref=e370]:
+                  - img "Maruti Suzuki Dzire" [ref=e373]
+                  - generic [ref=e374]:
+                    - link "Maruti Dzire" [ref=e375] [cursor=pointer]:
+                      - /url: /maruti-suzuki-cars/dzire/
+                      - generic [ref=e376] [cursor=pointer]: Maruti Dzire
+                    - generic [ref=e378]: Rs. 6.84 - 10.19 Lakh
+                - generic [ref=e386]:
+                  - img "Maruti Suzuki Baleno" [ref=e389]
+                  - generic [ref=e390]:
+                    - link "Maruti Baleno" [ref=e391] [cursor=pointer]:
+                      - /url: /maruti-suzuki-cars/baleno/
+                      - generic [ref=e392] [cursor=pointer]: Maruti Baleno
+                    - generic [ref=e394]: Rs. 6.74 - 9.96 Lakh
+                - generic [ref=e402]:
+                  - img "Maruti Suzuki Fronx" [ref=e405]
+                  - generic [ref=e406]:
+                    - link "Maruti Fronx" [ref=e407] [cursor=pointer]:
+                      - /url: /maruti-suzuki-cars/fronx/
+                      - generic [ref=e408] [cursor=pointer]: Maruti Fronx
+                    - generic [ref=e410]: Rs. 7.59 - 13.06 Lakh
+              - img [ref=e414] [cursor=pointer]
+            - generic [ref=e416]:
+              - text: Showing Avg. Ex-Showroom Price,
+              - generic [ref=e417] [cursor=pointer]: Select City
+              - img [ref=e419] [cursor=pointer]
+            - button "All Cars Under 10 Lakh" [ref=e422] [cursor=pointer]:
+              - generic [ref=e423] [cursor=pointer]: All Cars Under 10 Lakh
+              - img [ref=e424] [cursor=pointer]
+      - generic [ref=e425]:
+        - heading "Get Offers on Popular Cars" [level=2] [ref=e427]
+        - generic [ref=e430]:
+          - generic [ref=e433]:
+            - generic [ref=e439]:
+              - img "Jeep Compass" [ref=e442]
+              - generic [ref=e443]:
+                - link "Jeep Compass" [ref=e444] [cursor=pointer]:
+                  - /url: /jeep-cars/compass/
+                  - generic [ref=e445] [cursor=pointer]: Jeep Compass
+                - generic [ref=e447]:
+                  - text: Rs. 18.99 Lakh
+                  - generic [ref=e448]: onwards
+                - link "Check On Road Price" [ref=e449] [cursor=pointer]:
+                  - /url: /jeep-cars/compass/price-in-mumbai/
+            - generic [ref=e455]:
+              - img "Toyota Glanza" [ref=e458]
+              - generic [ref=e459]:
+                - link "Toyota Glanza" [ref=e460] [cursor=pointer]:
+                  - /url: /toyota-cars/glanza/
+                  - generic [ref=e461] [cursor=pointer]: Toyota Glanza
+                - generic [ref=e463]:
+                  - text: Rs. 6.99 Lakh
+                  - generic [ref=e464]: onwards
+                - link "Check On Road Price" [ref=e465] [cursor=pointer]:
+                  - /url: /toyota-cars/glanza/price-in-mumbai/
+            - generic [ref=e471]:
+              - img "Nissan Magnite" [ref=e474]
+              - generic [ref=e475]:
+                - link "Nissan Magnite" [ref=e476] [cursor=pointer]:
+                  - /url: /nissan-cars/magnite/
+                  - generic [ref=e477] [cursor=pointer]: Nissan Magnite
+                - generic [ref=e479]:
+                  - text: Rs. 6.14 Lakh
+                  - generic [ref=e480]: onwards
+                - link "Check On Road Price" [ref=e481] [cursor=pointer]:
+                  - /url: /nissan-cars/magnite/price-in-mumbai/
+            - generic [ref=e487]:
+              - img "Honda City" [ref=e490]
+              - generic [ref=e491]:
+                - link "Honda City" [ref=e492] [cursor=pointer]:
+                  - /url: /honda-cars/city/
+                  - generic [ref=e493] [cursor=pointer]: Honda City
+                - generic [ref=e495]:
+                  - text: Rs. 12.42 Lakh
+                  - generic [ref=e496]: onwards
+                - link "Check On Road Price" [ref=e497] [cursor=pointer]:
+                  - /url: /honda-cars/city/price-in-mumbai/
+            - generic [ref=e503]:
+              - img "Skoda Slavia" [ref=e506]
+              - generic [ref=e507]:
+                - link "Skoda Slavia" [ref=e508] [cursor=pointer]:
+                  - /url: /skoda-cars/slavia/
+                  - generic [ref=e509] [cursor=pointer]: Skoda Slavia
+                - generic [ref=e511]:
+                  - text: Rs. 10.49 Lakh
+                  - generic [ref=e512]: onwards
+                - link "Check On Road Price" [ref=e513] [cursor=pointer]:
+                  - /url: /skoda-cars/slavia/price-in-mumbai/
+            - generic [ref=e519]:
+              - img "Volkswagen Virtus" [ref=e522]
+              - generic [ref=e523]:
+                - link "Volkswagen Virtus" [ref=e524] [cursor=pointer]:
+                  - /url: /volkswagen-cars/virtus/
+                  - generic [ref=e525] [cursor=pointer]: Volkswagen Virtus
+                - generic [ref=e527]:
+                  - text: Rs. 11.56 Lakh
+                  - generic [ref=e528]: onwards
+                - link "Check On Road Price" [ref=e529] [cursor=pointer]:
+                  - /url: /volkswagen-cars/virtus/price-in-mumbai/
+            - generic [ref=e535]:
+              - img "Honda Elevate" [ref=e538]
+              - generic [ref=e539]:
+                - link "Honda Elevate" [ref=e540] [cursor=pointer]:
+                  - /url: /honda-cars/elevate/
+                  - generic [ref=e541] [cursor=pointer]: Honda Elevate
+                - generic [ref=e543]:
+                  - text: Rs. 11.95 Lakh
+                  - generic [ref=e544]: onwards
+                - link "Check On Road Price" [ref=e545] [cursor=pointer]:
+                  - /url: /honda-cars/elevate/price-in-mumbai/
+          - img [ref=e547] [cursor=pointer]
+      - generic [ref=e549]:
+        - heading "All Brands" [level=2] [ref=e551]
+        - generic [ref=e553]:
+          - list [ref=e556]:
+            - listitem [ref=e557]:
+              - link "Maruti Suzuki Cars Maruti Suzuki" [ref=e559] [cursor=pointer]:
+                - /url: /maruti-suzuki-cars/
+                - img "Maruti Suzuki Cars" [ref=e562] [cursor=pointer]
+                - generic [ref=e563] [cursor=pointer]: Maruti Suzuki
+            - listitem [ref=e564]:
+              - link "Mahindra Cars Mahindra" [ref=e566] [cursor=pointer]:
+                - /url: /mahindra-cars/
+                - img "Mahindra Cars" [ref=e569] [cursor=pointer]
+                - generic [ref=e570] [cursor=pointer]: Mahindra
+            - listitem [ref=e571]:
+              - link "Tata Cars Tata" [ref=e573] [cursor=pointer]:
+                - /url: /tata-cars/
+                - img "Tata Cars" [ref=e576] [cursor=pointer]
+                - generic [ref=e577] [cursor=pointer]: Tata
+            - listitem [ref=e578]:
+              - link "Hyundai Cars Hyundai" [ref=e580] [cursor=pointer]:
+                - /url: /hyundai-cars/
+                - img "Hyundai Cars" [ref=e583] [cursor=pointer]
+                - generic [ref=e584] [cursor=pointer]: Hyundai
+            - listitem [ref=e585]:
+              - link "Toyota Cars Toyota" [ref=e587] [cursor=pointer]:
+                - /url: /toyota-cars/
+                - img "Toyota Cars" [ref=e590] [cursor=pointer]
+                - generic [ref=e591] [cursor=pointer]: Toyota
+            - listitem [ref=e592]:
+              - link "Kia Cars Kia" [ref=e594] [cursor=pointer]:
+                - /url: /kia-cars/
+                - img "Kia Cars" [ref=e597] [cursor=pointer]
+                - generic [ref=e598] [cursor=pointer]: Kia
+            - listitem [ref=e599]:
+              - link "Renault Cars Renault" [ref=e601] [cursor=pointer]:
+                - /url: /renault-cars/
+                - img "Renault Cars" [ref=e604] [cursor=pointer]
+                - generic [ref=e605] [cursor=pointer]: Renault
+            - listitem [ref=e606]:
+              - link "BMW Cars BMW" [ref=e608] [cursor=pointer]:
+                - /url: /bmw-cars/
+                - img "BMW Cars" [ref=e611] [cursor=pointer]
+                - generic [ref=e612] [cursor=pointer]: BMW
+            - listitem [ref=e613]:
+              - link "Skoda Cars Skoda" [ref=e615] [cursor=pointer]:
+                - /url: /skoda-cars/
+                - img "Skoda Cars" [ref=e618] [cursor=pointer]
+                - generic [ref=e619] [cursor=pointer]: Skoda
+            - listitem [ref=e620]:
+              - link "Mercedes-Benz Cars Mercedes-Benz" [ref=e622] [cursor=pointer]:
+                - /url: /mercedes-benz-cars/
+                - img "Mercedes-Benz Cars" [ref=e625] [cursor=pointer]
+                - generic [ref=e626] [cursor=pointer]: Mercedes-Benz
+            - listitem [ref=e627]:
+              - link "Land Rover Cars Land Rover" [ref=e629] [cursor=pointer]:
+                - /url: /land-rover-cars/
+                - img "Land Rover Cars" [ref=e632] [cursor=pointer]
+                - generic [ref=e633] [cursor=pointer]: Land Rover
+            - listitem [ref=e634]:
+              - link "MG Cars MG" [ref=e636] [cursor=pointer]:
+                - /url: /mg-cars/
+                - img "MG Cars" [ref=e639] [cursor=pointer]
+                - generic [ref=e640] [cursor=pointer]: MG
+          - button "[object Object]" [ref=e641] [cursor=pointer]:
+            - generic [ref=e642] [cursor=pointer]: View More Brands
+      - generic [ref=e644]:
+        - heading "Find The Cars Of Your Choice" [level=2] [ref=e646]
+        - generic [ref=e648]:
+          - generic [ref=e649]:
+            - generic [ref=e650]: Budget
+            - generic [ref=e651]:
+              - link "Under 5 Lakh" [ref=e652] [cursor=pointer]:
+                - /url: /new/best-cars-under-5-lakh/
+                - generic [ref=e654] [cursor=pointer]:
+                  - img [ref=e655] [cursor=pointer]
+                  - generic [ref=e656] [cursor=pointer]: Under 5 Lakh
+              - link "Under 10 Lakh" [ref=e657] [cursor=pointer]:
+                - /url: /new/best-cars-under-10-lakh/
+                - generic [ref=e659] [cursor=pointer]:
+                  - img [ref=e660] [cursor=pointer]
+                  - generic [ref=e661] [cursor=pointer]: Under 10 Lakh
+              - link "Under 15 Lakh" [ref=e662] [cursor=pointer]:
+                - /url: /new/best-cars-under-15-lakh/
+                - generic [ref=e664] [cursor=pointer]:
+                  - img [ref=e665] [cursor=pointer]
+                  - generic [ref=e666] [cursor=pointer]: Under 15 Lakh
+          - generic [ref=e667]:
+            - generic [ref=e668]: Body Type
+            - generic [ref=e669]:
+              - link "SUV" [ref=e670] [cursor=pointer]:
+                - /url: /new/best-suvs/
+                - generic [ref=e672] [cursor=pointer]:
+                  - img [ref=e673] [cursor=pointer]
+                  - generic [ref=e674] [cursor=pointer]: SUV
+              - link "Hatchback" [ref=e675] [cursor=pointer]:
+                - /url: /new/best-hatchbacks/
+                - generic [ref=e677] [cursor=pointer]:
+                  - img [ref=e678] [cursor=pointer]
+                  - generic [ref=e679] [cursor=pointer]: Hatchback
+              - link "Sedan" [ref=e680] [cursor=pointer]:
+                - /url: /new/sedan-cars/
+                - generic [ref=e682] [cursor=pointer]:
+                  - img [ref=e683] [cursor=pointer]
+                  - generic [ref=e684] [cursor=pointer]: Sedan
+          - generic [ref=e685]:
+            - generic [ref=e686]: Fuel Type & Others
+            - generic [ref=e687]:
+              - link "Electric" [ref=e688] [cursor=pointer]:
+                - /url: /new/electric-cars/
+                - generic [ref=e690] [cursor=pointer]:
+                  - img [ref=e691] [cursor=pointer]
+                  - generic [ref=e692] [cursor=pointer]: Electric
+              - link "Hybrid" [ref=e693] [cursor=pointer]:
+                - /url: /new/hybrid-cars/
+                - generic [ref=e695] [cursor=pointer]:
+                  - img [ref=e696] [cursor=pointer]
+                  - generic [ref=e697] [cursor=pointer]: Hybrid
+              - link "CNG" [ref=e698] [cursor=pointer]:
+                - /url: /new/cng-cars/
+                - generic [ref=e700] [cursor=pointer]:
+                  - img [ref=e701] [cursor=pointer]
+                  - generic [ref=e702] [cursor=pointer]: CNG
+              - link "7 Seater" [ref=e703] [cursor=pointer]:
+                - /url: /new/7-seater-cars/
+                - generic [ref=e705] [cursor=pointer]:
+                  - img [ref=e706] [cursor=pointer]
+                  - generic [ref=e707] [cursor=pointer]: 7 Seater
+              - link "Automatic" [ref=e708] [cursor=pointer]:
+                - /url: /new/best-automatic-cars/
+                - generic [ref=e710] [cursor=pointer]:
+                  - img [ref=e711] [cursor=pointer]
+                  - generic [ref=e712] [cursor=pointer]: Automatic
+        - link "View More Filters" [ref=e715] [cursor=pointer]:
+          - /url: ""
+          - generic [ref=e716] [cursor=pointer]: View More Filters
+          - img [ref=e717] [cursor=pointer]
+      - generic [ref=e718]:
+        - heading "Upcoming and Recently Launched Cars" [level=2] [ref=e720]
+        - generic [ref=e722]:
+          - list [ref=e725]:
+            - listitem [ref=e726]:
+              - generic [ref=e729] [cursor=pointer]: Upcoming Cars
+            - listitem [ref=e731]:
+              - generic [ref=e734] [cursor=pointer]: Just Launched Cars
+          - generic [ref=e737]:
+            - generic [ref=e738]:
+              - generic [ref=e741]:
+                - generic [ref=e747]:
+                  - img "Maruti Suzuki Escudo" [ref=e750]
+                  - generic [ref=e751]:
+                    - link "Maruti Escudo" [ref=e752] [cursor=pointer]:
+                      - /url: /maruti-suzuki-cars/escudo/
+                      - generic [ref=e753] [cursor=pointer]: Maruti Escudo
+                    - generic [ref=e755]: Rs. 12.00 - 20.00 Lakh
+                    - generic [ref=e757]: 3rd Sep 2025
+                - generic [ref=e763]:
+                  - img "Tata Sierra EV" [ref=e766]
+                  - generic [ref=e767]:
+                    - link "Tata Sierra EV" [ref=e768] [cursor=pointer]:
+                      - /url: /tata-cars/sierra-ev/
+                      - generic [ref=e769] [cursor=pointer]: Tata Sierra EV
+                    - generic [ref=e771]: Rs. 25.00 - 30.00 Lakh
+                    - generic [ref=e773]: Sep 2025
+                - generic [ref=e779]:
+                  - img "Mahindra Thar Facelift" [ref=e782]
+                  - generic [ref=e783]:
+                    - link "Mahindra Thar Facelift" [ref=e784] [cursor=pointer]:
+                      - /url: /mahindra-cars/thar-facelift/
+                      - generic [ref=e785] [cursor=pointer]: Mahindra Thar Facelift
+                    - generic [ref=e787]: Rs. 12.00 - 18.00 Lakh
+                    - generic [ref=e789]: Sep 2025 (Tentative)
+                - generic [ref=e795]:
+                  - img "MG Majestor" [ref=e798]
+                  - generic [ref=e799]:
+                    - link "MG Majestor" [ref=e800] [cursor=pointer]:
+                      - /url: /mg-cars/majestor/
+                      - generic [ref=e801] [cursor=pointer]: MG Majestor
+                    - generic [ref=e803]: Rs. 40.00 - 45.00 Lakh
+                    - generic [ref=e805]: Sep 2025 (Tentative)
+                - generic [ref=e811]:
+                  - img "Hyundai Ioniq 5 facelift" [ref=e814]
+                  - generic [ref=e815]:
+                    - link "Hyundai Ioniq 5 facelift" [ref=e816] [cursor=pointer]:
+                      - /url: /hyundai-cars/ioniq-5-facelift/
+                      - generic [ref=e817] [cursor=pointer]: Hyundai Ioniq 5 facelift
+                    - generic [ref=e819]: Rs. 36.37 - 46.36 Lakh
+                    - generic [ref=e821]: Sep 2025 (Tentative)
+                - generic [ref=e827]:
+                  - img "Vinfast VF 6" [ref=e830]
+                  - generic [ref=e831]:
+                    - link "Vinfast VF 6" [ref=e832] [cursor=pointer]:
+                      - /url: /vinfast-cars/vf-6/
+                      - generic [ref=e833] [cursor=pointer]: Vinfast VF 6
+                    - generic [ref=e835]: Rs. 18.00 - 24.00 Lakh
+                    - generic [ref=e837]: 6th Sep 2025
+                - generic [ref=e843]:
+                  - img "Vinfast VF 7" [ref=e846]
+                  - generic [ref=e847]:
+                    - link "Vinfast VF 7" [ref=e848] [cursor=pointer]:
+                      - /url: /vinfast-cars/vf-7/
+                      - generic [ref=e849] [cursor=pointer]: Vinfast VF 7
+                    - generic [ref=e851]: Rs. 35.00 - 45.00 Lakh
+                    - generic [ref=e853]: 6th Sep 2025
+                - generic [ref=e859]:
+                  - img "Volvo EX30" [ref=e862]
+                  - generic [ref=e863]:
+                    - link "Volvo EX30" [ref=e864] [cursor=pointer]:
+                      - /url: /volvo-cars/ex30/
+                      - generic [ref=e865] [cursor=pointer]: Volvo EX30
+                    - generic [ref=e867]: Rs. 40.00 - 42.00 Lakh
+                    - generic [ref=e869]: Sep 2025
+                - generic [ref=e875]:
+                  - img "Vinfast VF e34" [ref=e878]
+                  - generic [ref=e879]:
+                    - link "Vinfast VF e34" [ref=e880] [cursor=pointer]:
+                      - /url: /vinfast-cars/vf-e34/
+                      - generic [ref=e881] [cursor=pointer]: Vinfast VF e34
+                    - generic [ref=e883]: Rs. 12.00 - 14.00 Lakh
+                    - generic [ref=e885]: Sep 2025 (Tentative)
+              - img [ref=e887] [cursor=pointer]
+            - generic [ref=e888]: Showing Estimated Prices
+            - link "All Upcoming Cars" [ref=e890] [cursor=pointer]:
+              - /url: /upcoming-cars/
+              - generic [ref=e891] [cursor=pointer]: All Upcoming Cars
+              - img [ref=e892] [cursor=pointer]
+    - generic [ref=e893]:
+      - generic [ref=e895]:
+        - heading "Cars by Fuel Type" [level=2] [ref=e897]
+        - generic [ref=e899]:
+          - list [ref=e902]:
+            - listitem [ref=e903]:
+              - generic [ref=e906] [cursor=pointer]: Electric Cars
+            - listitem [ref=e908]:
+              - generic [ref=e911] [cursor=pointer]: Hybrid Cars
+            - listitem [ref=e912]:
+              - generic [ref=e915] [cursor=pointer]: CNG Cars
+          - generic [ref=e918]:
+            - generic [ref=e919]:
+              - generic [ref=e922]:
+                - generic [ref=e928]:
+                  - img "Mahindra BE 6" [ref=e931]
+                  - generic [ref=e932]:
+                    - link "Mahindra BE 6" [ref=e933] [cursor=pointer]:
+                      - /url: /mahindra-cars/be-6/
+                      - generic [ref=e934] [cursor=pointer]: Mahindra BE 6
+                    - generic [ref=e936]: Rs. 18.90 - 28.54 Lakh
+                - generic [ref=e944]:
+                  - img "Mahindra XEV 9e" [ref=e947]
+                  - generic [ref=e948]:
+                    - link "Mahindra XEV 9e" [ref=e949] [cursor=pointer]:
+                      - /url: /mahindra-cars/xev-9e/
+                      - generic [ref=e950] [cursor=pointer]: Mahindra XEV 9e
+                    - generic [ref=e952]: Rs. 21.90 - 31.25 Lakh
+                - generic [ref=e960]:
+                  - img "MG Windsor EV" [ref=e963]
+                  - generic [ref=e964]:
+                    - link "MG Windsor EV" [ref=e965] [cursor=pointer]:
+                      - /url: /mg-cars/windsor-ev/
+                      - generic [ref=e966] [cursor=pointer]: MG Windsor EV
+                    - generic [ref=e968]: Rs. 12.00 - 15.81 Lakh
+                - generic [ref=e976]:
+                  - img "Tata Harrier EV" [ref=e979]
+                  - generic [ref=e980]:
+                    - link "Tata Harrier EV" [ref=e981] [cursor=pointer]:
+                      - /url: /tata-cars/harrier-ev/
+                      - generic [ref=e982] [cursor=pointer]: Tata Harrier EV
+                    - generic [ref=e984]: Rs. 21.49 - 30.23 Lakh
+                - generic [ref=e992]:
+                  - img "Tata Nexon EV" [ref=e995]
+                  - generic [ref=e996]:
+                    - link "Tata Nexon EV" [ref=e997] [cursor=pointer]:
+                      - /url: /tata-cars/nexon-ev/
+                      - generic [ref=e998] [cursor=pointer]: Tata Nexon EV
+                    - generic [ref=e1000]: Rs. 12.49 - 17.19 Lakh
+                - generic [ref=e1008]:
+                  - img "Tata Punch EV" [ref=e1011]
+                  - generic [ref=e1012]:
+                    - link "Tata Punch EV" [ref=e1013] [cursor=pointer]:
+                      - /url: /tata-cars/punch-ev/
+                      - generic [ref=e1014] [cursor=pointer]: Tata Punch EV
+                    - generic [ref=e1016]: Rs. 9.99 - 14.44 Lakh
+                - generic [ref=e1024]:
+                  - img "MG Comet EV" [ref=e1027]
+                  - generic [ref=e1028]:
+                    - link "MG Comet EV" [ref=e1029] [cursor=pointer]:
+                      - /url: /mg-cars/comet-ev/
+                      - generic [ref=e1030] [cursor=pointer]: MG Comet EV
+                    - generic [ref=e1032]: Rs. 6.24 - 8.82 Lakh
+                - generic [ref=e1040]:
+                  - img "Tata Tiago EV" [ref=e1043]
+                  - generic [ref=e1044]:
+                    - link "Tata Tiago EV" [ref=e1045] [cursor=pointer]:
+                      - /url: /tata-cars/tiago-ev/
+                      - generic [ref=e1046] [cursor=pointer]: Tata Tiago EV
+                    - generic [ref=e1048]: Rs. 7.99 - 11.14 Lakh
+                - generic [ref=e1056]:
+                  - img "BYD Seal" [ref=e1059]
+                  - generic [ref=e1060]:
+                    - link "BYD Seal" [ref=e1061] [cursor=pointer]:
+                      - /url: /byd-cars/seal/
+                      - generic [ref=e1062] [cursor=pointer]: BYD Seal
+                    - generic [ref=e1064]: Rs. 41.00 - 53.15 Lakh
+              - img [ref=e1068] [cursor=pointer]
+            - generic [ref=e1070]:
+              - text: Showing Avg. Ex-Showroom Price,
+              - generic [ref=e1071] [cursor=pointer]: Select City
+              - img [ref=e1073] [cursor=pointer]
+            - link "All Electric Cars" [ref=e1076] [cursor=pointer]:
+              - /url: /new/electric-cars/
+              - generic [ref=e1077] [cursor=pointer]: All Electric Cars
+              - img [ref=e1078] [cursor=pointer]
+      - generic [ref=e1080]:
+        - heading "Compare Cars" [level=2] [ref=e1082]
+        - generic [ref=e1084]:
+          - generic [ref=e1087]:
+            - generic [ref=e1093]:
+              - link "Hyundai Creta Hyundai Creta Rs. 11.11 Lakh onwards VS Kia Seltos Kia Seltos Rs. 11.19 Lakh onwards" [ref=e1094] [cursor=pointer]:
+                - /url: /compare-cars/kia-seltos-vs-hyundai-creta/
+                - generic [ref=e1095] [cursor=pointer]:
+                  - img "Hyundai Creta" [ref=e1097] [cursor=pointer]
+                  - generic [ref=e1098] [cursor=pointer]:
+                    - generic [ref=e1099] [cursor=pointer]:
+                      - generic [ref=e1100] [cursor=pointer]: Hyundai
+                      - generic [ref=e1102] [cursor=pointer]: Creta
+                    - generic [ref=e1103] [cursor=pointer]:
+                      - generic [ref=e1104] [cursor=pointer]: Rs. 11.11 Lakh
+                      - generic [ref=e1105] [cursor=pointer]: onwards
+                - generic [ref=e1108] [cursor=pointer]: VS
+                - generic [ref=e1110] [cursor=pointer]:
+                  - img "Kia Seltos" [ref=e1112] [cursor=pointer]
+                  - generic [ref=e1113] [cursor=pointer]:
+                    - generic [ref=e1114] [cursor=pointer]:
+                      - generic [ref=e1115] [cursor=pointer]: Kia
+                      - generic [ref=e1117] [cursor=pointer]: Seltos
+                    - generic [ref=e1118] [cursor=pointer]:
+                      - generic [ref=e1119] [cursor=pointer]: Rs. 11.19 Lakh
+                      - generic [ref=e1120] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1122] [cursor=pointer]:
+                - /url: /compare-cars/kia-seltos-vs-hyundai-creta/
+                - generic [ref=e1123] [cursor=pointer]: Compare Now
+            - generic [ref=e1129]:
+              - link "Mahindra Scorpio N Mahindra Scorpio N Rs. 13.99 Lakh onwards VS Mahindra XUV700 Mahindra XUV700 Rs. 14.49 Lakh onwards" [ref=e1130] [cursor=pointer]:
+                - /url: /compare-cars/mahindra-xuv700-vs-mahindra-scorpio-n/
+                - generic [ref=e1131] [cursor=pointer]:
+                  - img "Mahindra Scorpio N" [ref=e1133] [cursor=pointer]
+                  - generic [ref=e1134] [cursor=pointer]:
+                    - generic [ref=e1135] [cursor=pointer]:
+                      - generic [ref=e1136] [cursor=pointer]: Mahindra
+                      - generic [ref=e1138] [cursor=pointer]: Scorpio N
+                    - generic [ref=e1139] [cursor=pointer]:
+                      - generic [ref=e1140] [cursor=pointer]: Rs. 13.99 Lakh
+                      - generic [ref=e1141] [cursor=pointer]: onwards
+                - generic [ref=e1144] [cursor=pointer]: VS
+                - generic [ref=e1146] [cursor=pointer]:
+                  - img "Mahindra XUV700" [ref=e1148] [cursor=pointer]
+                  - generic [ref=e1149] [cursor=pointer]:
+                    - generic [ref=e1150] [cursor=pointer]:
+                      - generic [ref=e1151] [cursor=pointer]: Mahindra
+                      - generic [ref=e1153] [cursor=pointer]: XUV700
+                    - generic [ref=e1154] [cursor=pointer]:
+                      - generic [ref=e1155] [cursor=pointer]: Rs. 14.49 Lakh
+                      - generic [ref=e1156] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1158] [cursor=pointer]:
+                - /url: /compare-cars/mahindra-xuv700-vs-mahindra-scorpio-n/
+                - generic [ref=e1159] [cursor=pointer]: Compare Now
+            - generic [ref=e1165]:
+              - link "Renault Kiger Renault Kiger Rs. 6.30 Lakh onwards VS Nissan Magnite Nissan Magnite Rs. 6.14 Lakh onwards" [ref=e1166] [cursor=pointer]:
+                - /url: /compare-cars/renault-kiger-vs-nissan-magnite/
+                - generic [ref=e1167] [cursor=pointer]:
+                  - img "Renault Kiger" [ref=e1169] [cursor=pointer]
+                  - generic [ref=e1170] [cursor=pointer]:
+                    - generic [ref=e1171] [cursor=pointer]:
+                      - generic [ref=e1172] [cursor=pointer]: Renault
+                      - generic [ref=e1174] [cursor=pointer]: Kiger
+                    - generic [ref=e1175] [cursor=pointer]:
+                      - generic [ref=e1176] [cursor=pointer]: Rs. 6.30 Lakh
+                      - generic [ref=e1177] [cursor=pointer]: onwards
+                - generic [ref=e1180] [cursor=pointer]: VS
+                - generic [ref=e1182] [cursor=pointer]:
+                  - img "Nissan Magnite" [ref=e1184] [cursor=pointer]
+                  - generic [ref=e1185] [cursor=pointer]:
+                    - generic [ref=e1186] [cursor=pointer]:
+                      - generic [ref=e1187] [cursor=pointer]: Nissan
+                      - generic [ref=e1189] [cursor=pointer]: Magnite
+                    - generic [ref=e1190] [cursor=pointer]:
+                      - generic [ref=e1191] [cursor=pointer]: Rs. 6.14 Lakh
+                      - generic [ref=e1192] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1194] [cursor=pointer]:
+                - /url: /compare-cars/renault-kiger-vs-nissan-magnite/
+                - generic [ref=e1195] [cursor=pointer]: Compare Now
+            - generic [ref=e1201]:
+              - link "Maruti Suzuki Brezza Maruti Brezza Rs. 8.69 Lakh onwards VS Maruti Suzuki Fronx Maruti Fronx Rs. 7.59 Lakh onwards" [ref=e1202] [cursor=pointer]:
+                - /url: /compare-cars/maruti-suzuki-fronx-vs-maruti-suzuki-brezza/
+                - generic [ref=e1203] [cursor=pointer]:
+                  - img "Maruti Suzuki Brezza" [ref=e1205] [cursor=pointer]
+                  - generic [ref=e1206] [cursor=pointer]:
+                    - generic [ref=e1207] [cursor=pointer]:
+                      - generic [ref=e1208] [cursor=pointer]: Maruti
+                      - generic [ref=e1210] [cursor=pointer]: Brezza
+                    - generic [ref=e1211] [cursor=pointer]:
+                      - generic [ref=e1212] [cursor=pointer]: Rs. 8.69 Lakh
+                      - generic [ref=e1213] [cursor=pointer]: onwards
+                - generic [ref=e1216] [cursor=pointer]: VS
+                - generic [ref=e1218] [cursor=pointer]:
+                  - img "Maruti Suzuki Fronx" [ref=e1220] [cursor=pointer]
+                  - generic [ref=e1221] [cursor=pointer]:
+                    - generic [ref=e1222] [cursor=pointer]:
+                      - generic [ref=e1223] [cursor=pointer]: Maruti
+                      - generic [ref=e1225] [cursor=pointer]: Fronx
+                    - generic [ref=e1226] [cursor=pointer]:
+                      - generic [ref=e1227] [cursor=pointer]: Rs. 7.59 Lakh
+                      - generic [ref=e1228] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1230] [cursor=pointer]:
+                - /url: /compare-cars/maruti-suzuki-fronx-vs-maruti-suzuki-brezza/
+                - generic [ref=e1231] [cursor=pointer]: Compare Now
+            - generic [ref=e1237]:
+              - link "Tata Nexon Tata Nexon Rs. 8.00 Lakh onwards VS Mahindra XUV 3XO Mahindra XUV 3XO Rs. 7.99 Lakh onwards" [ref=e1238] [cursor=pointer]:
+                - /url: /compare-cars/mahindra-xuv-3xo-vs-tata-nexon/
+                - generic [ref=e1239] [cursor=pointer]:
+                  - img "Tata Nexon" [ref=e1241] [cursor=pointer]
+                  - generic [ref=e1242] [cursor=pointer]:
+                    - generic [ref=e1243] [cursor=pointer]:
+                      - generic [ref=e1244] [cursor=pointer]: Tata
+                      - generic [ref=e1246] [cursor=pointer]: Nexon
+                    - generic [ref=e1247] [cursor=pointer]:
+                      - generic [ref=e1248] [cursor=pointer]: Rs. 8.00 Lakh
+                      - generic [ref=e1249] [cursor=pointer]: onwards
+                - generic [ref=e1252] [cursor=pointer]: VS
+                - generic [ref=e1254] [cursor=pointer]:
+                  - img "Mahindra XUV 3XO" [ref=e1256] [cursor=pointer]
+                  - generic [ref=e1257] [cursor=pointer]:
+                    - generic [ref=e1258] [cursor=pointer]:
+                      - generic [ref=e1259] [cursor=pointer]: Mahindra
+                      - generic [ref=e1261] [cursor=pointer]: XUV 3XO
+                    - generic [ref=e1262] [cursor=pointer]:
+                      - generic [ref=e1263] [cursor=pointer]: Rs. 7.99 Lakh
+                      - generic [ref=e1264] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1266] [cursor=pointer]:
+                - /url: /compare-cars/mahindra-xuv-3xo-vs-tata-nexon/
+                - generic [ref=e1267] [cursor=pointer]: Compare Now
+            - generic [ref=e1273]:
+              - link "Renault Triber Renault Triber Rs. 6.30 Lakh onwards VS Maruti Suzuki Ertiga Maruti Ertiga Rs. 9.12 Lakh onwards" [ref=e1274] [cursor=pointer]:
+                - /url: /compare-cars/renault-triber-vs-maruti-suzuki-ertiga/
+                - generic [ref=e1275] [cursor=pointer]:
+                  - img "Renault Triber" [ref=e1277] [cursor=pointer]
+                  - generic [ref=e1278] [cursor=pointer]:
+                    - generic [ref=e1279] [cursor=pointer]:
+                      - generic [ref=e1280] [cursor=pointer]: Renault
+                      - generic [ref=e1282] [cursor=pointer]: Triber
+                    - generic [ref=e1283] [cursor=pointer]:
+                      - generic [ref=e1284] [cursor=pointer]: Rs. 6.30 Lakh
+                      - generic [ref=e1285] [cursor=pointer]: onwards
+                - generic [ref=e1288] [cursor=pointer]: VS
+                - generic [ref=e1290] [cursor=pointer]:
+                  - img "Maruti Suzuki Ertiga" [ref=e1292] [cursor=pointer]
+                  - generic [ref=e1293] [cursor=pointer]:
+                    - generic [ref=e1294] [cursor=pointer]:
+                      - generic [ref=e1295] [cursor=pointer]: Maruti
+                      - generic [ref=e1297] [cursor=pointer]: Ertiga
+                    - generic [ref=e1298] [cursor=pointer]:
+                      - generic [ref=e1299] [cursor=pointer]: Rs. 9.12 Lakh
+                      - generic [ref=e1300] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1302] [cursor=pointer]:
+                - /url: /compare-cars/renault-triber-vs-maruti-suzuki-ertiga/
+                - generic [ref=e1303] [cursor=pointer]: Compare Now
+            - generic [ref=e1309]:
+              - link "Toyota Urban Cruiser Hyryder Toyota Urban Cruiser Hyryder Rs. 11.34 Lakh onwards VS Maruti Suzuki Grand Vitara Maruti Grand Vitara Rs. 11.42 Lakh onwards" [ref=e1310] [cursor=pointer]:
+                - /url: /compare-cars/toyota-hyryder-vs-maruti-suzuki-grand-vitara/
+                - generic [ref=e1311] [cursor=pointer]:
+                  - img "Toyota Urban Cruiser Hyryder" [ref=e1313] [cursor=pointer]
+                  - generic [ref=e1314] [cursor=pointer]:
+                    - generic [ref=e1315] [cursor=pointer]:
+                      - generic [ref=e1316] [cursor=pointer]: Toyota
+                      - generic [ref=e1318] [cursor=pointer]: Urban Cruiser Hyryder
+                    - generic [ref=e1319] [cursor=pointer]:
+                      - generic [ref=e1320] [cursor=pointer]: Rs. 11.34 Lakh
+                      - generic [ref=e1321] [cursor=pointer]: onwards
+                - generic [ref=e1324] [cursor=pointer]: VS
+                - generic [ref=e1326] [cursor=pointer]:
+                  - img "Maruti Suzuki Grand Vitara" [ref=e1328] [cursor=pointer]
+                  - generic [ref=e1329] [cursor=pointer]:
+                    - generic [ref=e1330] [cursor=pointer]:
+                      - generic [ref=e1331] [cursor=pointer]: Maruti
+                      - generic [ref=e1333] [cursor=pointer]: Grand Vitara
+                    - generic [ref=e1334] [cursor=pointer]:
+                      - generic [ref=e1335] [cursor=pointer]: Rs. 11.42 Lakh
+                      - generic [ref=e1336] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1338] [cursor=pointer]:
+                - /url: /compare-cars/toyota-hyryder-vs-maruti-suzuki-grand-vitara/
+                - generic [ref=e1339] [cursor=pointer]: Compare Now
+            - generic [ref=e1345]:
+              - link "Mahindra XUV 3XO Mahindra XUV 3XO Rs. 7.99 Lakh onwards VS Skoda Kylaq Skoda Kylaq Rs. 8.25 Lakh onwards" [ref=e1346] [cursor=pointer]:
+                - /url: /compare-cars/skoda-kylaq-vs-mahindra-xuv-3xo/
+                - generic [ref=e1347] [cursor=pointer]:
+                  - img "Mahindra XUV 3XO" [ref=e1349] [cursor=pointer]
+                  - generic [ref=e1350] [cursor=pointer]:
+                    - generic [ref=e1351] [cursor=pointer]:
+                      - generic [ref=e1352] [cursor=pointer]: Mahindra
+                      - generic [ref=e1354] [cursor=pointer]: XUV 3XO
+                    - generic [ref=e1355] [cursor=pointer]:
+                      - generic [ref=e1356] [cursor=pointer]: Rs. 7.99 Lakh
+                      - generic [ref=e1357] [cursor=pointer]: onwards
+                - generic [ref=e1360] [cursor=pointer]: VS
+                - generic [ref=e1362] [cursor=pointer]:
+                  - img "Skoda Kylaq" [ref=e1364] [cursor=pointer]
+                  - generic [ref=e1365] [cursor=pointer]:
+                    - generic [ref=e1366] [cursor=pointer]:
+                      - generic [ref=e1367] [cursor=pointer]: Skoda
+                      - generic [ref=e1369] [cursor=pointer]: Kylaq
+                    - generic [ref=e1370] [cursor=pointer]:
+                      - generic [ref=e1371] [cursor=pointer]: Rs. 8.25 Lakh
+                      - generic [ref=e1372] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1374] [cursor=pointer]:
+                - /url: /compare-cars/skoda-kylaq-vs-mahindra-xuv-3xo/
+                - generic [ref=e1375] [cursor=pointer]: Compare Now
+            - generic [ref=e1381]:
+              - link "Mahindra XUV700 Mahindra XUV700 Rs. 14.49 Lakh onwards VS Tata Safari Tata Safari Rs. 15.50 Lakh onwards" [ref=e1382] [cursor=pointer]:
+                - /url: /compare-cars/tata-safari-vs-mahindra-xuv700/
+                - generic [ref=e1383] [cursor=pointer]:
+                  - img "Mahindra XUV700" [ref=e1385] [cursor=pointer]
+                  - generic [ref=e1386] [cursor=pointer]:
+                    - generic [ref=e1387] [cursor=pointer]:
+                      - generic [ref=e1388] [cursor=pointer]: Mahindra
+                      - generic [ref=e1390] [cursor=pointer]: XUV700
+                    - generic [ref=e1391] [cursor=pointer]:
+                      - generic [ref=e1392] [cursor=pointer]: Rs. 14.49 Lakh
+                      - generic [ref=e1393] [cursor=pointer]: onwards
+                - generic [ref=e1396] [cursor=pointer]: VS
+                - generic [ref=e1398] [cursor=pointer]:
+                  - img "Tata Safari" [ref=e1400] [cursor=pointer]
+                  - generic [ref=e1401] [cursor=pointer]:
+                    - generic [ref=e1402] [cursor=pointer]:
+                      - generic [ref=e1403] [cursor=pointer]: Tata
+                      - generic [ref=e1405] [cursor=pointer]: Safari
+                    - generic [ref=e1406] [cursor=pointer]:
+                      - generic [ref=e1407] [cursor=pointer]: Rs. 15.50 Lakh
+                      - generic [ref=e1408] [cursor=pointer]: onwards
+              - link "Compare Now" [ref=e1410] [cursor=pointer]:
+                - /url: /compare-cars/tata-safari-vs-mahindra-xuv700/
+                - generic [ref=e1411] [cursor=pointer]: Compare Now
+          - img [ref=e1413] [cursor=pointer]
+        - link "Compare Cars of Your Choice" [ref=e1415] [cursor=pointer]:
+          - /url: /compare-cars/
+          - generic [ref=e1416] [cursor=pointer]: Compare Cars of Your Choice
+          - img [ref=e1417] [cursor=pointer]
+      - generic [ref=e1418]:
+        - heading "Used Cars By City" [level=2] [ref=e1420]
+        - generic [ref=e1422]:
+          - generic [ref=e1425]:
+            - generic [ref=e1429] [cursor=pointer]:
+              - generic [ref=e1430] [cursor=pointer]:
+                - img "Used Cars in Delhi" [ref=e1432] [cursor=pointer]
+                - link "Delhi" [ref=e1433] [cursor=pointer]:
+                  - /url: /used/delhi/
+              - generic [ref=e1434] [cursor=pointer]:
+                - paragraph [ref=e1435] [cursor=pointer]: 11,400+ Cars
+                - paragraph [ref=e1436] [cursor=pointer]: From Rs. 40,000
+            - generic [ref=e1440] [cursor=pointer]:
+              - generic [ref=e1441] [cursor=pointer]:
+                - img "Used Cars in Mumbai" [ref=e1443] [cursor=pointer]
+                - link "Mumbai" [ref=e1444] [cursor=pointer]:
+                  - /url: /used/mumbai/
+              - generic [ref=e1445] [cursor=pointer]:
+                - paragraph [ref=e1446] [cursor=pointer]: 9,200+ Cars
+                - paragraph [ref=e1447] [cursor=pointer]: From Rs. 45,000
+            - generic [ref=e1451] [cursor=pointer]:
+              - generic [ref=e1452] [cursor=pointer]:
+                - img "Used Cars in Bangalore" [ref=e1454] [cursor=pointer]
+                - link "Bangalore" [ref=e1455] [cursor=pointer]:
+                  - /url: /used/bangalore/
+              - generic [ref=e1456] [cursor=pointer]:
+                - paragraph [ref=e1457] [cursor=pointer]: 5,800+ Cars
+                - paragraph [ref=e1458] [cursor=pointer]: From Rs. 40,000
+            - generic [ref=e1462] [cursor=pointer]:
+              - generic [ref=e1463] [cursor=pointer]:
+                - img "Used Cars in Pune" [ref=e1465] [cursor=pointer]
+                - link "Pune" [ref=e1466] [cursor=pointer]:
+                  - /url: /used/pune/
+              - generic [ref=e1467] [cursor=pointer]:
+                - paragraph [ref=e1468] [cursor=pointer]: 5,100+ Cars
+                - paragraph [ref=e1469] [cursor=pointer]: From Rs. 45,000
+            - generic [ref=e1473] [cursor=pointer]:
+              - generic [ref=e1474] [cursor=pointer]:
+                - img "Used Cars in Hyderabad" [ref=e1476] [cursor=pointer]
+                - link "Hyderabad" [ref=e1477] [cursor=pointer]:
+                  - /url: /used/hyderabad/
+              - generic [ref=e1478] [cursor=pointer]:
+                - paragraph [ref=e1479] [cursor=pointer]: 5,200+ Cars
+                - paragraph [ref=e1480] [cursor=pointer]: From Rs. 40,000
+            - generic [ref=e1484] [cursor=pointer]:
+              - generic [ref=e1485] [cursor=pointer]:
+                - img "Used Cars in Ahmedabad" [ref=e1487] [cursor=pointer]
+                - link "Ahmedabad" [ref=e1488] [cursor=pointer]:
+                  - /url: /used/ahmedabad/
+              - generic [ref=e1489] [cursor=pointer]:
+                - paragraph [ref=e1490] [cursor=pointer]: 4,200+ Cars
+                - paragraph [ref=e1491] [cursor=pointer]: From Rs. 35,000
+            - generic [ref=e1495] [cursor=pointer]:
+              - generic [ref=e1496] [cursor=pointer]:
+                - img "Used Cars in Chennai" [ref=e1498] [cursor=pointer]
+                - link "Chennai" [ref=e1499] [cursor=pointer]:
+                  - /url: /used/chennai/
+              - generic [ref=e1500] [cursor=pointer]:
+                - paragraph [ref=e1501] [cursor=pointer]: 4,100+ Cars
+                - paragraph [ref=e1502] [cursor=pointer]: From Rs. 50,000
+            - generic [ref=e1506] [cursor=pointer]:
+              - generic [ref=e1507] [cursor=pointer]:
+                - img "Used Cars in Kolkata" [ref=e1509] [cursor=pointer]
+                - link "Kolkata" [ref=e1510] [cursor=pointer]:
+                  - /url: /used/kolkata/
+              - generic [ref=e1511] [cursor=pointer]:
+                - paragraph [ref=e1512] [cursor=pointer]: 2,500+ Cars
+                - paragraph [ref=e1513] [cursor=pointer]: From Rs. 30,000
+            - generic [ref=e1517] [cursor=pointer]:
+              - generic [ref=e1518] [cursor=pointer]:
+                - img "Used Cars in Lucknow" [ref=e1520] [cursor=pointer]
+                - link "Lucknow" [ref=e1521] [cursor=pointer]:
+                  - /url: /used/lucknow/
+              - generic [ref=e1522] [cursor=pointer]:
+                - paragraph [ref=e1523] [cursor=pointer]: 3,300+ Cars
+                - paragraph [ref=e1524] [cursor=pointer]: From Rs. 30,000
+            - generic [ref=e1528] [cursor=pointer]:
+              - generic [ref=e1529] [cursor=pointer]:
+                - img "Used Cars in Jaipur" [ref=e1531] [cursor=pointer]
+                - link "Jaipur" [ref=e1532] [cursor=pointer]:
+                  - /url: /used/jaipur/
+              - generic [ref=e1533] [cursor=pointer]:
+                - paragraph [ref=e1534] [cursor=pointer]: 2,000+ Cars
+                - paragraph [ref=e1535] [cursor=pointer]: From Rs. 40,000
+            - generic [ref=e1539] [cursor=pointer]:
+              - generic [ref=e1540] [cursor=pointer]:
+                - img "Used Cars in Gurgaon" [ref=e1542] [cursor=pointer]
+                - link "Gurgaon" [ref=e1543] [cursor=pointer]:
+                  - /url: /used/gurgaon/
+              - generic [ref=e1544] [cursor=pointer]:
+                - paragraph [ref=e1545] [cursor=pointer]: 5,200+ Cars
+                - paragraph [ref=e1546] [cursor=pointer]: From Rs. 77,207
+            - generic [ref=e1550] [cursor=pointer]:
+              - generic [ref=e1551] [cursor=pointer]:
+                - img "Used Cars in Kanpur" [ref=e1553] [cursor=pointer]
+                - link "Kanpur" [ref=e1554] [cursor=pointer]:
+                  - /url: /used/kanpur/
+              - generic [ref=e1555] [cursor=pointer]:
+                - paragraph [ref=e1556] [cursor=pointer]: 1,600+ Cars
+                - paragraph [ref=e1557] [cursor=pointer]: From Rs. 40,000
+            - generic [ref=e1561] [cursor=pointer]:
+              - generic [ref=e1562] [cursor=pointer]:
+                - img "Used Cars in Chandigarh" [ref=e1564] [cursor=pointer]
+                - link "Chandigarh" [ref=e1565] [cursor=pointer]:
+                  - /url: /used/chandigarh/
+              - generic [ref=e1566] [cursor=pointer]:
+                - paragraph [ref=e1567] [cursor=pointer]: 2,500+ Cars
+                - paragraph [ref=e1568] [cursor=pointer]: From Rs. 40,000
+            - generic [ref=e1572] [cursor=pointer]:
+              - generic [ref=e1573] [cursor=pointer]:
+                - img "Used Cars in Patna" [ref=e1575] [cursor=pointer]
+                - link "Patna" [ref=e1576] [cursor=pointer]:
+                  - /url: /used/patna/
+              - generic [ref=e1577] [cursor=pointer]:
+                - paragraph [ref=e1578] [cursor=pointer]: 1,000+ Cars
+                - paragraph [ref=e1579] [cursor=pointer]: From Rs. 30,000
+            - generic [ref=e1583] [cursor=pointer]:
+              - generic [ref=e1584] [cursor=pointer]:
+                - img "Used Cars in Ranchi" [ref=e1586] [cursor=pointer]
+                - link "Ranchi" [ref=e1587] [cursor=pointer]:
+                  - /url: /used/ranchi/
+              - generic [ref=e1588] [cursor=pointer]:
+                - paragraph [ref=e1589] [cursor=pointer]: 900+ Cars
+                - paragraph [ref=e1590] [cursor=pointer]: From Rs. 50,000
+            - generic [ref=e1594] [cursor=pointer]:
+              - img [ref=e1596] [cursor=pointer]
+              - paragraph [ref=e1597] [cursor=pointer]: Could not find city you are looking for?
+              - link "Explore Cities" [ref=e1598] [cursor=pointer]:
+                - /url: /used/
+          - img [ref=e1600] [cursor=pointer]
+      - generic [ref=e1601]:
+        - heading "Popular Used Cars in India" [level=2] [ref=e1603]
+        - generic [ref=e1605]:
+          - generic [ref=e1609]:
+            - generic [ref=e1613] [cursor=pointer]:
+              - img "Maruti Suzuki Swift" [ref=e1615] [cursor=pointer]
+              - generic [ref=e1616] [cursor=pointer]:
+                - link "Used Maruti Suzuki Swift" [ref=e1617] [cursor=pointer]:
+                  - /url: /used/india/maruti-suzuki-swift/
+                - generic [ref=e1618] [cursor=pointer]:
+                  - text: Rs. 55,000
+                  - generic [ref=e1619] [cursor=pointer]: Onwards
+                - generic [ref=e1620] [cursor=pointer]:
+                  - generic [ref=e1621] [cursor=pointer]: "Explore in:"
+                  - generic [ref=e1622] [cursor=pointer]:
+                    - link "Delhi" [ref=e1623] [cursor=pointer]:
+                      - /url: /used/delhi/maruti-suzuki-swift/
+                      - generic [ref=e1624] [cursor=pointer]: Delhi
+                    - link "Mumbai" [ref=e1625] [cursor=pointer]:
+                      - /url: /used/mumbai/maruti-suzuki-swift/
+                      - generic [ref=e1626] [cursor=pointer]: Mumbai
+                    - link "Bangalore" [ref=e1627] [cursor=pointer]:
+                      - /url: /used/bangalore/maruti-suzuki-swift/
+                      - generic [ref=e1628] [cursor=pointer]: Bangalore
+            - generic [ref=e1633] [cursor=pointer]:
+              - img "Hyundai Creta" [ref=e1635] [cursor=pointer]
+              - generic [ref=e1636] [cursor=pointer]:
+                - link "Used Hyundai Creta" [ref=e1637] [cursor=pointer]:
+                  - /url: /used/india/hyundai-creta/
+                - generic [ref=e1638] [cursor=pointer]:
+                  - text: Rs. 2 Lakh
+                  - generic [ref=e1639] [cursor=pointer]: Onwards
+                - generic [ref=e1640] [cursor=pointer]:
+                  - generic [ref=e1641] [cursor=pointer]: "Explore in:"
+                  - generic [ref=e1642] [cursor=pointer]:
+                    - link "Delhi" [ref=e1643] [cursor=pointer]:
+                      - /url: /used/delhi/hyundai-creta/
+                      - generic [ref=e1644] [cursor=pointer]: Delhi
+                    - link "Mumbai" [ref=e1645] [cursor=pointer]:
+                      - /url: /used/mumbai/hyundai-creta/
+                      - generic [ref=e1646] [cursor=pointer]: Mumbai
+                    - link "Bangalore" [ref=e1647] [cursor=pointer]:
+                      - /url: /used/bangalore/hyundai-creta/
+                      - generic [ref=e1648] [cursor=pointer]: Bangalore
+            - generic [ref=e1653] [cursor=pointer]:
+              - img "Maruti Suzuki Vitara Brezza" [ref=e1655] [cursor=pointer]
+              - generic [ref=e1656] [cursor=pointer]:
+                - link "Used Maruti Suzuki Vitara Brezza" [ref=e1657] [cursor=pointer]:
+                  - /url: /used/india/maruti-suzuki-vitara-brezza/
+                - generic [ref=e1658] [cursor=pointer]:
+                  - text: Rs. 2 Lakh
+                  - generic [ref=e1659] [cursor=pointer]: Onwards
+                - generic [ref=e1660] [cursor=pointer]:
+                  - generic [ref=e1661] [cursor=pointer]: "Explore in:"
+                  - generic [ref=e1662] [cursor=pointer]:
+                    - link "Delhi" [ref=e1663] [cursor=pointer]:
+                      - /url: /used/delhi/maruti-suzuki-vitara-brezza/
+                      - generic [ref=e1664] [cursor=pointer]: Delhi
+                    - link "Mumbai" [ref=e1665] [cursor=pointer]:
+                      - /url: /used/mumbai/maruti-suzuki-vitara-brezza/
+                      - generic [ref=e1666] [cursor=pointer]: Mumbai
+                    - link "Bangalore" [ref=e1667] [cursor=pointer]:
+                      - /url: /used/bangalore/maruti-suzuki-vitara-brezza/
+                      - generic [ref=e1668] [cursor=pointer]: Bangalore
+            - generic [ref=e1673] [cursor=pointer]:
+              - img "Maruti Suzuki Ertiga" [ref=e1675] [cursor=pointer]
+              - generic [ref=e1676] [cursor=pointer]:
+                - link "Used Maruti Suzuki Ertiga" [ref=e1677] [cursor=pointer]:
+                  - /url: /used/india/maruti-suzuki-ertiga/
+                - generic [ref=e1678] [cursor=pointer]:
+                  - text: Rs. 1.2 Lakh
+                  - generic [ref=e1679] [cursor=pointer]: Onwards
+                - generic [ref=e1680] [cursor=pointer]:
+                  - generic [ref=e1681] [cursor=pointer]: "Explore in:"
+                  - generic [ref=e1682] [cursor=pointer]:
+                    - link "Delhi" [ref=e1683] [cursor=pointer]:
+                      - /url: /used/delhi/maruti-suzuki-ertiga/
+                      - generic [ref=e1684] [cursor=pointer]: Delhi
+                    - link "Mumbai" [ref=e1685] [cursor=pointer]:
+                      - /url: /used/mumbai/maruti-suzuki-ertiga/
+                      - generic [ref=e1686] [cursor=pointer]: Mumbai
+                    - link "Bangalore" [ref=e1687] [cursor=pointer]:
+                      - /url: /used/bangalore/maruti-suzuki-ertiga/
+                      - generic [ref=e1688] [cursor=pointer]: Bangalore
+            - generic [ref=e1693] [cursor=pointer]:
+              - img "Maruti Suzuki Alto 800" [ref=e1695] [cursor=pointer]
+              - generic [ref=e1696] [cursor=pointer]:
+                - link "Used Maruti Suzuki Alto 800" [ref=e1697] [cursor=pointer]:
+                  - /url: /used/india/maruti-suzuki-alto-800/
+                - generic [ref=e1698] [cursor=pointer]:
+                  - text: Rs. 50,000
+                  - generic [ref=e1699] [cursor=pointer]: Onwards
+                - generic [ref=e1700] [cursor=pointer]:
+                  - generic [ref=e1701] [cursor=pointer]: "Explore in:"
+                  - generic [ref=e1702] [cursor=pointer]:
+                    - link "Delhi" [ref=e1703] [cursor=pointer]:
+                      - /url: /used/delhi/maruti-suzuki-alto-800/
+                      - generic [ref=e1704] [cursor=pointer]: Delhi
+                    - link "Mumbai" [ref=e1705] [cursor=pointer]:
+                      - /url: /used/mumbai/maruti-suzuki-alto-800/
+                      - generic [ref=e1706] [cursor=pointer]: Mumbai
+                    - link "Bangalore" [ref=e1707] [cursor=pointer]:
+                      - /url: /used/bangalore/maruti-suzuki-alto-800/
+                      - generic [ref=e1708] [cursor=pointer]: Bangalore
+          - button "View More Used Cars" [ref=e1710] [cursor=pointer]:
+            - text: View More Used Cars
+            - img [ref=e1711] [cursor=pointer]
+      - generic [ref=e1713]:
+        - heading "Latest Car Updates" [level=2] [ref=e1715]
+        - generic [ref=e1717]:
+          - list [ref=e1720]:
+            - listitem [ref=e1721]:
+              - generic [ref=e1723] [cursor=pointer]: Car News
+            - listitem [ref=e1725]:
+              - generic [ref=e1727] [cursor=pointer]: Expert Reviews
+            - listitem [ref=e1728]:
+              - generic [ref=e1730] [cursor=pointer]: Videos
+          - generic [ref=e1734]:
+            - generic [ref=e1735]:
+              - generic [ref=e1738]:
+                - link "New BMW iX3 to Debut on 5 September New BMW iX3 to Debut on 5 September By Desirazu Venkat 31 Aug 2025 The next-gen BMW iX3 is expected to come to India in 2026" [ref=e1742] [cursor=pointer]:
+                  - /url: /news/new-bmw-ix3-to-debut-on-5-september/
+                  - img "New BMW iX3 to Debut on 5 September" [ref=e1744] [cursor=pointer]
+                  - generic [ref=e1745] [cursor=pointer]: New BMW iX3 to Debut on 5 September
+                  - paragraph [ref=e1746] [cursor=pointer]:
+                    - text: By
+                    - generic [ref=e1747] [cursor=pointer]: Desirazu Venkat
+                    - text: 31 Aug 2025
+                  - generic [ref=e1748] [cursor=pointer]: The next-gen BMW iX3 is expected to come to India in 2026
+                - link "Maruti Suzuki True Value Crosses 60 Lakh Sales Milestone Maruti Suzuki True Value Crosses 60 Lakh Sales Milestone By CarWale Team 30 Aug 2025 85 per cent MSTV customers are first-time buyers, the official statement says." [ref=e1752] [cursor=pointer]:
+                  - /url: /news/maruti-suzuki-true-value-crosses-60-lakh-sales-milestone/
+                  - img "Maruti Suzuki True Value Crosses 60 Lakh Sales Milestone" [ref=e1754] [cursor=pointer]
+                  - generic [ref=e1755] [cursor=pointer]: Maruti Suzuki True Value Crosses 60 Lakh Sales Milestone
+                  - paragraph [ref=e1756] [cursor=pointer]:
+                    - text: By
+                    - generic [ref=e1757] [cursor=pointer]: CarWale Team
+                    - text: 30 Aug 2025
+                  - generic [ref=e1758] [cursor=pointer]: 85 per cent MSTV customers are first-time buyers, the official statement says.
+                - 'link "Renault Kiger Facelift: Is the New Update Enough to Stand Out? Renault Kiger Facelift: Is the New Update Enough to Stand Out? By Sagar Bhanushali 30 Aug 2025 Has Renault India addressed the shortcomings of the Kiger to make it a stronger contender?" [ref=e1762] [cursor=pointer]':
+                  - /url: /news/renault-kiger-facelift-is-the-new-update-enough-to-stand-out/
+                  - 'img "Renault Kiger Facelift: Is the New Update Enough to Stand Out?" [ref=e1764] [cursor=pointer]'
+                  - generic [ref=e1765] [cursor=pointer]: "Renault Kiger Facelift: Is the New Update Enough to Stand Out?"
+                  - paragraph [ref=e1766] [cursor=pointer]:
+                    - text: By
+                    - generic [ref=e1767] [cursor=pointer]: Sagar Bhanushali
+                    - text: 30 Aug 2025
+                  - generic [ref=e1768] [cursor=pointer]: Has Renault India addressed the shortcomings of the Kiger to make it a stronger contender?
+                - link "Jeep Meridian facelift previewed in Brazil as the 2026 Commander Jeep Meridian facelift previewed in Brazil as the 2026 Commander By Jay Shah 30 Aug 2025 Jeep has revealed the facelifted version of its seven-seater SUV for the Brazilian market. It’s the 2026 Commander which closely mirrors India’s Meridian." [ref=e1772] [cursor=pointer]:
+                  - /url: /news/jeep-meridian-facelift-previewed-in-brazil-as-the-2026-commander/
+                  - img "Jeep Meridian facelift previewed in Brazil as the 2026 Commander" [ref=e1774] [cursor=pointer]
+                  - generic [ref=e1775] [cursor=pointer]: Jeep Meridian facelift previewed in Brazil as the 2026 Commander
+                  - paragraph [ref=e1776] [cursor=pointer]:
+                    - text: By
+                    - generic [ref=e1777] [cursor=pointer]: Jay Shah
+                    - text: 30 Aug 2025
+                  - generic [ref=e1778] [cursor=pointer]: Jeep has revealed the facelifted version of its seven-seater SUV for the Brazilian market. It’s the 2026 Commander which closely mirrors India’s Meridian.
+                - link "Tesla Model Y Performance Revealed 0–100kmph in Just 3 Seconds Tesla Model Y Performance Revealed 0–100kmph in Just 3 Seconds By Haji Chakralwale 30 Aug 2025 Tesla has unveiled the new Model Y Performance, reviving the high-performance version of its best-selling electric SUV." [ref=e1782] [cursor=pointer]:
+                  - /url: /news/tesla-model-y-performance-revealed-0100kmph-in-just-3-seconds/
+                  - img "Tesla Model Y Performance Revealed 0–100kmph in Just 3 Seconds" [ref=e1784] [cursor=pointer]
+                  - generic [ref=e1785] [cursor=pointer]: Tesla Model Y Performance Revealed 0–100kmph in Just 3 Seconds
+                  - paragraph [ref=e1786] [cursor=pointer]:
+                    - text: By
+                    - generic [ref=e1787] [cursor=pointer]: Haji Chakralwale
+                    - text: 30 Aug 2025
+                  - generic [ref=e1788] [cursor=pointer]: Tesla has unveiled the new Model Y Performance, reviving the high-performance version of its best-selling electric SUV.
+              - img [ref=e1790] [cursor=pointer]
+            - link "All News" [ref=e1792] [cursor=pointer]:
+              - /url: /news/
+              - generic [ref=e1793] [cursor=pointer]: All News
+              - img [ref=e1794] [cursor=pointer]
+  - generic [ref=e1796] [cursor=pointer]:
+    - generic [ref=e1797] [cursor=pointer]: Buying a New Car?
+    - generic [ref=e1798] [cursor=pointer]: Leave a missed call
+    - generic [ref=e1799] [cursor=pointer]: "08068441441"
+    - generic [ref=e1800] [cursor=pointer]: (Toll free)
+    - img [ref=e1802] [cursor=pointer]
+  - contentinfo [ref=e1805]:
+    - generic [ref=e1806]:
+      - generic [ref=e1807]:
+        - generic [ref=e1809]:
+          - text: "Language:"
+          - generic [ref=e1810]: English
+          - link "हिंदी" [ref=e1811] [cursor=pointer]:
+            - /url: /hi/
+        - generic [ref=e1812]:
+          - link "About Us" [ref=e1814] [cursor=pointer]:
+            - /url: /about-us/
+          - link "Careers" [ref=e1816] [cursor=pointer]:
+            - /url: /career/
+          - link "Terms & Conditions" [ref=e1818] [cursor=pointer]:
+            - /url: /used/sell/terms/
+          - link "Advertise" [ref=e1820] [cursor=pointer]:
+            - /url: /contactus/
+      - generic [ref=e1822]:
+        - generic [ref=e1823]:
+          - paragraph [ref=e1824]: Connect with us
+          - generic [ref=e1825]:
+            - link "Facebook" [ref=e1826] [cursor=pointer]:
+              - /url: https://www.facebook.com/CarWale/
+              - img [ref=e1827] [cursor=pointer]
+            - link "Twitter" [ref=e1828] [cursor=pointer]:
+              - /url: https://twitter.com/carwale/
+              - img [ref=e1829] [cursor=pointer]
+            - link "YouTube" [ref=e1830] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/CARWALE/featured
+              - img [ref=e1831] [cursor=pointer]
+            - link "LinkedIn" [ref=e1832] [cursor=pointer]:
+              - /url: https://in.linkedin.com/company/automotive-exchange-private-limited-carwale-com-
+              - img [ref=e1833] [cursor=pointer]
+            - link "Instagram" [ref=e1834] [cursor=pointer]:
+              - /url: https://www.instagram.com/carwaleindia/?hl=en
+              - img [ref=e1835] [cursor=pointer]
+        - generic [ref=e1836]:
+          - paragraph [ref=e1837]: Download Mobile App
+          - list [ref=e1838]:
+            - listitem [ref=e1839]:
+              - link "CarWale Android App Download CarWale iOS App" [ref=e1840] [cursor=pointer]:
+                - /url: https://apps.apple.com/in/app/carwale-buy-new-used-cars/id910137745
+                - text: CarWale Android App
+                - img "Download CarWale iOS App" [ref=e1842] [cursor=pointer]
+            - listitem [ref=e1843]:
+              - link "CarWale Android App Download CarWale Android App" [ref=e1844] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.carwale&referrer=utm_source%3DCarWaleMsite%26utm_medium%3DFooter%26utm_campaign=CarWale%2520MobilesiteFooter
+                - text: CarWale Android App
+                - img "Download CarWale Android App" [ref=e1846] [cursor=pointer]
+    - generic [ref=e1847]:
+      - img [ref=e1848]
+      - list [ref=e1851]:
+        - listitem [ref=e1852]:
+          - generic [ref=e1853]: CarWale
+        - listitem [ref=e1854]:
+          - link "BikeWale" [ref=e1855] [cursor=pointer]:
+            - /url: https://www.bikewale.com/
+        - listitem [ref=e1856]:
+          - link "CarTrade" [ref=e1857] [cursor=pointer]:
+            - /url: https://www.cartrade.com/
+        - listitem [ref=e1858]:
+          - link "Mobility Outlook" [ref=e1859] [cursor=pointer]:
+            - /url: https://www.mobilityoutlook.com/
+        - listitem [ref=e1860]:
+          - link "OLX" [ref=e1861] [cursor=pointer]:
+            - /url: https://www.olx.in/
+        - listitem [ref=e1862]:
+          - generic [ref=e1863]: abSure
+    - generic [ref=e1865]:
+      - paragraph [ref=e1866]: ©CarTrade Tech.
+      - generic [ref=e1867]:
+        - link "Visitor Agreement" [ref=e1868] [cursor=pointer]:
+          - /url: /visitor-agreement/
+        - text: "&"
+        - link "Privacy Policy" [ref=e1869] [cursor=pointer]:
+          - /url: /privacy-policy/
+  - generic [ref=e1870]:
+    - generic [ref=e1871]:
+      - generic [ref=e1872]:
+        - paragraph [ref=e1873]: Login to CarWale
+        - paragraph [ref=e1874]: Login to CarWale for a more personalised experience
+      - button "Close Popup" [ref=e1875] [cursor=pointer]:
+        - img [ref=e1876] [cursor=pointer]
+    - generic [ref=e1878]:
+      - generic [ref=e1879]:
+        - generic [ref=e1882]:
+          - generic: Contact Number*
+          - generic [ref=e1883]: "+91"
+          - textbox "Input field" [ref=e1884]
+          - group "Contact Number*"
+        - button "Get OTP" [ref=e1885] [cursor=pointer]
+      - generic [ref=e1888]: Or Continue with
+      - generic [ref=e1891] [cursor=pointer]:
+        - img "Whatsapp" [ref=e1894] [cursor=pointer]
+        - generic [ref=e1895] [cursor=pointer]: Whatsapp
+```

@@ -1,0 +1,80 @@
+New Cars
+The title of bmw brand page is: BMW Cars
+Car Name: BMW 2 Series Gran Coupe | Price: Rs. 46.90 Lakh
+Car Name: BMW M340i | Price: Rs. 75.90 Lakh
+Car Name: BMW 3 Series LWB | Price: Rs. 62.00 Lakh
+Car Name: BMW 5 Series | Price: Rs. 75.90 Lakh
+Car Name: BMW X3 | Price: Rs. 75.80 Lakh
+Car Name: BMW X5 | Price: Rs. 1.00 Crore
+Car Name: BMW M5 | Price: Rs. 1.99 Crore
+Car Name: BMW iX1 | Price: Rs. 51.50 Lakh
+Car Name: BMW X1 | Price: Rs. 1.56 Crore
+Car Name: BMW M4 | Price: Rs. 1.84 Crore
+Car Name: BMW 7 Series | Price: Rs. 92.90 Lakh
+Car Name: BMW Z4 | Price: Rs. 1.31 Crore
+Car Name: BMW X7 | Price: Rs. 2.44 Crore
+Car Name: BMW M8 | Price: Rs. 1.03 Crore
+Car Name: BMW M2 | Price: Rs. 2.60 Crore
+Car Name: BMW XM | Price: Rs. 96.20 Lakh
+Car Name: BMW iX1 LWB | Price: Rs. 1.20 Crore
+[
+  { name: 'BMW 2 Series Gran Coupe', price: 'Rs. 46.90 Lakh' },
+  { name: 'BMW M340i', price: 'Rs. 75.90 Lakh' },
+  { name: 'BMW 3 Series LWB', price: 'Rs. 62.00 Lakh' },
+  { name: 'BMW 5 Series', price: 'Rs. 75.90 Lakh' },
+  { name: 'BMW X3', price: 'Rs. 75.80 Lakh' },
+  { name: 'BMW X5', price: 'Rs. 1.00 Crore' },
+  { name: 'BMW M5', price: 'Rs. 1.99 Crore' },
+  { name: 'BMW iX1', price: 'Rs. 51.50 Lakh' },
+  { name: 'BMW X1', price: 'Rs. 1.56 Crore' },
+  { name: 'BMW M4', price: 'Rs. 1.84 Crore' },
+  { name: 'BMW 7 Series', price: 'Rs. 92.90 Lakh' },
+  { name: 'BMW Z4', price: 'Rs. 1.31 Crore' },
+  { name: 'BMW X7', price: 'Rs. 2.44 Crore' },
+  { name: 'BMW M8', price: 'Rs. 1.03 Crore' },
+  { name: 'BMW M2', price: 'Rs. 2.60 Crore' },
+  { name: 'BMW XM', price: 'Rs. 96.20 Lakh' },
+  { name: 'BMW iX1 LWB', price: 'Rs. 1.20 Crore' }
+]
+New Cars
+The title of toyota brand page is: Toyota Cars
+Car Name: Toyota Urban Cruiser Hyryder | Price: Rs. 12.65 Lakh
+Car Name: Toyota Fortuner | Price: Rs. 36.05 Lakh
+Car Name: Toyota Urban Cruiser Taisor | Price: Rs. 7.89 Lakh
+Car Name: Toyota Glanza | Price: Rs. 6.99 Lakh
+Car Name: Toyota Innova Crysta | Price: Rs. 19.99 Lakh
+Car Name: Toyota Innova Hycross | Price: Rs. 19.94 Lakh
+Car Name: Toyota Hilux | Price: Rs. 30.40 Lakh
+Car Name: Toyota Vellfire | Price: Rs. 1.22 Crore
+Car Name: Toyota Fortuner Legender | Price: Rs. 44.51 Lakh
+Car Name: Toyota Camry | Price: Rs. 48.50 Lakh
+Car Name: Toyota Rumion | Price: Rs. 10.82 Lakh
+Car Name: Toyota Land Cruiser | Price: Rs. 2.31 Crore
+[
+  { name: 'Toyota Urban Cruiser Hyryder', price: 'Rs. 12.65 Lakh' },
+  { name: 'Toyota Fortuner', price: 'Rs. 36.05 Lakh' },
+  { name: 'Toyota Urban Cruiser Taisor', price: 'Rs. 7.89 Lakh' },
+  { name: 'Toyota Glanza', price: 'Rs. 6.99 Lakh' },
+  { name: 'Toyota Innova Crysta', price: 'Rs. 19.99 Lakh' },
+  { name: 'Toyota Innova Hycross', price: 'Rs. 19.94 Lakh' },
+  { name: 'Toyota Hilux', price: 'Rs. 30.40 Lakh' },
+  { name: 'Toyota Vellfire', price: 'Rs. 1.22 Crore' },
+  { name: 'Toyota Fortuner Legender', price: 'Rs. 44.51 Lakh' },
+  { name: 'Toyota Camry', price: 'Rs. 48.50 Lakh' },
+  { name: 'Toyota Rumion', price: 'Rs. 10.82 Lakh' },
+  { name: 'Toyota Land Cruiser', price: 'Rs. 2.31 Crore' }
+]
+New Cars
+The title of honda brand page is: Honda Cars
+Car Name: Honda Elevate | Price: Rs. 11.95 Lakh
+Car Name: Honda Amaze | Price: Rs. 8.14 Lakh
+Car Name: Honda City | Price: Rs. 12.42 Lakh
+Car Name: Honda City Hybrid eHEV | Price: Rs. 19.94 Lakh
+Car Name: Honda Amaze 2nd Gen | Price: Rs. 7.66 Lakh
+[
+  { name: 'Honda Elevate', price: 'Rs. 11.95 Lakh' },
+  { name: 'Honda Amaze', price: 'Rs. 8.14 Lakh' },
+  { name: 'Honda City', price: 'Rs. 12.42 Lakh' },
+  { name: 'Honda City Hybrid eHEV', price: 'Rs. 19.94 Lakh' },
+  { name: 'Honda Amaze 2nd Gen', price: 'Rs. 7.66 Lakh' }
+]

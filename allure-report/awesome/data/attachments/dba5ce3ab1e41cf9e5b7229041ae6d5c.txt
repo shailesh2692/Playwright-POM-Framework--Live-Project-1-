@@ -1,0 +1,59 @@
+New Cars
+The title of bmw brand page is: BMW Cars
+Car Name: BMW 2 Series Gran Coupe | Price: Rs. 46.90 Lakh
+Car Name: BMW M340i | Price: Rs. 75.90 Lakh
+Car Name: BMW 3 Series LWB | Price: Rs. 62.00 Lakh
+Car Name: BMW 5 Series | Price: Rs. 75.90 Lakh
+Car Name: BMW X3 | Price: Rs. 75.80 Lakh
+Car Name: BMW X5 | Price: Rs. 1.00 Crore
+Car Name: BMW M5 | Price: Rs. 1.99 Crore
+Car Name: BMW iX1 | Price: Rs. 51.50 Lakh
+Car Name: BMW X1 | Price: Rs. 1.56 Crore
+Car Name: BMW M4 | Price: Rs. 1.84 Crore
+Car Name: BMW 7 Series | Price: Rs. 92.90 Lakh
+Car Name: BMW Z4 | Price: Rs. 1.31 Crore
+Car Name: BMW X7 | Price: Rs. 2.44 Crore
+Car Name: BMW M8 | Price: Rs. 1.03 Crore
+Car Name: BMW M2 | Price: Rs. 2.60 Crore
+Car Name: BMW XM | Price: Rs. 96.20 Lakh
+Car Name: BMW iX1 LWB | Price: Rs. 1.20 Crore
+undefined
+New Cars
+The title of toyota brand page is: Toyota Cars
+Car Name: Toyota Urban Cruiser Hyryder | Price: Rs. 12.65 Lakh
+Car Name: Toyota Fortuner | Price: Rs. 36.05 Lakh
+Car Name: Toyota Urban Cruiser Taisor | Price: Rs. 7.89 Lakh
+Car Name: Toyota Glanza | Price: Rs. 6.99 Lakh
+Car Name: Toyota Innova Crysta | Price: Rs. 19.99 Lakh
+Car Name: Toyota Innova Hycross | Price: Rs. 19.94 Lakh
+Car Name: Toyota Hilux | Price: Rs. 30.40 Lakh
+Car Name: Toyota Vellfire | Price: Rs. 1.22 Crore
+Car Name: Toyota Fortuner Legender | Price: Rs. 44.51 Lakh
+Car Name: Toyota Camry | Price: Rs. 48.50 Lakh
+Car Name: Toyota Rumion | Price: Rs. 10.82 Lakh
+Car Name: Toyota Land Cruiser | Price: Rs. 2.31 Crore
+undefined
+New Cars
+The title of honda brand page is: Honda Cars
+Car Name: Honda Elevate | Price: Rs. 11.95 Lakh
+Car Name: Honda Amaze | Price: Rs. 8.14 Lakh
+Car Name: Honda City | Price: Rs. 12.42 Lakh
+Car Name: Honda City Hybrid eHEV | Price: Rs. 19.94 Lakh
+Car Name: Honda Amaze 2nd Gen | Price: Rs. 7.66 Lakh
+undefined
+New Cars
+The title of hyundai brand page is: Hyundai Cars
+Car Name: Hyundai Creta | Price: Rs. 11.11 Lakh
+Car Name: Hyundai Venue | Price: Rs. 7.94 Lakh
+Car Name: Hyundai Grand i10 Nios | Price: Rs. 5.98 Lakh
+Car Name: Hyundai Exter | Price: Rs. 6.00 Lakh
+Car Name: Hyundai Verna | Price: Rs. 11.07 Lakh
+Car Name: Hyundai i20 | Price: Rs. 7.51 Lakh
+Car Name: Hyundai Aura | Price: Rs. 6.54 Lakh
+Car Name: Hyundai Alcazar | Price: Rs. 14.99 Lakh
+Car Name: Hyundai i20 N Line | Price: Rs. 9.99 Lakh
+Car Name: Hyundai Creta Electric | Price: Rs. 29.27 Lakh
+Car Name: Hyundai Tucson | Price: Rs. 16.93 Lakh
+Car Name: Hyundai Creta N Line | Price: Rs. 12.15 Lakh
+Car Name: Hyundai Venue N Line | Price: Rs. 46.30 Lakh
+undefined

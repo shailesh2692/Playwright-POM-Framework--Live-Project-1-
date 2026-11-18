@@ -1,0 +1,391 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - separator [ref=e5]
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - link "CarWale" [ref=e11] [cursor=pointer]:
+        - /url: /
+        - img "CarWale" [ref=e12] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - generic [ref=e16] [cursor=pointer]: NEW CARS
+          - listitem [ref=e17]:
+            - generic [ref=e18] [cursor=pointer]: USED CARS
+          - listitem [ref=e19]:
+            - generic [ref=e20] [cursor=pointer]: REVIEWS & NEWS
+      - generic [ref=e21]:
+        - generic [ref=e26] [cursor=pointer]:
+          - textbox "Input field" [ref=e27]
+          - img [ref=e29] [cursor=pointer]
+        - img [ref=e33] [cursor=pointer]
+        - img [ref=e37]
+        - img [ref=e40] [cursor=pointer]
+  - generic [ref=e43]:
+    - generic [ref=e44]:
+      - heading "New Cars" [level=1] [ref=e46]
+      - generic [ref=e48]:
+        - generic [ref=e51]:
+          - text: Are you planning on buying a new car? Well, we know that with so many car options available out there, it gets really difficult to find a good car which suits your need. Hence, we have put together a complete list of new cars. Maruti Suzuki, Mahindra and Tata are the 3 most popular car brands. These popular car brands cater to a wide spectrum of budgets and needs, offering a variety of cars from fuel-efficient hatchbacks to spacious SUVs. The 5 most popular cars are
+          - link "Hyundai Creta" [ref=e52] [cursor=pointer]:
+            - /url: /hyundai-cars/creta/
+          - text: ","
+          - link "Tata Nexon" [ref=e53] [cursor=pointer]:
+            - /url: /tata-cars/nexon/
+          - text: ","
+          - link "Mahindra Scorpio N" [ref=e54] [cursor=pointer]:
+            - /url: /mahindra-cars/scorpio-n/
+          - text: ","
+          - link "Mahindra XUV 3XO" [ref=e55] [cursor=pointer]:
+            - /url: /mahindra-cars/xuv-3xo/
+          - text: and
+          - link "Maruti Suzuki Brezza" [ref=e56] [cursor=pointer]:
+            - /url: /maruti-suzuki-cars/brezza/
+          - text: . Explore the complete list of cars by exploring different brands or by applying multiple filters such as budget, fuel type, body type etc. You can find the car that suits you best from the list of cars below.
+        - button "Read More" [ref=e57] [cursor=pointer]
+    - generic [ref=e58]:
+      - heading "All Brands" [level=2] [ref=e60]
+      - generic [ref=e62]:
+        - list [ref=e65]:
+          - listitem [ref=e66]:
+            - link "Maruti Suzuki Cars Maruti Suzuki" [ref=e67] [cursor=pointer]:
+              - /url: /maruti-suzuki-cars/
+              - img "Maruti Suzuki Cars" [ref=e70] [cursor=pointer]
+              - generic [ref=e71] [cursor=pointer]: Maruti Suzuki
+          - listitem [ref=e72]:
+            - link "Mahindra Cars Mahindra" [ref=e73] [cursor=pointer]:
+              - /url: /mahindra-cars/
+              - img "Mahindra Cars" [ref=e76] [cursor=pointer]
+              - generic [ref=e77] [cursor=pointer]: Mahindra
+          - listitem [ref=e78]:
+            - link "Tata Cars Tata" [ref=e79] [cursor=pointer]:
+              - /url: /tata-cars/
+              - img "Tata Cars" [ref=e82] [cursor=pointer]
+              - generic [ref=e83] [cursor=pointer]: Tata
+          - listitem [ref=e84]:
+            - link "Hyundai Cars Hyundai" [ref=e85] [cursor=pointer]:
+              - /url: /hyundai-cars/
+              - img "Hyundai Cars" [ref=e88] [cursor=pointer]
+              - generic [ref=e89] [cursor=pointer]: Hyundai
+          - listitem [ref=e90]:
+            - link "Toyota Cars Toyota" [ref=e91] [cursor=pointer]:
+              - /url: /toyota-cars/
+              - img "Toyota Cars" [ref=e94] [cursor=pointer]
+              - generic [ref=e95] [cursor=pointer]: Toyota
+          - listitem [ref=e96]:
+            - link "Kia Cars Kia" [ref=e97] [cursor=pointer]:
+              - /url: /kia-cars/
+              - img "Kia Cars" [ref=e100] [cursor=pointer]
+              - generic [ref=e101] [cursor=pointer]: Kia
+          - listitem [ref=e102]:
+            - link "Skoda Cars Skoda" [ref=e103] [cursor=pointer]:
+              - /url: /skoda-cars/
+              - img "Skoda Cars" [ref=e106] [cursor=pointer]
+              - generic [ref=e107] [cursor=pointer]: Skoda
+          - listitem [ref=e108]:
+            - link "BMW Cars BMW" [ref=e109] [cursor=pointer]:
+              - /url: /bmw-cars/
+              - img "BMW Cars" [ref=e112] [cursor=pointer]
+              - generic [ref=e113] [cursor=pointer]: BMW
+          - listitem [ref=e114]:
+            - link "Renault Cars Renault" [ref=e115] [cursor=pointer]:
+              - /url: /renault-cars/
+              - img "Renault Cars" [ref=e118] [cursor=pointer]
+              - generic [ref=e119] [cursor=pointer]: Renault
+          - listitem [ref=e120]:
+            - link "MG Cars MG" [ref=e121] [cursor=pointer]:
+              - /url: /mg-cars/
+              - img "MG Cars" [ref=e124] [cursor=pointer]
+              - generic [ref=e125] [cursor=pointer]: MG
+          - listitem [ref=e126]:
+            - link "Citroen Cars Citroen" [ref=e127] [cursor=pointer]:
+              - /url: /citroen-cars/
+              - img "Citroen Cars" [ref=e130] [cursor=pointer]
+              - generic [ref=e131] [cursor=pointer]: Citroen
+          - listitem [ref=e132]:
+            - link "Mercedes-Benz Cars Mercedes-Benz" [ref=e133] [cursor=pointer]:
+              - /url: /mercedes-benz-cars/
+              - img "Mercedes-Benz Cars" [ref=e136] [cursor=pointer]
+              - generic [ref=e137] [cursor=pointer]: Mercedes-Benz
+          - listitem [ref=e138]:
+            - link "Honda Cars Honda" [ref=e139] [cursor=pointer]:
+              - /url: /honda-cars/
+              - img "Honda Cars" [ref=e142] [cursor=pointer]
+              - generic [ref=e143] [cursor=pointer]: Honda
+          - listitem [ref=e144]:
+            - link "Volkswagen Cars Volkswagen" [ref=e145] [cursor=pointer]:
+              - /url: /volkswagen-cars/
+              - img "Volkswagen Cars" [ref=e148] [cursor=pointer]
+              - generic [ref=e149] [cursor=pointer]: Volkswagen
+          - listitem [ref=e150]:
+            - link "Vinfast Cars Vinfast" [ref=e151] [cursor=pointer]:
+              - /url: /vinfast-cars/
+              - img "Vinfast Cars" [ref=e154] [cursor=pointer]
+              - generic [ref=e155] [cursor=pointer]: Vinfast
+          - listitem [ref=e156]:
+            - link "Land Rover Cars Land Rover" [ref=e157] [cursor=pointer]:
+              - /url: /land-rover-cars/
+              - img "Land Rover Cars" [ref=e160] [cursor=pointer]
+              - generic [ref=e161] [cursor=pointer]: Land Rover
+          - listitem [ref=e162]:
+            - link "Jeep Cars Jeep" [ref=e163] [cursor=pointer]:
+              - /url: /jeep-cars/
+              - img "Jeep Cars" [ref=e166] [cursor=pointer]
+              - generic [ref=e167] [cursor=pointer]: Jeep
+          - listitem [ref=e168]:
+            - link "BYD Cars BYD" [ref=e169] [cursor=pointer]:
+              - /url: /byd-cars/
+              - img "BYD Cars" [ref=e172] [cursor=pointer]
+              - generic [ref=e173] [cursor=pointer]: BYD
+          - listitem [ref=e174]:
+            - link "Audi Cars Audi" [ref=e175] [cursor=pointer]:
+              - /url: /audi-cars/
+              - img "Audi Cars" [ref=e178] [cursor=pointer]
+              - generic [ref=e179] [cursor=pointer]: Audi
+          - listitem [ref=e180]:
+            - link "Nissan Cars Nissan" [ref=e181] [cursor=pointer]:
+              - /url: /nissan-cars/
+              - img "Nissan Cars" [ref=e184] [cursor=pointer]
+              - generic [ref=e185] [cursor=pointer]: Nissan
+          - listitem [ref=e186]:
+            - link "Volvo Cars Volvo" [ref=e187] [cursor=pointer]:
+              - /url: /volvo-cars/
+              - img "Volvo Cars" [ref=e190] [cursor=pointer]
+              - generic [ref=e191] [cursor=pointer]: Volvo
+          - listitem [ref=e192]:
+            - link "Porsche Cars Porsche" [ref=e193] [cursor=pointer]:
+              - /url: /porsche-cars/
+              - img "Porsche Cars" [ref=e196] [cursor=pointer]
+              - generic [ref=e197] [cursor=pointer]: Porsche
+          - listitem [ref=e198]:
+            - link "Tesla Cars Tesla" [ref=e199] [cursor=pointer]:
+              - /url: /tesla-cars/
+              - img "Tesla Cars" [ref=e202] [cursor=pointer]
+              - generic [ref=e203] [cursor=pointer]: Tesla
+          - listitem [ref=e204]:
+            - link "Lexus Cars Lexus" [ref=e205] [cursor=pointer]:
+              - /url: /lexus-cars/
+              - img "Lexus Cars" [ref=e208] [cursor=pointer]
+              - generic [ref=e209] [cursor=pointer]: Lexus
+          - listitem [ref=e210]:
+            - link "Rolls-Royce Cars Rolls-Royce" [ref=e211] [cursor=pointer]:
+              - /url: /rolls-royce-cars/
+              - img "Rolls-Royce Cars" [ref=e214] [cursor=pointer]
+              - generic [ref=e215] [cursor=pointer]: Rolls-Royce
+          - listitem [ref=e216]:
+            - link "Jaguar Cars Jaguar" [ref=e217] [cursor=pointer]:
+              - /url: /jaguar-cars/
+              - img "Jaguar Cars" [ref=e220] [cursor=pointer]
+              - generic [ref=e221] [cursor=pointer]: Jaguar
+          - listitem [ref=e222]:
+            - link "Lamborghini Cars Lamborghini" [ref=e223] [cursor=pointer]:
+              - /url: /lamborghini-cars/
+              - img "Lamborghini Cars" [ref=e226] [cursor=pointer]
+              - generic [ref=e227] [cursor=pointer]: Lamborghini
+          - listitem [ref=e228]:
+            - link "Ferrari Cars Ferrari" [ref=e229] [cursor=pointer]:
+              - /url: /ferrari-cars/
+              - img "Ferrari Cars" [ref=e232] [cursor=pointer]
+              - generic [ref=e233] [cursor=pointer]: Ferrari
+          - listitem [ref=e234]:
+            - link "MINI Cars MINI" [ref=e235] [cursor=pointer]:
+              - /url: /mini-cars/
+              - img "MINI Cars" [ref=e238] [cursor=pointer]
+              - generic [ref=e239] [cursor=pointer]: MINI
+          - listitem [ref=e240]:
+            - link "Force Motors Cars Force Motors" [ref=e241] [cursor=pointer]:
+              - /url: /force-motors-cars/
+              - img "Force Motors Cars" [ref=e244] [cursor=pointer]
+              - generic [ref=e245] [cursor=pointer]: Force Motors
+          - listitem [ref=e246]:
+            - link "Isuzu Cars Isuzu" [ref=e247] [cursor=pointer]:
+              - /url: /isuzu-cars/
+              - img "Isuzu Cars" [ref=e250] [cursor=pointer]
+              - generic [ref=e251] [cursor=pointer]: Isuzu
+          - listitem [ref=e252]:
+            - link "Maserati Cars Maserati" [ref=e253] [cursor=pointer]:
+              - /url: /maserati-cars/
+              - img "Maserati Cars" [ref=e256] [cursor=pointer]
+              - generic [ref=e257] [cursor=pointer]: Maserati
+          - listitem [ref=e258]:
+            - link "Aston Martin Cars Aston Martin" [ref=e259] [cursor=pointer]:
+              - /url: /aston-martin-cars/
+              - img "Aston Martin Cars" [ref=e262] [cursor=pointer]
+              - generic [ref=e263] [cursor=pointer]: Aston Martin
+          - listitem [ref=e264]:
+            - link "McLaren Cars McLaren" [ref=e265] [cursor=pointer]:
+              - /url: /mclaren-cars/
+              - img "McLaren Cars" [ref=e268] [cursor=pointer]
+              - generic [ref=e269] [cursor=pointer]: McLaren
+          - listitem [ref=e270]:
+            - link "Bentley Cars Bentley" [ref=e271] [cursor=pointer]:
+              - /url: /bentley-cars/
+              - img "Bentley Cars" [ref=e274] [cursor=pointer]
+              - generic [ref=e275] [cursor=pointer]: Bentley
+          - listitem [ref=e276]:
+            - link "Lotus Cars Lotus" [ref=e277] [cursor=pointer]:
+              - /url: /lotus-cars/
+              - img "Lotus Cars" [ref=e280] [cursor=pointer]
+              - generic [ref=e281] [cursor=pointer]: Lotus
+        - button "View Less Brands" [expanded] [ref=e282] [cursor=pointer]
+    - generic [ref=e284]: AD
+    - generic [ref=e285]:
+      - heading "Find The Cars Of Your Choice" [level=2] [ref=e287]
+      - generic [ref=e289]:
+        - list [ref=e292]:
+          - listitem [ref=e293]:
+            - generic [ref=e295] [cursor=pointer]: Budget
+          - listitem [ref=e297]:
+            - generic [ref=e299] [cursor=pointer]: Body Type
+          - listitem [ref=e300]:
+            - generic [ref=e302] [cursor=pointer]: Fuel Type
+          - listitem [ref=e303]:
+            - generic [ref=e305] [cursor=pointer]: Transmission
+          - listitem [ref=e306]:
+            - generic [ref=e308] [cursor=pointer]: Seating Capacity
+        - generic [ref=e312]:
+          - link "Under 5 Lakh" [ref=e313] [cursor=pointer]:
+            - /url: /new/best-cars-under-5-lakh/
+          - link "Under 6 Lakh" [ref=e314] [cursor=pointer]:
+            - /url: /new/best-cars-under-6-lakh/
+          - link "Under 7 Lakh" [ref=e315] [cursor=pointer]:
+            - /url: /new/best-cars-under-7-lakh/
+          - link "Under 8 Lakh" [ref=e316] [cursor=pointer]:
+            - /url: /new/best-cars-under-8-lakh/
+          - link "Under 10 Lakh" [ref=e317] [cursor=pointer]:
+            - /url: /new/best-cars-under-10-lakh/
+          - link "Under 15 Lakh" [ref=e318] [cursor=pointer]:
+            - /url: /new/best-cars-under-15-lakh/
+          - link "Under 20 Lakh" [ref=e319] [cursor=pointer]:
+            - /url: /new/best-cars-under-20-lakh/
+          - link "Under 25 Lakh" [ref=e320] [cursor=pointer]:
+            - /url: /new/best-cars-under-25-lakh/
+          - link "Under 30 Lakh" [ref=e321] [cursor=pointer]:
+            - /url: /new/best-cars-under-30-lakh/
+          - link "Luxury Cars" [ref=e322] [cursor=pointer]:
+            - /url: /new/best-luxury-cars/
+    - generic [ref=e324]: AD
+    - list [ref=e327]:
+      - listitem [ref=e328]:
+        - link "Home" [ref=e329] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e330] [cursor=pointer]: Home
+        - img [ref=e331]
+      - listitem [ref=e332]:
+        - generic [ref=e333]: New Cars
+  - generic [ref=e335] [cursor=pointer]:
+    - generic [ref=e336] [cursor=pointer]: Buying a New Car?
+    - generic [ref=e337] [cursor=pointer]: Ask the Experts
+    - generic [ref=e338] [cursor=pointer]: "08068441441"
+    - generic [ref=e339] [cursor=pointer]: (Toll free)
+    - img [ref=e341] [cursor=pointer]
+  - contentinfo [ref=e344]:
+    - generic [ref=e345]:
+      - generic [ref=e346]:
+        - generic [ref=e348]:
+          - text: "Language:"
+          - generic [ref=e349]: English
+          - link "हिंदी" [ref=e350] [cursor=pointer]:
+            - /url: /hi/new-cars/
+        - generic [ref=e351]:
+          - link "About Us" [ref=e353] [cursor=pointer]:
+            - /url: /about-us/
+          - link "Careers" [ref=e355] [cursor=pointer]:
+            - /url: /career/
+          - link "Terms & Conditions" [ref=e357] [cursor=pointer]:
+            - /url: /used/sell/terms/
+          - link "Advertise" [ref=e359] [cursor=pointer]:
+            - /url: /contactus/
+      - generic [ref=e361]:
+        - generic [ref=e362]:
+          - paragraph [ref=e363]: Connect with us
+          - generic [ref=e364]:
+            - link "Facebook" [ref=e365] [cursor=pointer]:
+              - /url: https://www.facebook.com/CarWale/
+              - img [ref=e366] [cursor=pointer]
+            - link "Twitter" [ref=e367] [cursor=pointer]:
+              - /url: https://twitter.com/carwale/
+              - img [ref=e368] [cursor=pointer]
+            - link "YouTube" [ref=e369] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/CARWALE/featured
+              - img [ref=e370] [cursor=pointer]
+            - link "LinkedIn" [ref=e371] [cursor=pointer]:
+              - /url: https://in.linkedin.com/company/automotive-exchange-private-limited-carwale-com-
+              - img [ref=e372] [cursor=pointer]
+            - link "Instagram" [ref=e373] [cursor=pointer]:
+              - /url: https://www.instagram.com/carwaleindia/?hl=en
+              - img [ref=e374] [cursor=pointer]
+        - generic [ref=e375]:
+          - paragraph [ref=e376]: Download Mobile App
+          - list [ref=e377]:
+            - listitem [ref=e378]:
+              - link "CarWale Android App Download CarWale iOS App" [ref=e379] [cursor=pointer]:
+                - /url: https://apps.apple.com/in/app/carwale-buy-new-used-cars/id910137745
+                - text: CarWale Android App
+                - img "Download CarWale iOS App" [ref=e381] [cursor=pointer]
+            - listitem [ref=e382]:
+              - link "CarWale Android App Download CarWale Android App" [ref=e383] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.carwale&referrer=utm_source%3DCarWaleMsite%26utm_medium%3DFooter%26utm_campaign=CarWale%2520MobilesiteFooter
+                - text: CarWale Android App
+                - img "Download CarWale Android App" [ref=e385] [cursor=pointer]
+    - generic [ref=e386]:
+      - img [ref=e387]
+      - list [ref=e390]:
+        - listitem [ref=e391]:
+          - generic [ref=e392]:
+            - text: CarWale
+            - img [ref=e393]
+        - listitem [ref=e396]:
+          - link "BikeWale" [ref=e397] [cursor=pointer]:
+            - /url: https://www.bikewale.com/
+            - text: BikeWale
+            - img [ref=e398] [cursor=pointer]
+        - listitem [ref=e404]:
+          - link "CarTrade" [ref=e405] [cursor=pointer]:
+            - /url: https://www.cartrade.com/
+            - text: CarTrade
+            - img [ref=e406] [cursor=pointer]
+        - listitem [ref=e408]:
+          - link "Mobility Outlook" [ref=e409] [cursor=pointer]:
+            - /url: https://www.mobilityoutlook.com/
+            - text: Mobility Outlook
+            - img [ref=e410] [cursor=pointer]
+        - listitem [ref=e414]:
+          - link "OLX" [ref=e415] [cursor=pointer]:
+            - /url: https://www.olx.in/
+            - text: OLX
+            - img [ref=e416] [cursor=pointer]
+        - listitem [ref=e418]:
+          - generic [ref=e419]:
+            - text: abSure
+            - img [ref=e420]
+    - generic [ref=e423]:
+      - paragraph [ref=e424]: ©CarTrade Tech.
+      - generic [ref=e425]:
+        - link "Visitor Agreement" [ref=e426] [cursor=pointer]:
+          - /url: /visitor-agreement/
+        - text: "&"
+        - link "Privacy Policy" [ref=e427] [cursor=pointer]:
+          - /url: /privacy-policy/
+  - generic [ref=e428]:
+    - generic [ref=e429]:
+      - generic [ref=e430]:
+        - paragraph [ref=e431]: Login to CarWale
+        - paragraph [ref=e432]: Login to CarWale for a more personalised experience
+      - button "Close Popup" [ref=e433] [cursor=pointer]:
+        - img [ref=e434] [cursor=pointer]
+    - generic [ref=e436]:
+      - generic [ref=e437]:
+        - generic [ref=e440]:
+          - generic: Contact Number*
+          - generic [ref=e441]: "+91"
+          - textbox "Input field" [ref=e442]
+          - group "Contact Number*"
+        - button "Get OTP" [ref=e443] [cursor=pointer]
+      - generic [ref=e446]: Or Continue with
+      - generic [ref=e449] [cursor=pointer]:
+        - img "Whatsapp" [ref=e452] [cursor=pointer]
+        - generic [ref=e453] [cursor=pointer]: Whatsapp
+```
